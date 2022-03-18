@@ -1,0 +1,955 @@
+id,timestamp,email,fullname,firstname,surname,friends,teachers
+1,12:08:28 PM,krueger.deja@madisonps.org,Deja Krueger,Deja,Krueger,Roger Giles|Isla Pope|Sherlyn Tran|Tatum Gentry|Abel Jacobs,Mr. Dalton|Mr. Richmond|Mr. Edwards
+2,9:23:34 AM,herring.elise@madisonps.org,Elise Herring,Elise,Herring,Nikolai Oconnor,Mrs. Schaefer|Mr. Campbell|Mrs. Strong|Mr. Figueroa
+3,8:47:59 AM,sellers.nickolas@madisonps.org,Nickolas Sellers,Nickolas,Sellers,Ingrid Cantu|Taylor Schwartz,Mrs. Maddox|Mrs. Strong|Mrs. Lam
+4,2:05:09 AM,trujillo.ariana@madisonps.org,Ariana Trujillo,Ariana,Trujillo,Elian Ryan|Sage Ellis|Atticus Lee|Serena Mullins|Halle Green,Mr. Mcfarland|Mr. Collins|Mrs. Maddox|Mrs. Lam|Mrs. Chang
+5,3:56:09 PM,hanson.ann@madisonps.org,Ann Hanson,Ann,Hanson,,Mr. Webb|Mr. Reed|Mrs. Hickman|Mr. Reed|Mrs. Walton
+6,8:37:22 AM,hunt.thalia@madisonps.org,Thalia Hunt,Thalia,Hunt,Josiah Allen|Amare Weiss|Damon Graham,Mr. Gentry|Mrs. Costa|Mr. Vazquez|Mr. Gillespie|Mr. Reed
+7,4:54:44 AM,wiley.marley@madisonps.org,Marley Wiley,Marley,Wiley,Faith Stokes|Elian Ryan|Savanna Lawson|Noah Taylor,Mrs. Wade
+8,9:06:31 AM,lowe.peyton@madisonps.org,Peyton Lowe,Peyton,Lowe,Danika Gray|Gia Love|Hazel Morrison|Reid Mueller|Reece Morgan,Mrs. Flynn|Mrs. Velez
+9,9:23:01 AM,glenn.charlie@madisonps.org,Charlie Glenn,Charlie,Glenn,Billy Choi|Nickolas Mays|Isla Pope|Tripp Bradford|Dulce Osborn,Mrs. Hickman|Mrs. Nixon|Mrs. Lucas|Mr. Braun|Mrs. Wood
+10,12:31:34 AM,bonilla.tianna@madisonps.org,Tianna Bonilla,Tianna,Bonilla,Jamie Thornton|Marco Fry|Allie Hall|Zion Bird|Kylan Wells,Mrs. Hammond|Mr. Lowe|Mrs. Luna
+11,2:52:02 PM,shannon.marie@madisonps.org,Marie Shannon,Marie,Shannon,Gia Love|Keyon Chen|Jovanni Abbott|Finnegan Small|Yasmin Burgess,Mrs. Flynn|Mr. Floyd|Mrs. Rollins|Mr. Willis
+12,11:56:14 AM,wells.cole@madisonps.org,Cole Wells,Cole,Wells,Lydia Owens,Mr. Braun|Mrs. Strong|Mrs. Maddox
+13,3:45:52 AM,lester.lyric@madisonps.org,Lyric Lester,Lyric,Lester,Keagan Daugherty|Michaela Gibbs,Mr. Huffman|Mr. Vazquez|Mrs. Wood
+14,11:13:03 PM,navarro.mia@madisonps.org,Mia Navarro,Mia,Navarro,Ross Oliver|Esperanza Velasquez|Jameson Beasley|Kamora Perez|Keyla Hopkins,Mrs. Luna|Mrs. Schaefer|Mrs. Strong|Mr. Huffman
+15,5:44:35 AM,whitaker.frida@madisonps.org,Frida Whitaker,Frida,Whitaker,Kaiden Erickson|Ryan Solomon|Zaiden Chang|Aracely Branch|Charles Morrow,Mrs. Lam|Mrs. Savage|Mrs. Holt
+16,1:02:13 PM,bernard.carmelo@madisonps.org,Carmelo Bernard,Carmelo,Bernard,Samara Schmitt|Harley Johns|Danny Bonilla,Mrs. Braun|Mr. Miles|Mrs. Velez|Mr. Braun|Mrs. Ferrell
+17,11:21:47 AM,summers.vaughn@madisonps.org,Vaughn Summers,Vaughn,Summers,Justin Jacobs|Brennen Cannon|Ali Pearson|Anika Rojas,Mr. Gentry|Mr. Roberts|Mr. Patrick|Mr. Mcfarland|Mrs. Flynn
+18,7:08:37 AM,hall.kane@madisonps.org,Kane Hall,Kane,Hall,Jamal Johnston|Alexis Salazar|Jason Choi|Yasmin Burgess|Chaim Terry,Mrs. Hahn|Mrs. Hahn|Mrs. Holt|Mrs. Braun|Mrs. Chang
+19,5:47:20 AM,mccarthy.vance@madisonps.org,Vance Mccarthy,Vance,Mccarthy,Romeo Carrillo|Jayvon Mcgrath|Zachery Mathews|Abby Blackburn|Cynthia Porter,Mrs. Chang
+20,11:19:30 AM,montoya.steven@madisonps.org,Steven Montoya,Steven,Montoya,Matilda Hickman|Elsa Stewart|Cynthia Porter|Shawn Nguyen|Damarion Craig,Mrs. Lucas|Mrs. Sanchez
+21,5:32:11 PM,brandt.deanna@madisonps.org,Deanna Brandt,Deanna,Brandt,Brooks Ford|Peyton Snyder|Jane Logan|Caitlyn Raymond|Carson Walker,Mr. Gonzales|Mr. Costa|Mr. Cook|Mr. Caldwell|Mr. Frazier
+22,12:14:52 PM,hamilton.ethen@madisonps.org,Ethen Hamilton,Ethen,Hamilton,Seth Woods,Mr. Farmer|Mr. Richmond|Mr. King
+23,1:10:42 AM,holden.cloe@madisonps.org,Cloe Holden,Cloe,Holden,Gaven Costa|Mariah Gilmore,Mr. Costa|Mr. Gentry|Mr. Caldwell|Mr. Graham
+24,5:03:56 AM,edwards.rosemary@madisonps.org,Rosemary Edwards,Rosemary,Edwards,Nathaly Dean|Grayson Floyd|Joselyn Good|Libby Sawyer|Alyssa Armstrong,Mr. Merritt|Mrs. Gutierrez|Mrs. Hunt
+25,5:53:59 PM,santana.dillon@madisonps.org,Dillon Santana,Dillon,Santana,Charlee Carney|Stephanie Sanchez|Dayami Gray|Marco Fry|Garrett Chavez,Mrs. Braun|Mrs. Wade|Mrs. Conley
+26,2:33:01 AM,marks.hector@madisonps.org,Hector Marks,Hector,Marks,Tara Richmond|Clayton Trevino|Tanya Little,Mr. Montoya|Mrs. Costa|Mr. King|Mr. Webb
+27,12:41:48 AM,hayes.joyce@madisonps.org,Joyce Hayes,Joyce,Hayes,Allen Durham|Lindsay Levine|Wesley Lozano|Mireya Webb,Mrs. Mosley|Mrs. Chang|Mrs. Rollins
+28,4:52:24 AM,knapp.jaydon@madisonps.org,Jaydon Knapp,Jaydon,Knapp,Calvin Garrison|Danna Ayers|Joaquin Adams|Mattie Gallegos|Amelie Kent,Mrs. Costa|Mrs. Hahn|Mr. Gillespie|Mrs. Blackburn|Mr. Edwards
+29,10:28:27 AM,waller.luis@madisonps.org,Luis Waller,Luis,Waller,Owen Beard|Daniela Jimenez|Jayleen Vincent|Brycen Golden|Mercedes Dominguez,Mr. Costa|Mrs. Maddox|Mr. Braun|Mr. Mcguire|Mrs. Walton
+30,1:03:29 AM,castillo.alonzo@madisonps.org,Alonzo Castillo,Alonzo,Castillo,Nickolas Mays|Elise Herring|Yadira Hodge|Edgar Kelly|Kiersten Joseph,Mr. Campbell|Mr. Huffman|Mrs. Chavez|Mr. Lucero|Mr. Schaefer
+31,4:16:11 AM,sexton.tatiana@madisonps.org,Tatiana Sexton,Tatiana,Sexton,Kristian Frey|Salvatore Sloan|Elise Herring|Faith Torres|Tiana Weiss,Mr. Miles
+32,9:38:13 PM,cannon.brennen@madisonps.org,Brennen Cannon,Brennen,Cannon,Pierce Pittman,Mr. Livingston|Mrs. Lam
+33,9:44:26 AM,cameron.raina@madisonps.org,Raina Cameron,Raina,Cameron,Dallas Best|Xzavier Booker,Mrs. Strong|Mrs. Bentley|Mr. Mcfarland|Mr. Mcfarland|Mrs. Gutierrez
+34,8:24:27 AM,hughes.dylan@madisonps.org,Dylan Hughes,Dylan,Hughes,Caleb Singleton|Evangeline Walsh|Miley Merritt|Avah Harding|Carmelo Bernard,Mr. Dalton|Mrs. Savage|Mrs. Schaefer
+35,5:56:56 PM,hensley.dalia@madisonps.org,Dalia Hensley,Dalia,Hensley,Maurice Solomon|Myles Estes|Mireya Webb|Noelle Phillips|Maxim Davenport,Mr. Huffman|Mrs. Parsons|Mrs. Bentley|Mr. Vasquez
+36,4:31:12 PM,rangel.milton@madisonps.org,Milton Rangel,Milton,Rangel,Roman Shepard|Gabriella Cook|Karissa Wheeler,Mr. Cook|Mrs. Rollins|Mrs. Wall
+37,8:19:10 PM,harmon.hamza@madisonps.org,Hamza Harmon,Hamza,Harmon,Dalia Hensley|Brennen Cannon|Jayvon Salazar|Kaydence Fernandez,Mr. Thompson|Mrs. Francis|Mrs. Schaefer
+38,6:51:56 AM,salazar.christian@madisonps.org,Christian Salazar,Christian,Salazar,Nathanial Gilbert|Jason Lin|Tommy Cabrera|Hayley Mathis|Raelynn Dennis,Mrs. Hammond|Mrs. Walton|Mrs. Wade|Mr. Collins
+39,6:25:48 AM,orr.sara@madisonps.org,Sara Orr,Sara,Orr,Matias Herrera|Keyon Chen|Braedon Madden|Zion Hess|Meadow Bell,Mrs. Chang|Mr. Gentry|Mrs. Conley
+40,8:13:55 AM,andrade.jaydon@madisonps.org,Jaydon Andrade,Jaydon,Andrade,Averi Barr|Deshawn Gillespie|Matias Herrera|Daniela Jimenez|Aaliyah Burns,Mrs. Chandler|Mr. Roberts|Mr. Mcguire|Mr. Gonzales|Mr. Mcfarland
+41,10:16:02 AM,bentley.princess@madisonps.org,Princess Bentley,Princess,Bentley,Kaylee Vincent|Kiersten Joseph|Yadiel Roberson|Jacoby Pope|Stephanie Sanchez,Mr. Dorsey|Mrs. Lawson|Mr. Gentry|Mr. Graham|Mrs. Nixon
+42,11:47:10 PM,santana.noelle@madisonps.org,Noelle Santana,Noelle,Santana,Vance Mccarthy,Mrs. Blackburn|Mr. Kemp|Mrs. Holt|Mrs. Lam|Mr. Lucero
+43,4:19:18 AM,wells.kylan@madisonps.org,Kylan Wells,Kylan,Wells,Kenna Landry|Tristan Duncan,Mrs. Solomon
+44,4:00:24 PM,carr.johan@madisonps.org,Johan Carr,Johan,Carr,Danica Hansen|Kaydence Fernandez|Casey Hernandez|Sofia Rodriguez|Ryan Barton,Mrs. Wade|Mrs. Francis
+45,1:52:07 AM,contreras.jorge@madisonps.org,Jorge Contreras,Jorge,Contreras,Savanna Chang|Bailey Russell|Maximo Hogan|Jason Lin|Oscar Olson,Mrs. Costa|Mrs. Chandler|Mrs. Velez|Mr. Lowe|Mr. Lowe
+46,7:39:04 AM,beltran.ronald@madisonps.org,Ronald Beltran,Ronald,Beltran,Ross Oliver|Harper Olsen|Jameson Beasley,Mrs. Hammond|Mrs. Costa|Mrs. Gutierrez
+47,11:40:08 PM,singleton.caleb@madisonps.org,Caleb Singleton,Caleb,Singleton,Jadiel Kennedy|Morgan Rangel|Raelynn Dennis|Areli Lang,Mr. Reed|Mrs. Pugh|Mrs. Francis|Mr. Caldwell
+48,10:20:21 PM,choi.billy@madisonps.org,Billy Choi,Billy,Choi,Kaylen Bush|Beckham Morales|Talia Ingram|Magdalena Yang|Willow Cordova,Mrs. Chang|Mrs. Rollins|Mr. Lucero
+49,5:53:09 AM,hart.jalen@madisonps.org,Jalen Hart,Jalen,Hart,Justin Jacobs|Salvador Schaefer|Mohamed Mack|Matthias Cline|Ava Sullivan,Mrs. Costa|Mr. Dorsey|Mr. Gillespie
+50,12:05:13 AM,hawkins.vicente@madisonps.org,Vicente Hawkins,Vicente,Hawkins,Elle Lindsey|Ulises Mullen|Matilda Hickman|Jessica Frank|Kody Davenport,Mrs. Chandler|Mrs. Holt|Mr. Webb|Mr. Huffman
+51,7:27:26 PM,mathews.kai@madisonps.org,Kai Mathews,Kai,Mathews,Tatiana Sexton|Miah Vincent|Gabriella Cook|Kody Davenport|Marcos Mills,Mrs. Kane|Mrs. Blackburn|Mrs. Wall
+52,1:24:53 PM,miller.elise@madisonps.org,Elise Miller,Elise,Miller,Grayson Floyd,Mr. Figueroa|Mr. Huffman|Mr. Costa|Mr. Roberts|Mr. Lowe
+53,3:13:25 PM,bell.princess@madisonps.org,Princess Bell,Princess,Bell,Charlie Glenn|Vance Sloan,Mrs. Savage|Mr. Marshall|Mr. Dalton|Mr. Willis|Mr. Patrick
+54,6:17:17 PM,brandt.darius@madisonps.org,Darius Brandt,Darius,Brandt,Amiah Berger|Dereon Barrera|Casey Hernandez|Magdalena Yang|Marley Johnston,Mr. Suarez|Mrs. Luna|Mrs. Chavez|Mr. Collins|Mr. Montoya
+55,2:41:25 PM,levine.lindsay@madisonps.org,Lindsay Levine,Lindsay,Levine,Leonard Campbell|Lydia Hutchinson|Taylor Mccullough|Makaila Clay|Halle Green,Mrs. Marquez
+56,9:52:30 AM,mahoney.emilie@madisonps.org,Emilie Mahoney,Emilie,Mahoney,Aedan Mercer|Cannon Lee|Fabian Taylor,Mr. Huffman|Mrs. Drake
+57,6:29:18 PM,johnston.marley@madisonps.org,Marley Johnston,Marley,Johnston,Edgar Valenzuela|Erik Hanson|Sofia Rodriguez|Jayvon Salazar,Mr. Floyd|Mrs. Parsons|Mr. King|Mr. Terrell|Mr. Marshall
+58,6:21:47 PM,johns.harley@madisonps.org,Harley Johns,Harley,Johns,Bradyn Meyers|Yasmin Hodge|Fernanda Tucker|Ainsley Marsh|Zackery Galloway,Mrs. Holt|Mr. Vasquez|Mrs. Maddox
+59,12:58:11 PM,stone.keon@madisonps.org,Keon Stone,Keon,Stone,Dax Ross|Davion Garrett|Jason Benitez|Yadiel Roberson|Kimberly Hatfield,Mr. Suarez|Mrs. Sanchez|Mr. Mcguire|Mrs. Sanchez
+60,10:11:25 PM,mack.keagan@madisonps.org,Keagan Mack,Keagan,Mack,Gideon Patrick|Thalia Hunt|Killian Hunt|Princess Bell|Josh Trujillo,Mr. Terrell|Mr. Floyd|Mr. Schaefer
+61,5:33:30 PM,green.halle@madisonps.org,Halle Green,Halle,Green,Noe Riddle|Raina Noble|Damari Chung|Stanley Zavala|Iris West,Mr. Graham|Mrs. Marquez|Mrs. Savage
+62,8:07:12 PM,shelton.leonel@madisonps.org,Leonel Shelton,Leonel,Shelton,Kamila Contreras,Mrs. Blackburn|Mr. Costa|Mr. Floyd|Mrs. Schaefer
+63,4:02:51 PM,parsons.baylee@madisonps.org,Baylee Parsons,Baylee,Parsons,Amare Norris|Tyler Browning,Mrs. Wade|Mr. Carey|Mrs. Savage
+64,1:58:48 PM,mason.gilbert@madisonps.org,Gilbert Mason,Gilbert,Mason,Isabelle Cordova|Roderick Decker|Mark Dudley|Yahir Hahn|Paisley Booker,Mrs. Braun|Mr. Terrell|Mrs. Lucas|Mrs. Kane|Mrs. Braun
+65,5:14:40 AM,stuart.eva@madisonps.org,Eva Stuart,Eva,Stuart,Grayson Floyd|Dayami Bernard|Malik Pham|Anastasia Turner|Kathy Levy,Mrs. Wall|Mr. Huffman|Mr. Miles|Mr. Terrell|Mrs. Holt
+66,2:47:27 AM,noble.raina@madisonps.org,Raina Noble,Raina,Noble,Catalina Wood|Marcel Pacheco|Deshawn Gillespie,Mrs. Pollard|Mrs. Walton|Mr. Farmer|Mr. Costa|Mr. Terrell
+67,8:23:37 AM,warren.tristen@madisonps.org,Tristen Warren,Tristen,Warren,Nathan Wright|Camille Bond|Raphael Pacheco|Adalyn Steele,Mr. Kemp
+68,8:32:15 AM,stewart.elsa@madisonps.org,Elsa Stewart,Elsa,Stewart,Damarion Craig|Lana Velazquez|Deja Krueger|Raegan Rush|Giovanny Hill,Mrs. Holt|Mr. Mcfarland
+69,5:46:57 PM,schmitt.lisa@madisonps.org,Lisa Schmitt,Lisa,Schmitt,Dania Benson|Zayden Oconnell|Ahmad Meza|Marie Shannon|Zara Jarvis,Mrs. Luna|Mrs. Hunt|Mr. Caldwell|Mrs. Parsons|Mr. Marshall
+70,11:21:52 PM,hall.allie@madisonps.org,Allie Hall,Allie,Hall,Jada Walls|Shirley Haas|Cortez Savage|Lyla Martinez|Amiah Berger,Mrs. Hickman|Mr. Gillespie|Mrs. Chavez
+71,10:52:14 AM,rangel.morgan@madisonps.org,Morgan Rangel,Morgan,Rangel,Nathanael Patrick|Raegan Rush|Joslyn Mathews|Eleanor Hahn|Damari Chung,Mrs. Chandler|Mrs. Hunt|Mrs. Oliver|Mr. Mcguire
+72,9:26:22 PM,horn.macey@madisonps.org,Macey Horn,Macey,Horn,Maren Harmon,Mr. Braun|Mrs. Solomon|Mrs. Nixon
+73,12:00:57 PM,blake.salma@madisonps.org,Salma Blake,Salma,Blake,Clara Vasquez|Ireland Fitzgerald,Mrs. Flynn|Mrs. Walton|Mr. Gibson
+74,6:43:53 AM,hull.anika@madisonps.org,Anika Hull,Anika,Hull,Ricardo Sawyer|Maximus Mckay|Shamar Fields|Liana Bullock|Clarissa Sanchez,Mr. Gentry|Mr. Huffman|Mrs. Wade|Mr. Hester
+75,11:53:25 PM,harrington.ray@madisonps.org,Ray Harrington,Ray,Harrington,Leonard Campbell|Nathaly Dean|Marcel Pacheco|Danna Ayers|Roger Giles,Mrs. Nixon|Mrs. Rollins|Mrs. Mcmillan
+76,1:33:00 PM,fields.shamar@madisonps.org,Shamar Fields,Shamar,Fields,Damion Stone|George Poole|Leonel Garrett,Mr. Gentry|Mr. Vazquez|Mrs. Maddox|Mrs. Flynn|Mrs. Walton
+77,6:19:51 PM,zhang.autumn@madisonps.org,Autumn Zhang,Autumn,Zhang,Kimberly Hatfield|Keyla Hopkins|Tara Richmond|Hector Marks,Mr. Costa|Mrs. Mosley|Mrs. Velez|Mr. Miles|Mr. Campbell
+78,2:22:18 PM,arias.jaiden@madisonps.org,Jaiden Arias,Jaiden,Arias,Muhammad Adams|Amelie Griffin|Jaylynn Ponce|Erik Hanson|Pedro Harris,Mrs. Braun|Mr. Mcfarland|Mr. Edwards|Mrs. Mcmillan|Mrs. Savage
+79,3:13:03 PM,henry.devin@madisonps.org,Devin Henry,Devin,Henry,Gilbert Mason|Jerimiah Newton|Zander Roman|Tiana Weiss|Jayla Martinez,Mr. Frazier
+80,6:46:06 PM,andrews.donna@madisonps.org,Donna Andrews,Donna,Andrews,Haiden Mahoney|Mercedes Dominguez|Brooks Caldwell|Kassidy Levy|Tomas Chapman,Mrs. Francis|Mrs. Hahn
+81,1:02:59 AM,best.dallas@madisonps.org,Dallas Best,Dallas,Best,Kathleen Rice|Tatiana Sexton|Anika Rojas|Yadira Hodge|Shamar Fields,Mr. Roberts|Mrs. Holt|Mrs. Lam|Mr. Mcguire|Mr. Cabrera
+82,8:20:11 PM,bray.jorden@madisonps.org,Jorden Bray,Jorden,Bray,Elaina Bennett,Mr. Rose|Mrs. Wood|Mrs. Wall
+83,4:21:08 AM,mcknight.gia@madisonps.org,Gia Mcknight,Gia,Mcknight,Alena Christian|Bryson Thornton,Mr. Morrow|Mrs. Wade|Mrs. Oliver|Mr. Cook
+84,3:10:10 PM,barnes.salma@madisonps.org,Salma Barnes,Salma,Barnes,Marley Wiley|Baylee Parsons|Tianna Underwood|Billy Bauer|Monique Schwartz,Mrs. Mosley|Mr. Gibson|Mrs. Reid
+85,11:15:57 AM,elliott.dominique@madisonps.org,Dominique Elliott,Dominique,Elliott,Moses Lambert|Amelie Griffin|Jessie Flynn|Brooks Caldwell|Ada Gaines,Mrs. Savage|Mrs. Drake|Mrs. Holt
+86,9:19:34 PM,austin.angela@madisonps.org,Angela Austin,Angela,Austin,Evangeline Walsh|Dalton Chandler|Ayden Woodward,Mrs. Solomon|Mr. Braun|Mr. Kemp|Mr. Merritt
+87,4:30:36 AM,richmond.tara@madisonps.org,Tara Richmond,Tara,Richmond,Liberty Hardin|Jaydan Alvarez|Rihanna Pacheco|Jade Moses,Mrs. Drake|Mr. Campbell|Mr. Vazquez
+88,1:57:59 PM,houston.kevin@madisonps.org,Kevin Houston,Kevin,Houston,Amber Ford|Jaylynn Ponce|Aracely Branch|Karissa Wheeler|Eden Hart,Mr. Farmer|Mrs. Walton|Mrs. Walton|Mrs. Lam|Mrs. Blackburn
+89,6:43:50 PM,lang.areli@madisonps.org,Areli Lang,Areli,Lang,Roman Shepard|Magdalena Yang|Marely Fuentes|Marlie Garza|Pierce Lynch,Mrs. Marquez|Mrs. Maddox|Mr. Patrick|Mrs. Lawson|Mrs. Hahn
+90,1:48:05 AM,blake.izabelle@madisonps.org,Izabelle Blake,Izabelle,Blake,Albert Key|Jenny Decker|Yareli Irwin|Jocelynn Gentry|Katelyn Benton,Mrs. Savage|Mr. Young|Mrs. Chang|Mrs. Nixon|Mrs. Chang
+91,2:14:40 AM,kaufman.preston@madisonps.org,Preston Kaufman,Preston,Kaufman,Jolie Mata|Aaliyah Burns|Leonidas Tyler|Keyla Hopkins|Myles Estes,Mr. Roberts
+92,10:17:46 PM,hurley.annalise@madisonps.org,Annalise Hurley,Annalise,Hurley,Zara Jarvis,Mr. Braun|Mrs. Pollard
+93,10:50:49 PM,fuentes.marely@madisonps.org,Marely Fuentes,Marely,Fuentes,Frances Berry|Jalen Ortega,Mr. Graham|Mr. Costa|Mr. Dorsey|Mrs. Oliver|Mrs. Chang
+94,11:06:01 AM,torres.faith@madisonps.org,Faith Torres,Faith,Torres,Billy Bauer|Lana Velazquez|Samara Schmitt|Magdalena Yang|Talia Ingram,Mrs. Parsons|Mrs. Wall|Mrs. Hahn
+95,8:00:38 PM,proctor.kristian@madisonps.org,Kristian Proctor,Kristian,Proctor,Liana Frederick|Sophia Brewer|Kamora Perez|Ciara Morales|Mckinley Blair,Mr. Lucero|Mr. Dalton|Mrs. Braun|Mrs. Velez
+96,3:49:18 AM,montgomery.maren@madisonps.org,Maren Montgomery,Maren,Montgomery,Jolie Mata|Hamza Harmon|Jovani Arellano,Mr. King|Mrs. Schaefer|Mrs. Wade
+97,8:25:21 PM,irwin.yareli@madisonps.org,Yareli Irwin,Yareli,Irwin,Yamilet Collins|Amaya Cuevas|Chasity Shea|Serena Mullins,Mrs. Costa|Mr. Farmer|Mr. Gonzales
+98,1:34:24 PM,flynn.jessie@madisonps.org,Jessie Flynn,Jessie,Flynn,Matilda Hickman|Macey Horn|Rosemary Edwards|Nicolas David|Tyler Browning,Mrs. Harvey|Mr. Rose|Mr. Webb|Mr. Marshall
+99,4:22:17 PM,gaines.giada@madisonps.org,Giada Gaines,Giada,Gaines,Shania Ware|Madeleine Benson|Juan Parsons|June Lopez|Camryn Ali,Mrs. Oliver|Mr. Marshall|Mr. Thompson
+100,9:52:04 PM,davenport.maxim@madisonps.org,Maxim Davenport,Maxim,Davenport,Maggie Nash|Juliet Chaney|Gaven Costa|Hamza Harmon|Nasir Warren,Mr. Hester|Mr. Vazquez|Mr. Roberts|Mr. Lucero|Mr. Huffman
+101,10:49:50 PM,cunningham.amirah@madisonps.org,Amirah Cunningham,Amirah,Cunningham,Cole Wells|Brooks Caldwell|Jaiden Arias|Linda Hensley|Danika Gray,Mr. Merritt|Mrs. Ferrell|Mr. Livingston|Mr. Edwards|Mrs. Wall
+102,10:20:52 PM,strong.rosemary@madisonps.org,Rosemary Strong,Rosemary,Strong,Tamia Romero,Mrs. Schaefer|Mrs. Holt|Mrs. Solomon|Mr. Carey|Mr. Braun
+103,11:14:45 AM,owens.lucia@madisonps.org,Lucia Owens,Lucia,Owens,Brooks Ford|Aiyana Gordon,Mrs. Harvey
+104,1:25:50 AM,schaefer.salvador@madisonps.org,Salvador Schaefer,Salvador,Schaefer,Dayana Rodriguez|Areli Lang|Crystal Grant|Zayden Oconnell|Ally Hawkins,Mrs. Mcmillan|Mr. Lucero
+105,10:54:36 AM,schmitt.samara@madisonps.org,Samara Schmitt,Samara,Schmitt,Tatum Gentry|Gloria Nunez|Alaina Rogers|Brooks Caldwell|Tanya Finley,Mrs. Lam|Mr. Young|Mr. Campbell|Mr. Morrow|Mr. Figueroa
+106,4:13:54 PM,washington.cortez@madisonps.org,Cortez Washington,Cortez,Washington,Killian Hunt|Mekhi Dunn|Cory Silva,Mr. Willis|Mrs. Bentley|Mr. Marshall
+107,12:34:25 PM,harmon.maren@madisonps.org,Maren Harmon,Maren,Harmon,Shaun Knight|Leonel Blackburn|Brooks Caldwell|Liana Frederick,Mr. Campbell|Mr. Floyd|Mrs. Lam|Mr. Carey
+108,10:55:19 PM,roy.carolyn@madisonps.org,Carolyn Roy,Carolyn,Roy,Ross Oliver|Kassidy Levy|Ciara Wyatt|Xzavier Booker|Lamar Murillo,Mr. Gibson|Mrs. Marquez|Mrs. Lucas
+109,12:51:38 PM,thornton.jamie@madisonps.org,Jamie Thornton,Jamie,Thornton,Rubi Lara|Noelle Archer|Rubi Lara|Savannah Spencer|Joyce Hayes,Mr. Braun|Mr. Lucero|Mrs. Holt
+110,8:46:30 AM,espinoza.carleigh@madisonps.org,Carleigh Espinoza,Carleigh,Espinoza,Royce Haney|Izaiah Barry|Mariam Cohen|Giada Gaines|Alaina Rogers,Mrs. Braun|Mrs. Rollins|Mr. Mcguire|Mrs. Hahn
+111,11:45:18 PM,lee.atticus@madisonps.org,Atticus Lee,Atticus,Lee,Tiana Weiss|Jadiel Kennedy|Ciara Morales|Dayana Rodriguez|Malakai Ochoa,Mr. Richmond|Mr. Lucero|Mrs. Francis
+112,5:54:05 PM,petersen.tess@madisonps.org,Tess Petersen,Tess,Petersen,Jillian Armstrong,Mrs. Ferrell|Mr. Cook|Mrs. Huynh|Mr. Lowe|Mrs. Luna
+113,5:49:21 PM,tapia.monserrat@madisonps.org,Monserrat Tapia,Monserrat,Tapia,Nathanial Gilbert|Bentley Morrow,Mrs. Harvey|Mr. Cabrera|Mrs. Oliver|Mr. Merritt|Mr. Patrick
+114,8:53:07 AM,mckay.easton@madisonps.org,Easton Mckay,Easton,Mckay,Braelyn Melton|Juliana Thornton|Maximus Mckay|Nayeli Vang|Fletcher Hanna,Mrs. Holt|Mrs. Velez|Mr. Dalton|Mr. King|Mr. Gonzales
+115,6:52:32 AM,summers.grayson@madisonps.org,Grayson Summers,Grayson,Summers,Terry Mcclain|Jeffery Goodman|Madilyn Bernard|Tristan Duncan|Carleigh Espinoza,Mrs. Drake
+116,12:20:04 AM,ware.alejandra@madisonps.org,Alejandra Ware,Alejandra,Ware,Peter Shea|Allie Hall|Rosemary Strong,Mrs. Velez|Mr. Dorsey
+117,10:44:24 PM,ingram.talia@madisonps.org,Talia Ingram,Talia,Ingram,Hector Marks|Briley Robinson|Tamia Nunez|Oscar Olson,Mr. Patrick|Mrs. Braun|Mr. Miles|Mr. Willis|Mr. Vasquez
+118,11:42:21 PM,nunez.tamia@madisonps.org,Tamia Nunez,Tamia,Nunez,Melody Marsh|Sierra Paul|Nathan Wright|Keyla Hopkins|Cohen Benton,Mr. Lucero|Mr. Cook|Mr. Thompson
+119,2:33:39 PM,velasquez.esperanza@madisonps.org,Esperanza Velasquez,Esperanza,Velasquez,Mia Navarro|Isaiah Herman|Leonel Shelton|Nylah York|Jaidyn Nolan,Mrs. Wade|Mr. Dalton|Mrs. Lawson|Mr. Marshall
+120,11:56:14 AM,mccall.marlie@madisonps.org,Marlie Mccall,Marlie,Mccall,Winston Vasquez|Jadyn Gardner|Nicolas Huff|Jalen Hart|Milton Rangel,Mr. Kemp|Mr. Cook|Mrs. Mosley
+121,2:05:47 AM,bernard.madilyn@madisonps.org,Madilyn Bernard,Madilyn,Bernard,Addison Logan|Maurice Solomon|Reina Moses|Winston Vasquez|Zaiden Chang,Mrs. Wall|Mr. Lowe|Mrs. Pugh
+122,9:09:43 PM,booth.nicolas@madisonps.org,Nicolas Booth,Nicolas,Booth,Brycen Golden,Mr. Montoya|Mrs. Savage|Mrs. Wood|Mr. Marshall
+123,9:27:38 PM,schaefer.mya@madisonps.org,Mya Schaefer,Mya,Schaefer,Ezequiel Walls|Pedro Harris,Mr. Gonzales|Mrs. Wade|Mr. Merritt
+124,2:34:24 AM,gillespie.wade@madisonps.org,Wade Gillespie,Wade,Gillespie,Ronald Beltran|Amare Norris|Saige Hansen|Malik Pham|Lydia Hutchinson,Mrs. Lam|Mr. Marshall|Mrs. Lawson|Mr. Gentry|Mr. Kemp
+125,12:33:04 AM,frey.paula@madisonps.org,Paula Frey,Paula,Frey,Andre Gilbert|Jacey Bryant|Braelyn Melton|Santos Kaufman|Evie Thornton,Mr. Kemp|Mr. Terrell|Mr. Vasquez|Mr. Frazier|Mrs. Schaefer
+126,6:53:53 AM,franco.dayami@madisonps.org,Dayami Franco,Dayami,Franco,Amirah Cunningham|Aron Perkins|Jason Lin,Mrs. Bentley|Mrs. Maddox|Mrs. Hammond|Mr. Merritt|Mrs. Reid
+127,2:12:18 AM,werner.sam@madisonps.org,Sam Werner,Sam,Werner,Scarlet Duke|Mariyah Rollins|Wade Gillespie|Joy Kramer,Mrs. Hunt
+128,4:10:11 AM,mcclain.aarav@madisonps.org,Aarav Mcclain,Aarav,Mcclain,Kadence Lester|Danna Ayers|Ethen Hamilton|Malachi Owen|Princess Bentley,Mr. Costa|Mr. Roberts
+129,5:21:50 AM,bray.lawson@madisonps.org,Lawson Bray,Lawson,Bray,Amara Meadows|Edgar Valenzuela|Pamela Ayala|Nayeli Gibson|Eva Stuart,Mr. Cook|Mrs. Strong|Mr. Campbell|Mrs. Solomon|Mr. Braun
+130,4:08:55 PM,newman.aliyah@madisonps.org,Aliyah Newman,Aliyah,Newman,Donna Andrews|Izabelle Blake|Nasir Warren|Jovan Gomez|Antony Combs,Mrs. Lawson|Mrs. Drake|Mr. Frazier
+131,8:48:04 AM,cole.mark@madisonps.org,Mark Cole,Mark,Cole,Chaim Terry|Vaughn Summers|Kaydence Fernandez|Haleigh Allen|Tessa Herman,Mr. Lucero|Mr. Young|Mrs. Parsons|Mrs. Savage
+132,6:59:12 AM,walls.jada@madisonps.org,Jada Walls,Jada,Walls,Jessica Frank,Mr. Rose|Mr. Gillespie|Mrs. Pugh
+133,5:40:27 AM,mathis.hayley@madisonps.org,Hayley Mathis,Hayley,Mathis,Maren Montgomery|Xzavier Booker,Mr. Miles|Mrs. Chavez|Mr. Lucero
+134,10:14:15 PM,oliver.mina@madisonps.org,Mina Oliver,Mina,Oliver,Tamia Romero|Josh Trujillo|Darrell Mcintosh|Byron Woodard|Hazel Wise,Mr. Collins|Mrs. Walton|Mr. Huffman|Mrs. Savage
+135,11:25:41 PM,tapia.neveah@madisonps.org,Neveah Tapia,Neveah,Tapia,Reece Morgan|Amara Meadows|Fernanda Tucker|Faith Stokes|Aron Perkins,Mrs. Drake|Mrs. Savage|Mrs. Pollard
+136,10:49:11 AM,hayden.camila@madisonps.org,Camila Hayden,Camila,Hayden,Jaylyn Stokes|Mark Cole|Vaughn Summers,Mr. Cabrera|Mr. Collins|Mrs. Oliver|Mr. Marshall|Mrs. Rollins
+137,4:45:14 PM,benson.madeleine@madisonps.org,Madeleine Benson,Madeleine,Benson,Stephen Mcpherson|Kristian Proctor|Braeden Lawson|Jaiden Arias,Mr. Lowe|Mr. Rose|Mrs. Holt|Mrs. Costa|Mrs. Velez
+138,11:04:35 PM,carson.jenny@madisonps.org,Jenny Carson,Jenny,Carson,Averi Donovan|Oliver Tate|Joshua Ferrell|Taylor Mccullough|Terry Mcclain,Mrs. Hickman|Mr. King|Mr. Merritt|Mrs. Walton|Mr. Webb
+139,3:44:05 AM,mcintosh.dangelo@madisonps.org,Dangelo Mcintosh,Dangelo,Mcintosh,Mercedes Mccormick|Miriam Mills|Cannon Lee|Izabelle Blake|Cassie Valentine,Mrs. Wade
+140,2:45:10 PM,ferrell.joshua@madisonps.org,Joshua Ferrell,Joshua,Ferrell,Tiffany Levine|Malachi Owen|Marlie Garza|Zara Jarvis|Jenny Carson,Mr. Dorsey|Mrs. Wade
+141,10:30:38 PM,mays.nickolas@madisonps.org,Nickolas Mays,Nickolas,Mays,Danielle Taylor|Maurice Solomon|Malik Pham|Johnathan Cabrera|Pierce Pittman,Mr. Hester|Mrs. Wood|Mrs. Rollins|Mr. Campbell|Mr. Gonzales
+142,11:20:42 PM,hatfield.kimberly@madisonps.org,Kimberly Hatfield,Kimberly,Hatfield,Joselyn Good,Mrs. Chang|Mr. Braun|Mrs. Drake
+143,12:38:05 PM,pittman.pierce@madisonps.org,Pierce Pittman,Pierce,Pittman,Jenny Decker|Jaqueline Hickman,Mr. Richmond|Mr. Gonzales|Mrs. Lawson|Mrs. Harvey
+144,10:10:34 AM,larsen.colt@madisonps.org,Colt Larsen,Colt,Larsen,Francis Duarte|Cloe Holden|Edith Giles|Anika Krause|Ainsley Marsh,Mr. Thompson|Mrs. Wall|Mr. Willis
+145,12:41:48 PM,weiss.amare@madisonps.org,Amare Weiss,Amare,Weiss,Saniya Walton|Deanna Brandt|Duncan Evans|Quentin Gray|Karissa Wheeler,Mrs. Conley|Mr. Huffman|Mrs. Pugh
+146,4:20:10 PM,hanna.fletcher@madisonps.org,Fletcher Hanna,Fletcher,Hanna,Sydnee Perez|Cadence Hunt|Cynthia Porter,Mr. Young|Mrs. Harvey|Mrs. Velez|Mr. Richmond
+147,12:01:52 AM,shah.kael@madisonps.org,Kael Shah,Kael,Shah,Meadow Bell|Autumn Zhang|Gia Love|Nicolas Booth,Mrs. Marquez|Mr. Cook|Mrs. Sanchez
+148,1:42:26 PM,steele.trevin@madisonps.org,Trevin Steele,Trevin,Steele,Gloria Nunez|Willow Franco|Elsa Stewart|Gary Dougherty|Shamar Fields,Mr. Schaefer|Mrs. Luna|Mr. Frazier|Mr. Mcguire|Mr. Terrell
+149,6:09:29 PM,hill.giovanny@madisonps.org,Giovanny Hill,Giovanny,Hill,Lindsay Levine|Amare Weiss|Ciara Morales|Jolie Salas|Keon Santos,Mr. Huffman|Mrs. Wood|Mrs. Ferrell|Mr. Gillespie|Mrs. Huynh
+150,4:20:36 AM,fuentes.rosemary@madisonps.org,Rosemary Fuentes,Rosemary,Fuentes,Cynthia Porter|Gavin Foster|Matias Herrera|Mireya Webb|Lesly Marsh,Mr. Webb|Mr. King|Mrs. Maddox|Mr. Rose|Mrs. Strong
+151,4:57:55 PM,reed.dylan@madisonps.org,Dylan Reed,Dylan,Reed,Ayden Woodward|Hazel Wise|Jaquan Duke|Kaia Valentine|Nathanial Gilbert,Mrs. Marquez
+152,8:28:52 PM,friedman.johan@madisonps.org,Johan Friedman,Johan,Friedman,Zaid Crawford,Mr. Mcguire|Mrs. Drake
+153,2:17:33 AM,medina.cortez@madisonps.org,Cortez Medina,Cortez,Medina,Michaela Gibbs|Lena Larson,Mr. King|Mrs. Mcmillan|Mr. Gentry|Mr. Campbell|Mr. Morrow
+154,2:15:41 AM,sullivan.ava@madisonps.org,Ava Sullivan,Ava,Sullivan,Deshawn Gillespie|Mariam Fitzgerald|Camila Hayden|Jasiah Moses|Milton Rangel,Mr. Terrell|Mrs. Drake|Mrs. Hammond
+155,3:01:13 AM,beck.joe@madisonps.org,Joe Beck,Joe,Beck,Marley Johnston|Darrell Mcintosh|Desmond Good|Sherlyn Tran|Randy Huber,Mr. Suarez|Mr. Lucero|Mr. Graham|Mrs. Harvey
+156,1:05:48 AM,little.sheldon@madisonps.org,Sheldon Little,Sheldon,Little,Jeffery Goodman|Jocelyn Randolph|Joanna Waters,Mr. Patrick|Mrs. Harvey|Mr. Merritt
+157,5:35:41 AM,trujillo.ryland@madisonps.org,Ryland Trujillo,Ryland,Trujillo,Cory Silva|Amelia Buckley|Toby Gardner|Toby Gardner,Mr. Vazquez|Mrs. Maddox|Mrs. Savage
+158,12:03:48 PM,hardy.jordan@madisonps.org,Jordan Hardy,Jordan,Hardy,Libby Sawyer|Linda Hensley|Morgan Rangel|Areli Lang|Jaylyn Strong,Mr. Gillespie|Mrs. Costa|Mrs. Hunt|Mr. King
+159,3:09:05 AM,mcmillan.eliana@madisonps.org,Eliana Mcmillan,Eliana,Mcmillan,Jasiah Moses|Sheldon Little|Hunter Mckenzie|Eliana Mcmillan|Alonzo Castillo,Mr. Livingston|Mrs. Sanchez|Mr. Kemp
+160,4:44:06 PM,woodward.ayden@madisonps.org,Ayden Woodward,Ayden,Woodward,Mark Cole|Brynlee Weeks|Clarissa Sanchez|Skyler Watkins|Nikolas Tran,Mrs. Rollins|Mr. Huffman|Mrs. Chandler|Mrs. Pollard|Mrs. Pugh
+161,2:52:06 AM,hutchinson.leland@madisonps.org,Leland Hutchinson,Leland,Hutchinson,Dayami Bernard|Patrick Meza|Maurice Solomon|Lana Boone|Noelle Santana,Mrs. Drake|Mrs. Francis|Mr. King|Mrs. Bentley|Mrs. Drake
+162,1:38:25 AM,ayala.pamela@madisonps.org,Pamela Ayala,Pamela,Ayala,Bryson Thornton,Mrs. Walton|Mrs. Francis|Mr. Kemp|Mrs. Bentley|Mrs. Chandler
+163,1:33:06 PM,morrow.charles@madisonps.org,Charles Morrow,Charles,Morrow,Pedro Zamora|Mohammad Miles,Mr. Gillespie
+164,8:30:55 PM,lucero.josue@madisonps.org,Josue Lucero,Josue,Lucero,Salma Barnes|Malia Osborn|Andres Mendez|Danica Conway|Kristian Frey,Mrs. Marquez|Mrs. Wall
+165,5:54:01 AM,huber.kallie@madisonps.org,Kallie Huber,Kallie,Huber,Evie Thornton|Max Hubbard|Kaiden Erickson|Dangelo Mcintosh|Jaylyn Farrell,Mrs. Francis|Mrs. Sanchez|Mrs. Conley|Mrs. Luna|Mr. Caldwell
+166,5:09:40 PM,buchanan.trevor@madisonps.org,Trevor Buchanan,Trevor,Buchanan,Jameson Marshall|Jayleen Vincent|Camille Bond,Mrs. Velez|Mrs. Gutierrez|Mr. Kemp
+167,6:06:22 PM,rowe.yamilet@madisonps.org,Yamilet Rowe,Yamilet,Rowe,Yahir Hahn|Pamela Moyer|Maddox Roman|Urijah Wang,Mr. Cabrera|Mrs. Drake|Mrs. Savage|Mr. Schaefer
+168,7:10:13 AM,thornton.juliana@madisonps.org,Juliana Thornton,Juliana,Thornton,Leroy Cooper|Javier Maynard|Jade Moses|Dayami Franco|Reid Mueller,Mrs. Hickman|Mrs. Harvey|Mr. Costa
+169,11:31:52 PM,lin.jason@madisonps.org,Jason Lin,Jason,Lin,Finley Coleman|Kenna Landry|Ezequiel Walls|Kameron Blanchard|Sara Orr,Mrs. Bentley|Mr. Miles|Mrs. Pollard
+170,12:09:46 AM,oliver.ross@madisonps.org,Ross Oliver,Ross,Oliver,Tristan Duncan|Wyatt Ware|Kale Massey|Haleigh Allen|Gavin Foster,Mr. Gillespie|Mr. Thompson|Mr. Cabrera|Mrs. Hickman
+171,1:41:45 AM,nolan.jaidyn@madisonps.org,Jaidyn Nolan,Jaidyn,Nolan,Ramiro Lee|Johan Carr|Braelyn Melton|Alexus Vaughn|Easton Cochran,Mrs. Conley|Mrs. Schaefer|Mrs. Chavez
+172,9:28:10 PM,parsons.juan@madisonps.org,Juan Parsons,Juan,Parsons,Jaliyah Haas,Mrs. Blackburn|Mrs. Chandler|Mr. Vasquez|Mrs. Braun|Mrs. Francis
+173,4:39:43 PM,gonzalez.roderick@madisonps.org,Roderick Gonzalez,Roderick,Gonzalez,Juliana Thornton|Dereon Barrera,Mr. Graham|Mrs. Gutierrez|Mrs. Blackburn|Mr. Richmond|Mrs. Holt
+174,8:41:02 AM,ponce.jaylynn@madisonps.org,Jaylynn Ponce,Jaylynn,Ponce,Paola Bartlett|Kenna Landry|Izabelle Blake|Nayeli Vang|Jadyn Gardner,Mrs. Braun|Mr. Braun|Mrs. Mosley|Mr. Vasquez|Mrs. Strong
+175,5:26:10 PM,davis.coby@madisonps.org,Coby Davis,Coby,Davis,Jaylynn Ponce|Peter Shea|Jane Logan|Luis Waller|Trace Higgins,Mrs. Oliver
+176,7:22:52 PM,cabrera.tommy@madisonps.org,Tommy Cabrera,Tommy,Cabrera,Yamilet Rowe|Marely Schultz|Dayana Rodriguez,Mr. Lowe|Mrs. Hunt
+177,10:34:21 AM,ochoa.malakai@madisonps.org,Malakai Ochoa,Malakai,Ochoa,Ezequiel Walls|Ricardo Sawyer|Kristen Allison|Morgan Rangel,Mrs. Holt|Mr. Campbell|Mrs. Maddox|Mr. Thompson|Mrs. Walton
+178,11:02:45 AM,levy.kathy@madisonps.org,Kathy Levy,Kathy,Levy,Meadow Bell|Aiyana Gordon|Bennett Christian|Jase Macdonald|Dominick Lawrence,Mrs. Ferrell|Mr. King|Mrs. Marquez
+179,7:21:57 AM,conway.danica@madisonps.org,Danica Conway,Danica,Conway,Kameron Blanchard|Alyssa Armstrong|Elisa Castillo|Kyle Melton|Paulina Dunlap,Mr. Gibson|Mr. Mcfarland|Mrs. Lucas|Mrs. Huynh
+180,10:10:49 PM,oconnor.nikolai@madisonps.org,Nikolai Oconnor,Nikolai,Oconnor,Ciara Morales|Josiah Allen|Chaim Terry|Conner Benitez|Chanel Terrell,Mr. Rose|Mrs. Pugh|Mrs. Lawson
+181,9:36:53 AM,blackburn.leonel@madisonps.org,Leonel Blackburn,Leonel,Blackburn,Alena Christian|Noelle Archer|Rodolfo Tyler|Sara Orr|Miriam Mills,Mrs. Hickman|Mr. Roberts|Mr. Merritt
+182,6:35:52 PM,david.gauge@madisonps.org,Gauge David,Gauge,David,Lyric Lester,Mr. Dalton|Mrs. Conley|Mr. Costa|Mrs. Hahn
+183,3:27:41 AM,fry.marco@madisonps.org,Marco Fry,Marco,Fry,Devyn Fitzpatrick|Joe Shea,Mrs. Schaefer|Mrs. Pollard|Mr. Cook
+184,2:44:00 AM,garrett.davion@madisonps.org,Davion Garrett,Davion,Garrett,Kathy Levy|Jessie Flynn|Tamia Nunez|Semaj Braun|Ray Harrington,Mr. Farmer|Mrs. Lam|Mrs. Blackburn|Mr. Frazier|Mr. Campbell
+185,5:36:36 AM,mckinney.vaughn@madisonps.org,Vaughn Mckinney,Vaughn,Mckinney,Morgan Hanna|Amber Palmer|Ray Harrington|Addison Best|Denzel Kelley,Mrs. Mosley|Mr. Braun|Mr. Cook|Mr. Cook|Mr. Graham
+186,11:25:03 AM,dillon.jasmin@madisonps.org,Jasmin Dillon,Jasmin,Dillon,Isla Pope|Devyn Fitzpatrick|Addison Logan,Mr. Montoya|Mr. Montoya|Mrs. Chandler|Mr. Terrell|Mrs. Hammond
+187,3:04:44 PM,ashley.tripp@madisonps.org,Tripp Ashley,Tripp,Ashley,Elaina Bennett|Zackery Galloway|Gary Dougherty|Lane Macdonald,Mr. Patrick
+188,4:24:51 AM,weiss.javion@madisonps.org,Javion Weiss,Javion,Weiss,Pedro Wheeler|Nicolas David|Casey Hernandez|Mckayla Sherman|Chaim Terry,Mr. Lucero|Mrs. Oliver
+189,9:08:35 AM,wiley.kael@madisonps.org,Kael Wiley,Kael,Wiley,Camryn Harrell|Nathanial Galvan|Calvin Garrison|Kale Sampson|Joe Spence,Mr. Reed|Mr. Huffman|Mr. Vasquez|Mr. Willis|Mrs. Harvey
+190,10:39:23 PM,hahn.eleanor@madisonps.org,Eleanor Hahn,Eleanor,Hahn,Isaiah Murillo|Odin Flowers|Oscar Olson|Crystal Grant|Amelia Buckley,Mr. Edwards|Mr. Cook|Mr. Suarez
+191,12:35:34 AM,good.desmond@madisonps.org,Desmond Good,Desmond,Good,Jordan Hardy|Nathanael Patrick|Lucia Owens|Ayden Woodward|Yadira Hodge,Mr. Rose|Mrs. Nixon|Mrs. Schaefer|Mrs. Mcmillan
+192,4:16:58 AM,pham.malik@madisonps.org,Malik Pham,Malik,Pham,Julian Zamora,Mrs. Conley|Mr. Terrell|Mrs. Chavez
+193,11:20:22 AM,fuentes.hope@madisonps.org,Hope Fuentes,Hope,Fuentes,Yasmin Hodge|Mike Sherman,Mrs. Strong|Mr. Huffman|Mr. Reed
+194,12:36:16 AM,briggs.thalia@madisonps.org,Thalia Briggs,Thalia,Briggs,Maurice Solomon|Cadence Jacobs|Dangelo Mcintosh|Arabella Duffy|Jessie Flynn,Mr. Costa|Mrs. Lawson|Mrs. Francis|Mr. Gibson
+195,4:51:40 PM,vasquez.clara@madisonps.org,Clara Vasquez,Clara,Vasquez,Yamilet Collins|Lance Foley|Reid Mueller|Joshua Ferrell|Isaiah Reed,Mr. Miles|Mr. Rose|Mrs. Hahn
+196,10:56:28 AM,gilmore.mariah@madisonps.org,Mariah Gilmore,Mariah,Gilmore,Pedro Harris|Jadyn Oconnell|Virginia Griffin,Mr. Edwards|Mr. Richmond|Mrs. Chang|Mr. Rose|Mr. Merritt
+197,8:20:01 PM,mcintosh.darrell@madisonps.org,Darrell Mcintosh,Darrell,Mcintosh,Lea Grimes|Braelyn Melton|Myles Estes|Carissa Riddle,Mrs. Hahn|Mrs. Schaefer|Mrs. Mcmillan|Mr. Gonzales|Mrs. Strong
+198,1:17:58 PM,lopez.june@madisonps.org,June Lopez,June,Lopez,Matilda Hickman|Nelson Novak|Andy Olson|Jayleen Vincent|Monique Mcconnell,Mr. Graham|Mr. Terrell|Mr. Dalton|Mrs. Lucas|Mrs. Pollard
+199,2:52:51 AM,sherman.mckayla@madisonps.org,Mckayla Sherman,Mckayla,Sherman,Amiah Berger|Lucia Owens|Marely Schultz|Dereon Barrera|Darius Brandt,Mrs. Wood
+200,8:59:05 PM,dudley.mark@madisonps.org,Mark Dudley,Mark,Dudley,Jada Walls|Cannon Lee|Sara Orr|Amelie Griffin|Jagger Farrell,Mrs. Wall|Mrs. Velez
+201,6:29:40 PM,gillespie.deshawn@madisonps.org,Deshawn Gillespie,Deshawn,Gillespie,Abby Blackburn|Yasmin Burgess|Raven Mcmahon|Marley Wiley|Samuel Keith,Mr. Miles|Mr. Figueroa|Mr. Carey|Mr. Hester|Mr. Frazier
+202,10:57:17 PM,graves.tony@madisonps.org,Tony Graves,Tony,Graves,Annalise Hurley,Mrs. Gutierrez|Mr. Schaefer|Mr. Marshall
+203,5:23:24 PM,salazar.alexis@madisonps.org,Alexis Salazar,Alexis,Salazar,Jeramiah Crane|Duncan Evans,Mrs. Wood|Mr. Gentry|Mr. Gibson|Mrs. Bentley
+204,8:38:13 PM,burke.demarion@madisonps.org,Demarion Burke,Demarion,Burke,Cristian Krause|Jayden Hutchinson|Ann Hanson|Morgan Rangel|Aiyana Gordon,Mrs. Braun|Mrs. Kane|Mrs. Hammond
+205,2:18:52 PM,beard.owen@madisonps.org,Owen Beard,Owen,Beard,Adalynn Burgess|Charlee Carney|Ayden Woodward|Alannah Cantu|Linda Hensley,Mr. Mcfarland|Mrs. Flynn|Mr. Vasquez
+206,9:03:02 PM,ayers.jayla@madisonps.org,Jayla Ayers,Jayla,Ayers,Keagan Daugherty|Yasmin Hodge|Pamela Arellano,Mrs. Chandler|Mrs. Francis|Mr. Montoya|Mr. Frazier
+207,9:23:15 AM,kim.derek@madisonps.org,Derek Kim,Derek,Kim,Nayeli Gibson|Clarissa Bruce|Jolie Salas|Anika Hull,Mrs. Chandler|Mr. Suarez|Mrs. Mcmillan
+208,6:49:03 PM,gilbert.nathanial@madisonps.org,Nathanial Gilbert,Nathanial,Gilbert,Brittany Conway|Tristan Duncan|Hunter Mckenzie|Rosemary Strong|Weston Huerta,Mrs. Hammond|Mr. Gillespie|Mr. Young|Mr. Richmond|Mrs. Huynh
+209,10:18:54 AM,douglas.luciana@madisonps.org,Luciana Douglas,Luciana,Douglas,Mark Cole|Jovani Arellano|Owen Crane|Micheal Ellis|Darrell Mcintosh,Mrs. Strong|Mr. Costa|Mrs. Mcmillan|Mrs. Lawson|Mrs. Holt
+210,1:13:25 AM,sloan.cristofer@madisonps.org,Cristofer Sloan,Cristofer,Sloan,Deangelo Long|Maci Swanson|Paisley Booker|Andres Mendez|Jason Benitez,Mr. Caldwell|Mrs. Luna|Mr. Marshall|Mrs. Marquez|Mr. Merritt
+211,6:59:11 AM,kent.amelie@madisonps.org,Amelie Kent,Amelie,Kent,Alejandra Ware|Rachael Harmon|Marcel Pacheco|Bailey Russell|Edith Giles,Mrs. Wade
+212,10:07:12 PM,key.albert@madisonps.org,Albert Key,Albert,Key,Nia Pacheco,Mr. Edwards|Mrs. Hahn
+213,6:26:31 PM,hinton.broderick@madisonps.org,Broderick Hinton,Broderick,Hinton,Cassie Valentine|Darius Brandt,Mr. Terrell|Mr. Morrow|Mr. Cook|Mr. Thompson|Mr. Merritt
+214,4:28:49 AM,campbell.leonard@madisonps.org,Leonard Campbell,Leonard,Campbell,Rubi Lara|Dylan Reed|Serena Meadows|Desmond Good|Reece Morgan,Mr. King|Mr. Mcguire|Mr. Costa
+215,9:20:26 PM,pineda.elena@madisonps.org,Elena Pineda,Elena,Pineda,Emiliano Clements|Jase Macdonald|Winston Vasquez|Katherine Allison|Samara Schmitt,Mrs. Blackburn|Mr. Braun|Mrs. Hammond|Mrs. Schaefer
+216,2:12:13 AM,potter.mattie@madisonps.org,Mattie Potter,Mattie,Potter,Nikolai Oconnor|Charles Morrow|Naima Sims,Mr. Huffman|Mr. Montoya|Mr. Carey
+217,4:40:32 AM,vance.andrea@madisonps.org,Andrea Vance,Andrea,Vance,Mohamed Mack|Jayla Martinez|Payton Ritter|Reynaldo Bartlett,Mr. Cabrera|Mrs. Braun|Mr. Rose
+218,7:28:09 AM,hodge.yasmin@madisonps.org,Yasmin Hodge,Yasmin,Hodge,Josiah Allen|Tristan Duncan|Roderick Gonzalez|Javier Maynard|Bentley Moreno,Mr. Vasquez|Mr. Patrick|Mr. Montoya|Mr. Cabrera
+219,1:43:26 AM,mathews.zachery@madisonps.org,Zachery Mathews,Zachery,Mathews,Joshua Ferrell|Wade Gillespie|Dayami Gray|Taylor Middleton|Jenny Fischer,Mrs. Hahn|Mrs. Maddox|Mrs. Strong
+220,1:50:54 PM,cuevas.amaya@madisonps.org,Amaya Cuevas,Amaya,Cuevas,Cannon Lee|Maxim Davenport|Danica Hansen|Jacoby Pope|Morgan Hanna,Mr. Huffman|Mrs. Oliver|Mrs. Hunt|Mrs. Marquez|Mr. Caldwell
+221,8:34:13 PM,duncan.tristan@madisonps.org,Tristan Duncan,Tristan,Duncan,Jacob Neal|Jane Logan|Deja Krueger|Jameson Beasley|Israel Tucker,Mr. Gonzales|Mrs. Mosley|Mrs. Rollins|Mr. Lowe|Mr. Campbell
+222,5:09:42 AM,benson.bennett@madisonps.org,Bennett Benson,Bennett,Benson,Thalia Hunt,Mr. Collins|Mr. Hester|Mr. Huffman|Mrs. Hammond|Mr. Kemp
+223,6:37:47 PM,hodges.marcos@madisonps.org,Marcos Hodges,Marcos,Hodges,Camille Bond|Atticus Lee,Mrs. Marquez
+224,11:05:13 PM,small.finnegan@madisonps.org,Finnegan Small,Finnegan,Small,Albert Key|Javion Mack|Jaydon Andrade|Maddox Roman|Zavier Sandoval,Mrs. Rollins|Mr. Suarez
+225,10:45:03 PM,kelly.edgar@madisonps.org,Edgar Kelly,Edgar,Kelly,Nikhil Wyatt|Shirley Haas|Abel Jacobs|Jason Benitez|Yandel Carey,Mr. Reed|Mrs. Sanchez|Mr. Lucero|Mrs. Hunt|Mrs. Ferrell
+226,2:52:28 PM,hickman.jaqueline@madisonps.org,Jaqueline Hickman,Jaqueline,Hickman,Harley Johns|Adalynn Burgess|Pamela Moyer,Mr. Vazquez|Mrs. Lucas|Mr. Vasquez
+227,4:03:48 AM,sampson.kale@madisonps.org,Kale Sampson,Kale,Sampson,Zachary Perry|Jaydan Alvarez|Mireya Webb|Braelyn Melton,Mrs. Mcmillan|Mr. Young|Mrs. Pugh|Mr. Gonzales
+228,7:42:25 PM,munoz.dallas@madisonps.org,Dallas Munoz,Dallas,Munoz,Everett Gray|Lena Larson|Mercedes Mccormick|Carleigh Espinoza|Quinn Knapp,Mrs. Mcmillan|Mrs. Walton|Mr. Miles
+229,4:12:58 PM,walker.carson@madisonps.org,Carson Walker,Carson,Walker,Salma Blake|Araceli Mooney|Kristian Proctor|Jaiden Arias|Abram Rogers,Mr. Graham|Mr. Mcfarland|Mr. Graham
+230,1:49:21 AM,mayo.arjun@madisonps.org,Arjun Mayo,Arjun,Mayo,Angela Austin|Briley Robinson|Semaj Braun|Quinton Ayers|Dax Ross,Mr. Caldwell|Mrs. Bentley|Mrs. Pugh|Mrs. Mosley
+231,3:38:43 PM,liu.asia@madisonps.org,Asia Liu,Asia,Liu,Princess Bell|Maximo Hogan|Morgan Hanna|Dayami Bernard|Louis Walls,Mrs. Conley|Mrs. Sanchez|Mr. Montoya
+232,10:12:54 PM,chavez.garrett@madisonps.org,Garrett Chavez,Garrett,Chavez,Zackery Young,Mrs. Mcmillan|Mrs. Costa|Mrs. Hickman|Mrs. Kane|Mr. Farmer
+233,6:36:47 AM,little.adalyn@madisonps.org,Adalyn Little,Adalyn,Little,Madden Mckenzie|Jayvon Mcgrath,Mrs. Mcmillan|Mr. Roberts|Mrs. Strong|Mr. Campbell|Mr. Gentry
+234,9:12:51 PM,washington.van@madisonps.org,Van Washington,Van,Washington,Martha Harper|Zion Bird|Maren Harmon|Jarrett Perry|Lindsay Levine,Mrs. Parsons|Mrs. Rollins|Mr. Braun|Mrs. Maddox|Mr. Willis
+235,5:36:01 PM,moreno.bentley@madisonps.org,Bentley Moreno,Bentley,Moreno,Harold Hancock|Marley Johnston|Kamora Perez|Fabian Taylor|Easton Todd,Mr. Floyd
+236,5:50:17 AM,taylor.danielle@madisonps.org,Danielle Taylor,Danielle,Taylor,Skyler Watkins|Salma Barnes|Natalya Hendricks,Mr. Cook|Mrs. Sanchez
+237,8:26:49 PM,hayden.reece@madisonps.org,Reece Hayden,Reece,Hayden,Shamar Fields|Hazel Morrison|Peyton Lowe|Marley Wiley,Mr. Lucero|Mrs. Wood|Mrs. Braun|Mrs. Bentley|Mr. Floyd
+238,4:44:04 PM,mora.joe@madisonps.org,Joe Mora,Joe,Mora,Marley Wiley|Katherine Allison|Jayla Martinez|Lawson Bray|Tianna Bonilla,Mrs. Wade|Mrs. Strong|Mr. Gibson
+239,11:59:44 PM,hodge.yadira@madisonps.org,Yadira Hodge,Yadira,Hodge,Julian Zamora|Trevin Steele|Nigel Leblanc|Nigel Galloway|Nathanial Gilbert,Mrs. Lawson|Mrs. Bentley|Mr. Webb|Mrs. Pollard
+240,5:24:49 AM,morales.ciara@madisonps.org,Ciara Morales,Ciara,Morales,Melody Marsh|Fernanda Tucker|Vivian Blake|London Blankenship|Jaylyn Strong,Mr. Montoya|Mr. Lowe|Mrs. Hunt
+241,7:17:44 AM,marsh.lesly@madisonps.org,Lesly Marsh,Lesly,Marsh,Dylan Hughes|Ali Pearson|Lucia Marsh|Libby Sawyer|Nathaly Dean,Mrs. Chavez|Mrs. Reid|Mrs. Wade
+242,4:36:56 PM,cantu.ingrid@madisonps.org,Ingrid Cantu,Ingrid,Cantu,Nayeli Gibson,Mrs. Nixon|Mr. Costa|Mrs. Huynh|Mr. Cabrera
+243,4:59:37 PM,osborn.dulce@madisonps.org,Dulce Osborn,Dulce,Osborn,Vance Mccarthy|Zachery Mathews,Mrs. Luna|Mr. Miles|Mr. Suarez
+244,6:01:14 PM,cantrell.macy@madisonps.org,Macy Cantrell,Macy,Cantrell,Rosemary Fuentes|Bradley Coffey|Krish Welch|Noelle Phillips|Bennett Christian,Mrs. Oliver|Mrs. Blackburn|Mr. Caldwell|Mr. Thompson|Mr. Cook
+245,10:55:01 AM,bush.teagan@madisonps.org,Teagan Bush,Teagan,Bush,Ciara Armstrong|Marin Mills|Mireya Webb|Nayeli Fletcher|Roman Yates,Mrs. Parsons|Mrs. Chang|Mr. Collins|Mrs. Hammond|Mr. Mcfarland
+246,8:05:03 PM,savage.carmen@madisonps.org,Carmen Savage,Carmen,Savage,Mercedes Mccormick|Easton Todd|Tiffany Delacruz,Mr. Farmer|Mr. Merritt|Mr. Vazquez|Mrs. Kane|Mrs. Hammond
+247,4:16:26 AM,bolton.corinne@madisonps.org,Corinne Bolton,Corinne,Bolton,Urijah Wang|Paola Bartlett|Lena Larson|Lilia Strong,Mrs. Conley
+248,7:37:51 PM,atkins.joseph@madisonps.org,Joseph Atkins,Joseph,Atkins,Carolyn Roy|Damari Chung|Payton Parrish|Skyler Watkins|Linda Hensley,Mr. Willis|Mr. Caldwell
+249,1:22:31 PM,marshall.whitney@madisonps.org,Whitney Marshall,Whitney,Marshall,Princess Bell|Conner Benitez|Jaslene Marsh|Damon Graham|Cadence Jacobs,Mr. Kemp|Mr. Cook|Mr. Lucero|Mr. Willis|Mrs. Sanchez
+250,12:03:04 AM,glass.tristian@madisonps.org,Tristian Glass,Tristian,Glass,Toby Gardner|Tommy Vega|Dominique Elliott|Joanna Waters|Joy Kramer,Mrs. Francis|Mrs. Drake|Mrs. Maddox
+251,12:52:23 AM,turner.anastasia@madisonps.org,Anastasia Turner,Anastasia,Turner,Ali Pearson|Wade Gillespie|Oliver Tate|Jovani Arellano|Jeramiah Crane,Mrs. Kane|Mrs. Reid|Mr. Campbell|Mr. Figueroa
+252,5:46:19 PM,kennedy.jadiel@madisonps.org,Jadiel Kennedy,Jadiel,Kennedy,Calvin Wang,Mr. Collins|Mrs. Strong|Mr. Graham
+253,2:28:51 AM,reese.keshawn@madisonps.org,Keshawn Reese,Keshawn,Reese,Javier Maynard|Asia Liu,Mr. Roberts|Mr. Richmond|Mrs. Harvey
+254,6:45:22 PM,thornton.bryson@madisonps.org,Bryson Thornton,Bryson,Thornton,Jacey Stout|Albert Key|Marely Fuentes|Tobias Chase|Madden Mckenzie,Mr. Vazquez|Mr. Patrick|Mrs. Sanchez|Mrs. Chandler
+255,10:56:31 PM,rollins.mariyah@madisonps.org,Mariyah Rollins,Mariyah,Rollins,Eric Cantrell|Mattie Gallegos|Monique Schwartz|Tanya Finley|Bianca Roberson,Mrs. Strong|Mr. Dalton|Mrs. Chang
+256,6:00:24 PM,duke.scarlet@madisonps.org,Scarlet Duke,Scarlet,Duke,Santino Villarreal|Cadence Jacobs|Serena Meadows,Mrs. Holt|Mr. Reed|Mr. Suarez|Mrs. Solomon|Mrs. Costa
+257,9:52:00 PM,logan.jane@madisonps.org,Jane Logan,Jane,Logan,Caylee Nunez|Scott Hoffman|Malia Osborn|Clarissa Bruce,Mrs. Mosley|Mr. Vasquez|Mr. Webb|Mr. Campbell|Mrs. Holt
+258,11:45:11 AM,vega.tommy@madisonps.org,Tommy Vega,Tommy,Vega,Angela Austin|Jayleen Vincent|Leonard Campbell|Tripp Ashley|Jolie Salas,Mr. Reed|Mr. Marshall|Mrs. Costa|Mr. Lowe|Mr. Dalton
+259,3:34:57 PM,boyle.alondra@madisonps.org,Alondra Boyle,Alondra,Boyle,Lillianna Logan|Jacoby Pope|Jorden Roberts|Angelo Carlson|Tristian Glass,Mrs. Oliver
+260,5:17:29 AM,garrett.leonel@madisonps.org,Leonel Garrett,Leonel,Garrett,Savanna Lawson|Kael Wiley|Darren Mccormick|Everett Burgess|Yareli Irwin,Mr. Hester|Mr. Cabrera
+261,11:39:29 AM,weeks.brynlee@madisonps.org,Brynlee Weeks,Brynlee,Weeks,Charlotte Cline|Preston Kaufman|Katherine Allison|Daniela Jimenez|Jayden Hutchinson,Mr. Braun|Mr. Huffman|Mrs. Braun|Mrs. Drake|Mr. Gillespie
+262,10:54:48 AM,good.joselyn@madisonps.org,Joselyn Good,Joselyn,Good,Ciara Armstrong,Mrs. Wood|Mr. Roberts|Mrs. Reid
+263,2:10:22 PM,bernard.john@madisonps.org,John Bernard,John,Bernard,Jair Carson|Noe Riddle,Mrs. Lam|Mrs. Strong|Mrs. Flynn|Mr. Campbell
+264,4:43:32 PM,jacobs.justin@madisonps.org,Justin Jacobs,Justin,Jacobs,Samara Schmitt|Carson Walker|Tristian Glass|Dominique Elliott|Crystal Grant,Mrs. Velez|Mr. Miles|Mr. Lowe
+265,5:00:17 AM,bond.jazlynn@madisonps.org,Jazlynn Bond,Jazlynn,Bond,Paola Bartlett|Coby Davis|Caleb Singleton|Valerie Perkins|Caitlyn Raymond,Mr. Huffman|Mrs. Reid|Mrs. Solomon
+266,11:54:04 AM,hill.jamie@madisonps.org,Jamie Hill,Jamie,Hill,Noah Buck|Patience Greene|Halle Green,Mr. Dorsey|Mr. Webb|Mr. Thompson|Mrs. Pollard
+267,12:03:05 PM,terry.alisson@madisonps.org,Alisson Terry,Alisson,Terry,Cristian Lawson|Kiersten Joseph|Jovani Arellano|Taylor Middleton,Mrs. Lucas|Mr. Merritt|Mrs. Blackburn
+268,7:43:27 AM,gray.dayami@madisonps.org,Dayami Gray,Dayami,Gray,Naima Sims|Conner Benitez|Matthias Cline|Marely Schultz|Tripp Ashley,Mrs. Drake|Mrs. Drake|Mrs. Schaefer|Mrs. Lam|Mr. Frazier
+269,1:51:01 PM,zamora.pedro@madisonps.org,Pedro Zamora,Pedro,Zamora,Trevor Buchanan|German Watkins|Leonel Shelton|Mckinley Blair|Davion Garrett,Mrs. Conley|Mrs. Gutierrez|Mrs. Hunt|Mr. Richmond|Mr. Miles
+270,12:08:05 AM,garza.marlie@madisonps.org,Marlie Garza,Marlie,Garza,Lydia Hutchinson|Arabella Duffy|Amelie Kent|Asia Liu|Yareli Irwin,Mr. Merritt|Mr. Lucero|Mrs. Hahn|Mr. Mcfarland|Mrs. Luna
+271,5:03:43 PM,guerrero.crystal@madisonps.org,Crystal Guerrero,Crystal,Guerrero,Katelyn Benton|Calvin Garrison|Kallie Huber|Angela Austin|Ingrid Cantu,Mr. Collins
+272,2:01:44 AM,perez.kamora@madisonps.org,Kamora Perez,Kamora,Perez,Mylie Arias,Mrs. Marquez|Mrs. Chandler
+273,8:20:19 AM,lindsey.elle@madisonps.org,Elle Lindsey,Elle,Lindsey,Benjamin Huff|Abel Jacobs,Mrs. Drake|Mrs. Parsons|Mrs. Conley|Mr. Morrow|Mr. Young
+274,4:08:44 AM,best.addison@madisonps.org,Addison Best,Addison,Best,Jakobe Andrade|Catherine Evans|Amber Palmer|Rayan Powers|Damarion Craig,Mr. Hester|Mrs. Marquez|Mr. Schaefer
+275,4:56:24 PM,carpenter.maggie@madisonps.org,Maggie Carpenter,Maggie,Carpenter,Jay Nichols|Nyasia Banks|Carolyn Roy|Lennon Spence|Trevin Steele,Mrs. Sanchez|Mr. Montoya|Mr. Mcguire|Mrs. Lam
+276,7:17:24 AM,ryan.elian@madisonps.org,Elian Ryan,Elian,Ryan,Naima Sims|Evangeline Walsh|Elise Miller,Mrs. Braun|Mrs. Savage|Mr. Montoya
+277,6:26:23 PM,bryant.jacey@madisonps.org,Jacey Bryant,Jacey,Bryant,Jovan Gomez|Thalia Simpson|Emiliano Clements|Jade Moses,Mr. Graham|Mr. Carey|Mr. Caldwell
+278,2:14:06 PM,hess.zion@madisonps.org,Zion Hess,Zion,Hess,Saniya Walton|Lucy Rojas|Harper Olsen|Juliet Chaney|Fatima Hall,Mr. Terrell|Mr. Schaefer|Mrs. Lucas|Mr. Webb
+279,11:37:31 AM,oneill.alani@madisonps.org,Alani Oneill,Alani,Oneill,Patience Greene|Johan Friedman|Kale Massey|Jacey Stout|Miriam Mills,Mr. Vazquez|Mr. Marshall|Mr. Willis
+280,5:19:21 AM,haas.jaliyah@madisonps.org,Jaliyah Haas,Jaliyah,Haas,Roderick Gonzalez|Meadow Bell|Andy Olson|Miley Merritt|Jorden Roberts,Mr. King|Mrs. Pugh|Mr. Willis|Mr. Vazquez|Mrs. Lam
+281,8:04:51 AM,church.rocco@madisonps.org,Rocco Church,Rocco,Church,Mohamed Mack|Kenny Dennis|Asia Liu|Jakob Orr|Bentley Moreno,Mrs. Wall|Mr. Suarez|Mrs. Lawson|Mr. Schaefer|Mrs. Wood
+282,2:19:17 AM,mathews.joslyn@madisonps.org,Joslyn Mathews,Joslyn,Mathews,Matthias Cline,Mrs. Conley|Mrs. Solomon|Mr. Gillespie|Mr. Floyd|Mrs. Mcmillan
+283,9:59:42 PM,higgins.trace@madisonps.org,Trace Higgins,Trace,Higgins,Caleb Dillon|Julianne Case,Mr. Dorsey
+284,5:24:57 PM,miles.mohammad@madisonps.org,Mohammad Miles,Mohammad,Miles,Carmen Savage|Halle Humphrey|Iris West|Imani Kidd|Max Hubbard,Mr. Floyd|Mrs. Gutierrez
+285,11:04:05 PM,fischer.tara@madisonps.org,Tara Fischer,Tara,Fischer,Casey Hernandez|Broderick Hinton|Jaylynn Ponce|Johan Friedman|Tristan Duncan,Mrs. Velez|Mr. Miles|Mrs. Conley|Mr. Reed|Mr. Rose
+286,9:48:53 PM,roman.maddox@madisonps.org,Maddox Roman,Maddox,Roman,Virginia Griffin|Catalina Wood|Yadira Hodge,Mr. Thompson|Mr. Gibson|Mrs. Marquez
+287,4:28:57 PM,ross.dax@madisonps.org,Dax Ross,Dax,Ross,Noe Riddle|Jamal Johnston|Sage Ellis|Morgan Rangel,Mrs. Luna|Mr. Hester|Mrs. Parsons|Mr. Farmer
+288,9:16:56 AM,schwartz.monique@madisonps.org,Monique Schwartz,Monique,Schwartz,Marco Fry|Tamia Nunez|Charlotte Burns|Chanel Terrell|Saniya Walton,Mr. Cook|Mr. Mcguire|Mr. Mcguire
+289,12:50:48 AM,hawkins.hassan@madisonps.org,Hassan Hawkins,Hassan,Hawkins,Jaslene Marsh|Johnathan Cabrera|Kenley Sellers|Avah Harding|Jonathon Castaneda,Mrs. Nixon|Mrs. Costa|Mr. Caldwell
+290,1:21:56 AM,hodge.jaylin@madisonps.org,Jaylin Hodge,Jaylin,Hodge,Marely Schultz|Amiah Wallace|Stephanie Sanchez|Andy Olson|Ada Gaines,Mr. Willis|Mr. Webb|Mrs. Mcmillan|Mrs. Velez
+291,2:07:04 AM,joseph.kiersten@madisonps.org,Kiersten Joseph,Kiersten,Joseph,Deandre Vega|Shayla Beck|Kaley Fox|Addison Best|Christian Salazar,Mr. Lowe|Mr. Huffman|Mrs. Chandler
+292,6:48:24 PM,lynch.pierce@madisonps.org,Pierce Lynch,Pierce,Lynch,Juan Parsons,Mr. Reed|Mr. Campbell|Mrs. Huynh|Mr. Mcguire|Mr. Lucero
+293,9:19:41 AM,haney.shiloh@madisonps.org,Shiloh Haney,Shiloh,Haney,Jaiden Arias|Trevin Steele,Mrs. Pugh|Mr. Carey|Mr. Richmond|Mr. Livingston|Mr. Schaefer
+294,9:01:43 PM,wyatt.nikhil@madisonps.org,Nikhil Wyatt,Nikhil,Wyatt,Justin Jacobs|Mireya Webb|Dillon Santana|Liana Bullock|German Watkins,Mrs. Wall|Mrs. Braun|Mr. Terrell|Mr. Floyd|Mrs. Mcmillan
+295,2:03:18 PM,knapp.quinn@madisonps.org,Quinn Knapp,Quinn,Knapp,Peter Shea|Lea Grimes|Jaqueline Hickman|Ann Hanson|Derrick Bennett,Mr. Braun
+296,9:23:46 PM,frey.kristian@madisonps.org,Kristian Frey,Kristian,Frey,Michaela Nichols|Mercedes Mccormick|Hunter Mckenzie,Mr. Montoya|Mrs. Schaefer
+297,4:54:25 PM,griffin.virginia@madisonps.org,Virginia Griffin,Virginia,Griffin,Mercedes Mccormick|Cassandra Fitzgerald|Lydia Owens|Roman Yates,Mrs. Walton|Mr. Figueroa|Mr. Vasquez|Mrs. Gutierrez|Mrs. Chandler
+298,8:29:48 AM,crawford.isiah@madisonps.org,Isiah Crawford,Isiah,Crawford,Jayvon Finley|Andre Gilbert|Nickolas Mays|Lana Velazquez|Libby Sawyer,Mrs. Maddox|Mr. Caldwell|Mr. Braun
+299,5:01:26 PM,wilkerson.joanna@madisonps.org,Joanna Wilkerson,Joanna,Wilkerson,Reid Mueller|Joselyn Good|Darrell Mcintosh|Elaina Bennett|Sam Werner,Mr. Braun|Mrs. Blackburn|Mrs. Lam|Mrs. Luna
+300,8:14:09 AM,porter.cynthia@madisonps.org,Cynthia Porter,Cynthia,Porter,Mckinley Blair|Samuel Keith|Emmalee Mcconnell|Kael Shah|Alondra Boyle,Mr. Gibson|Mrs. Chang|Mrs. Mosley
+301,8:06:38 AM,olson.oscar@madisonps.org,Oscar Olson,Oscar,Olson,Tripp Bradford|Nayeli Vang|Tony Graves|Areli Lang|Andrea Miller,Mrs. Chang|Mr. Gillespie|Mrs. Walton
+302,12:46:34 AM,phillips.noelle@madisonps.org,Noelle Phillips,Noelle,Phillips,Miley Merritt,Mr. Rose|Mr. Thompson|Mrs. Costa|Mrs. Oliver
+303,2:49:11 PM,schultz.janet@madisonps.org,Janet Schultz,Janet,Schultz,Marcos Mills|Wade Gillespie,Mrs. Solomon|Mr. Vazquez|Mrs. Schaefer
+304,7:24:36 PM,lawson.cristian@madisonps.org,Cristian Lawson,Cristian,Lawson,Conner Benitez|Harold Hancock|Sterling Beasley|Hector Marks|Skyler Watkins,Mr. Gonzales|Mr. Graham|Mrs. Wood|Mr. Vasquez|Mrs. Chang
+305,6:49:21 PM,lamb.howard@madisonps.org,Howard Lamb,Howard,Lamb,Ryan Solomon|Easton Cochran|Israel Tucker|Fernanda Tucker|Sanai Duffy,Mr. Gillespie|Mrs. Lucas|Mrs. Blackburn|Mrs. Schaefer|Mrs. Drake
+306,8:01:26 PM,wyatt.ciara@madisonps.org,Ciara Wyatt,Ciara,Wyatt,Mattie Pearson|Jakobe Andrade|Faith Stokes,Mrs. Pugh|Mrs. Bentley|Mrs. Rollins|Mr. Farmer|Mrs. Rollins
+307,11:49:21 PM,vang.nayeli@madisonps.org,Nayeli Vang,Nayeli,Vang,Tristan Duncan|Amirah Liu|Deshawn Gillespie|Mercedes Dominguez,Mr. Montoya
+308,6:20:44 PM,rowe.alia@madisonps.org,Alia Rowe,Alia,Rowe,Rihanna Pacheco|Miley Merritt|Virginia Griffin|Andrea Vance|Alia Rowe,Mr. Carey|Mrs. Parsons
+309,4:39:58 PM,fitzgerald.mariam@madisonps.org,Mariam Fitzgerald,Mariam,Fitzgerald,Dania Cordova|Maggie Carpenter|Anika Hull|Amiah Berger|Eric Cantrell,Mrs. Strong|Mr. Patrick|Mrs. Pollard|Mr. Farmer|Mr. Dorsey
+310,12:28:43 AM,berger.amiah@madisonps.org,Amiah Berger,Amiah,Berger,Jazlynn Bond|Cannon Lee|Mariam Cohen|Malia Osborn|Lara Choi,Mrs. Oliver|Mr. Campbell|Mr. Dorsey
+311,5:58:06 AM,flores.kailee@madisonps.org,Kailee Flores,Kailee,Flores,Jaylin Hodge|Zackery Galloway|Nylah York|Natalya Cruz|Lyla Martinez,Mrs. Pollard|Mr. Campbell|Mr. King|Mr. Caldwell
+312,1:40:10 PM,fischer.jenny@madisonps.org,Jenny Fischer,Jenny,Fischer,Hope Fuentes,Mr. Terrell|Mr. Marshall|Mr. Frazier
+313,2:04:50 AM,mcmahon.raven@madisonps.org,Raven Mcmahon,Raven,Mcmahon,Amiah Berger|Alaina Rogers,Mrs. Francis|Mr. Roberts|Mr. Reed
+314,6:36:36 AM,espinoza.katrina@madisonps.org,Katrina Espinoza,Katrina,Espinoza,Calvin Garrison|Leonel Shelton|Joanna Waters|Kelsey Meadows|Andrea Vance,Mr. Campbell|Mrs. Marquez|Mrs. Pugh|Mr. Schaefer
+315,9:21:59 AM,gentry.tatum@madisonps.org,Tatum Gentry,Tatum,Gentry,Isaiah Murillo|Kolton Olsen|Mckinley Blair|Gauge David|Lena Larson,Mr. Merritt|Mrs. Sanchez|Mrs. Chang
+316,1:35:09 PM,wang.urijah@madisonps.org,Urijah Wang,Urijah,Wang,Lucian Parsons|Joshua Ferrell|Keon Stone,Mr. Caldwell|Mr. Mcfarland|Mrs. Sanchez|Mr. Dalton|Mrs. Hickman
+317,12:49:37 AM,hansen.danica@madisonps.org,Danica Hansen,Danica,Hansen,Roderick Gonzalez|Julianne Drake|Mercedes Mccormick|Toby Gardner,Mrs. Maddox|Mr. Lowe|Mr. Costa|Mr. Miles|Mr. Morrow
+318,12:34:16 AM,mercer.aedan@madisonps.org,Aedan Mercer,Aedan,Mercer,Emelia Shields|Ronald Beltran|Cortez Savage|Damion Stone|Elise Miller,Mrs. Chavez|Mrs. Chandler|Mrs. Rollins|Mr. Cook|Mr. Caldwell
+319,5:09:30 PM,hood.kayla@madisonps.org,Kayla Hood,Kayla,Hood,Maren Harmon|Jenny Decker|Edgar Kelly|Ciara Wyatt|Martha Harper,Mrs. Chang
+320,5:59:10 PM,haas.shirley@madisonps.org,Shirley Haas,Shirley,Haas,Lea Grimes|Easton Cochran|Calvin Garrison|Liberty Hardin|Raegan Rush,Mr. Cook|Mrs. Ferrell
+321,1:53:36 AM,olsen.harper@madisonps.org,Harper Olsen,Harper,Olsen,Samuel Keith|Nigel Galloway|Roderick Gonzalez|Shirley Haas|Darrell Mcintosh,Mr. Gentry|Mr. Hester|Mr. Figueroa|Mrs. Mosley|Mr. Graham
+322,6:17:44 AM,novak.nelson@madisonps.org,Nelson Novak,Nelson,Novak,Marcos Mills,Mr. Cook|Mrs. Harvey|Mr. Lucero
+323,7:12:49 PM,johns.eli@madisonps.org,Eli Johns,Eli,Johns,Toby Gardner|Jorden Bray,Mrs. Holt|Mr. Suarez|Mrs. Braun|Mrs. Chang
+324,11:35:09 PM,walls.louis@madisonps.org,Louis Walls,Louis,Walls,Oscar Olson|Johnathan Cabrera|Luis Waller|Dominique Elliott|Kristen Allison,Mrs. Ferrell|Mrs. Hunt|Mr. Gonzales
+325,12:18:44 AM,bond.camille@madisonps.org,Camille Bond,Camille,Bond,Giada Gaines|Colt Larsen|Carson Walker|Mattie Pearson|Aracely Branch,Mr. King|Mr. Figueroa|Mr. Frazier
+326,3:32:50 AM,lynn.ezequiel@madisonps.org,Ezequiel Lynn,Ezequiel,Lynn,Cannon Lee|Serena Meadows|Josiah Allen,Mrs. Marquez|Mrs. Bentley|Mr. Caldwell|Mr. Patrick
+327,5:46:54 PM,rangel.jaelyn@madisonps.org,Jaelyn Rangel,Jaelyn,Rangel,Brooks Ford|Braelyn Melton|Ingrid Cantu|Jade Moses,Mrs. Chang|Mr. Cook|Mr. Edwards
+328,2:01:40 AM,griffin.amelie@madisonps.org,Amelie Griffin,Amelie,Griffin,Alyssa Armstrong|Anastasia Turner|Steve Hooper|Jameson Beasley|Miah Vincent,Mr. Carey|Mr. Livingston|Mrs. Wood|Mr. Dorsey|Mrs. Drake
+329,5:36:05 AM,shepard.roman@madisonps.org,Roman Shepard,Roman,Shepard,Santino Villarreal|Gavin Foster|Gia Mcknight|Samuel Keith|Grayson Summers,Mr. Webb|Mr. Montoya|Mr. Edwards|Mr. Patrick|Mrs. Nixon
+330,10:18:38 PM,hunt.cadence@madisonps.org,Cadence Hunt,Cadence,Hunt,Lucian Parsons|Fabian Taylor|Julian Zamora|Jocelynn Carney|Danielle Taylor,Mrs. Wall|Mrs. Hunt|Mrs. Wade|Mrs. Lawson|Mr. King
+331,12:07:21 PM,mccormick.mercedes@madisonps.org,Mercedes Mccormick,Mercedes,Mccormick,Lesly Marsh|Kaylee Lamb|Noah Buck|Johan Carr|Jaron Browning,Mrs. Chandler
+332,7:13:37 PM,riggs.kason@madisonps.org,Kason Riggs,Kason,Riggs,Sebastian Ingram,Mrs. Wood|Mr. Schaefer
+333,3:46:09 PM,richards.lamar@madisonps.org,Lamar Richards,Lamar,Richards,Harley Johns|Catalina Wood,Mrs. Blackburn|Mr. Patrick|Mrs. Wade|Mrs. Rollins|Mr. Rose
+334,2:39:43 PM,neal.jacob@madisonps.org,Jacob Neal,Jacob,Neal,Johnathan Cabrera|Billy Bauer|Naima Sims|Jessie Flynn|Maggie Nash,Mr. Livingston|Mr. Kemp|Mr. Merritt
+335,2:25:29 PM,buckley.amelia@madisonps.org,Amelia Buckley,Amelia,Buckley,Jasiah Moses|Preston Greene|Harper Olsen|Nikhil Madden|Anika Rojas,Mrs. Marquez|Mr. Lowe|Mr. Caldwell|Mrs. Maddox
+336,8:55:08 PM,gardner.toby@madisonps.org,Toby Gardner,Toby,Gardner,Julianne Lindsey|Camryn Harrell|Payton Parrish,Mrs. Chandler|Mr. Gillespie|Mrs. Rollins
+337,12:06:04 AM,stone.damion@madisonps.org,Damion Stone,Damion,Stone,Dayami Franco|Deandre Vega|Quinton Ayers|Saniya Walton,Mrs. Marquez|Mr. Campbell|Mr. Vasquez
+338,11:02:47 AM,ellis.sage@madisonps.org,Sage Ellis,Sage,Ellis,Madilyn Bernard|Kenley Sellers|Francis Duarte|Willow Cordova|Anthony Banks,Mrs. Strong|Mr. Gonzales|Mr. Dorsey|Mr. Figueroa
+339,8:02:50 PM,golden.brycen@madisonps.org,Brycen Golden,Brycen,Golden,Abagail Osborne|Nyasia Banks|Jenny Carson|Kyla King|Ezequiel Lynn,Mrs. Marquez|Mr. Huffman|Mrs. Chandler
+340,3:01:31 AM,jacobs.cadence@madisonps.org,Cadence Jacobs,Cadence,Jacobs,Andre Gilbert|Jason Lin|Kody Davenport|Deja Krueger|Jayvon Salazar,Mr. Figueroa|Mr. Terrell|Mr. Cook|Mrs. Oliver|Mr. Schaefer
+341,6:07:41 AM,harper.martha@madisonps.org,Martha Harper,Martha,Harper,Carter French|Alejandra Ware|Jason Choi|Jayla Ayers|Mckayla Sherman,Mr. Edwards|Mr. Farmer|Mrs. Costa|Mr. Marshall|Mrs. Wall
+342,12:08:23 PM,rogers.alaina@madisonps.org,Alaina Rogers,Alaina,Rogers,Pamela Moyer,Mrs. Pugh|Mrs. Sanchez|Mr. Lowe|Mrs. Savage|Mr. Cabrera
+343,2:47:27 AM,richard.ryland@madisonps.org,Ryland Richard,Ryland,Richard,Aracely Branch|Carolyn Roy,Mrs. Reid
+344,10:49:38 PM,madden.nikhil@madisonps.org,Nikhil Madden,Nikhil,Madden,Romeo Carrillo|Derek Kim|Johan Carr|John Bernard|Antony Combs,Mrs. Holt|Mr. Richmond
+345,11:17:55 PM,allison.katherine@madisonps.org,Katherine Allison,Katherine,Allison,Tessa Herman|Catherine Evans|Jaron Browning|Darren Mccormick|Weston Huerta,Mr. Figueroa|Mrs. Ferrell|Mrs. Nixon|Mr. Suarez|Mr. Gentry
+346,8:40:24 PM,palmer.amber@madisonps.org,Amber Palmer,Amber,Palmer,Kiersten Joseph|Noelle Phillips|Tobias Chase,Mrs. Ferrell|Mr. Miles|Mr. Montoya
+347,6:26:00 PM,orr.jakob@madisonps.org,Jakob Orr,Jakob,Orr,George Poole|Monserrat Tapia|Whitney Walters|Allen Durham,Mrs. Maddox|Mrs. Wall|Mr. Edwards|Mrs. Hunt
+348,9:03:50 PM,hansen.saige@madisonps.org,Saige Hansen,Saige,Hansen,Deandre Vega|Marin Hensley|Trevor Buchanan|Semaj Braun|Haiden Mahoney,Mr. Webb|Mr. Willis|Mr. Costa
+349,4:15:15 AM,benitez.jason@madisonps.org,Jason Benitez,Jason,Benitez,Jovani Arellano|Isaiah Reed|Lane Macdonald|Patience Benton|Damon Graham,Mr. Floyd|Mr. Edwards|Mr. Rose
+350,9:13:49 AM,combs.antony@madisonps.org,Antony Combs,Antony,Combs,Lillie Cervantes|Joanna Waters|Danica Conway|Giselle Decker|Nicolas Booth,Mr. Costa|Mrs. Holt|Mrs. Ferrell|Mr. Merritt
+351,8:59:55 AM,howe.josh@madisonps.org,Josh Howe,Josh,Howe,Jamison James|Jasiah Moses|Dakota Patel|Zaid Crawford|Reid Mueller,Mrs. Schaefer|Mrs. Oliver|Mr. Roberts
+352,4:38:41 AM,stokes.faith@madisonps.org,Faith Stokes,Faith,Stokes,Cole Wells,Mr. Richmond|Mrs. Mcmillan|Mr. Patrick|Mr. Cabrera|Mrs. Hunt
+353,11:23:55 PM,mills.miriam@madisonps.org,Miriam Mills,Miriam,Mills,Melina Hammond|Urijah Wang,Mr. Rose|Mrs. Holt|Mr. Lowe|Mrs. Strong|Mrs. Bentley
+354,12:35:37 AM,cohen.mariam@madisonps.org,Mariam Cohen,Mariam,Cohen,Vivian Blake|Joy Weiss|Bentley Moreno|Cristian Lawson|Alyssa Armstrong,Mrs. Braun|Mrs. Walton|Mrs. Ferrell|Mrs. Parsons|Mrs. Oliver
+355,12:45:06 AM,little.tanya@madisonps.org,Tanya Little,Tanya,Little,Amelia Buckley|Shelby Reeves|Marlie Garza|Elsa Stewart|Frida Whitaker,Mrs. Wall
+356,6:20:24 PM,browning.jaron@madisonps.org,Jaron Browning,Jaron,Browning,Jovan Gomez|Ricardo Sanford|Josue Strong,Mrs. Mcmillan|Mr. Hester
+357,7:18:40 PM,morgan.sophia@madisonps.org,Sophia Morgan,Sophia,Morgan,Jaquan Duke|Aaliyah Moore|Jaqueline Hickman|Miriam Mills,Mrs. Ferrell|Mr. Mcfarland|Mr. Frazier|Mrs. Luna|Mr. Frazier
+358,9:26:21 AM,pope.jacoby@madisonps.org,Jacoby Pope,Jacoby,Pope,Alaina Rogers|Ahmad Meza|Jaylyn Stokes|Macey Gilbert|Serena Mullins,Mrs. Hickman|Mr. Cook|Mr. Terrell
+359,7:04:16 PM,chang.savanna@madisonps.org,Savanna Chang,Savanna,Chang,Eden Hart|Joslyn Mathews|Lamar Murillo|Ava Sullivan|Mekhi Dunn,Mrs. Lawson|Mr. Miles|Mr. Campbell|Mr. Roberts
+360,6:55:09 AM,allen.josiah@madisonps.org,Josiah Allen,Josiah,Allen,Raven Mcmahon|Jadyn Oconnell|Kale Sampson|Leonel Blackburn|Nayeli Gibson,Mr. Floyd|Mrs. Nixon|Mr. King
+361,12:51:37 AM,logan.addison@madisonps.org,Addison Logan,Addison,Logan,Waylon Rosario|Alejandra Ware|Joy Weiss|Joselyn Good|Jazlynn Bond,Mr. Roberts|Mr. Young|Mrs. Reid
+362,9:19:46 AM,vincent.yoselin@madisonps.org,Yoselin Vincent,Yoselin,Vincent,Cassie Valentine,Mr. Dalton|Mrs. Mcmillan|Mrs. Reid|Mrs. Hickman
+363,6:18:50 AM,decker.giselle@madisonps.org,Giselle Decker,Giselle,Decker,Addison Best|Gloria Nunez,Mrs. Marquez|Mr. Roberts|Mr. Cook
+364,8:09:48 AM,paul.sierra@madisonps.org,Sierra Paul,Sierra,Paul,Mark Dudley|Mya Schaefer|Joe Spence|Bentley Moreno|Antonio Bright,Mr. Kemp|Mrs. Rollins|Mr. Hester|Mr. Schaefer|Mr. Hester
+365,4:52:48 PM,mcconnell.monique@madisonps.org,Monique Mcconnell,Monique,Mcconnell,Yamilet Collins|Leonidas Tyler|Dax Ross|Jovanni Abbott|Sophia Morgan,Mrs. Costa|Mr. Collins|Mr. Montoya|Mrs. Conley|Mr. Lowe
+366,6:57:01 PM,shah.breanna@madisonps.org,Breanna Shah,Breanna,Shah,Julie Cardenas|Preston Kaufman|Shayla Beck,Mr. Marshall|Mrs. Braun|Mr. Gibson|Mrs. Pugh|Mrs. Wall
+367,10:33:07 AM,gibson.nayeli@madisonps.org,Nayeli Gibson,Nayeli,Gibson,Wesley Lozano|Tyson Best|Shayla Beck|Monserrat Tapia,Mr. Willis
+368,8:50:56 PM,gray.danika@madisonps.org,Danika Gray,Danika,Gray,Fabian Taylor|Preston Greene|Gideon Patrick|Marco Fry|Vicente Hull,Mrs. Conley|Mr. Huffman
+369,7:08:52 AM,dunn.mekhi@madisonps.org,Mekhi Dunn,Mekhi,Dunn,Danny Bonilla|Mariam Cohen|Lea Grimes|Bradley Coffey|Tomas Chapman,Mrs. Oliver|Mr. Morrow|Mrs. Luna|Mr. Reed|Mrs. Marquez
+370,8:58:49 PM,benton.katelyn@madisonps.org,Katelyn Benton,Katelyn,Benton,Lena Larson|Dominique Elliott|Kristian Proctor|Tate Wilson|Aarav Blackburn,Mrs. Blackburn|Mr. Schaefer|Mr. Suarez
+371,6:49:58 PM,costa.gaven@madisonps.org,Gaven Costa,Gaven,Costa,Leonel Blackburn|Corinne Bolton|Carleigh Sparks|Kylan Wells|Lydia Hutchinson,Mr. Dorsey|Mr. Figueroa|Mrs. Huynh|Mr. Graham
+372,10:07:29 PM,meza.jovani@madisonps.org,Jovani Meza,Jovani,Meza,Vaughn Summers,Mr. Terrell|Mr. Mcfarland|Mr. Richmond
+373,1:03:30 AM,floyd.grayson@madisonps.org,Grayson Floyd,Grayson,Floyd,Savanna Chang|Moses Lambert,Mrs. Flynn|Mrs. Chandler|Mrs. Schaefer
+374,9:54:09 PM,meza.patrick@madisonps.org,Patrick Meza,Patrick,Meza,Makaila Clay|Yareli Irwin|Ireland Fitzgerald|Shayla Beck|Kole Kemp,Mr. Marshall|Mr. Caldwell|Mr. King|Mrs. Reid
+375,6:31:18 AM,russell.bailey@madisonps.org,Bailey Russell,Bailey,Russell,Kristen Allison|Fatima Hall|Tripp Bradford|Penelope Valdez|Vaughn Summers,Mr. Vasquez|Mr. Hester|Mr. Gonzales
+376,5:48:13 PM,tate.oliver@madisonps.org,Oliver Tate,Oliver,Tate,Karissa Wheeler|Amelia Buckley|Tommy Vega,Mrs. Holt|Mrs. Pugh|Mr. Mcguire|Mr. Terrell|Mr. Patrick
+377,8:12:02 AM,morales.beckham@madisonps.org,Beckham Morales,Beckham,Morales,Rihanna Pacheco|Cadence Jacobs|Pedro Wheeler|Tamia Nunez,Mrs. Strong|Mr. Hester|Mrs. Pugh|Mr. Figueroa|Mrs. Schaefer
+378,11:58:59 AM,wood.catalina@madisonps.org,Catalina Wood,Catalina,Wood,Beckham Morales|Joe Beck|Tamia Romero|Tate Wilson|Lucian Parsons,Mr. Vazquez|Mrs. Lam|Mr. Livingston|Mrs. Wade|Mrs. Luna
+379,12:30:38 AM,cabrera.johnathan@madisonps.org,Johnathan Cabrera,Johnathan,Cabrera,Aiyana Gordon|Jorden Roberts|Semaj Braun|Jorden Roberts|Ronald Beltran,Mr. Figueroa
+380,5:49:53 PM,galloway.nigel@madisonps.org,Nigel Galloway,Nigel,Galloway,Ada Gaines|Crystal Grant|Santino Villarreal|Jacey Stout|Xzavier Martinez,Mr. Gillespie|Mr. Figueroa
+381,4:07:14 PM,romero.tamia@madisonps.org,Tamia Romero,Tamia,Romero,Marely Schultz|Jaydon Knapp|Saige Choi|Kamila Bruce|Santino Villarreal,Mr. Frazier|Mr. Braun|Mrs. Pollard|Mr. Patrick|Mr. Collins
+382,6:07:17 PM,olsen.kolton@madisonps.org,Kolton Olsen,Kolton,Olsen,Alanna Crane,Mrs. Hunt|Mr. Gillespie|Mr. Livingston
+383,10:19:38 AM,murillo.isaiah@madisonps.org,Isaiah Murillo,Isaiah,Murillo,Cole Wells|Jovanni Abbott,Mrs. Conley|Mr. Roberts|Mrs. Lam|Mrs. Oliver
+384,1:53:50 AM,jenkins.talia@madisonps.org,Talia Jenkins,Talia,Jenkins,Reid Mueller|Pedro Wheeler|Izaiah Jimenez|Esmeralda Hanson|Desmond Good,Mrs. Wood|Mrs. Chang|Mrs. Marquez
+385,3:05:53 AM,cruz.jazlene@madisonps.org,Jazlene Cruz,Jazlene,Cruz,Clara Vasquez|Michaela Gibbs|Anastasia Turner|Krish Welch|Chaim Terry,Mrs. Lam|Mrs. Chandler|Mrs. Oliver
+386,5:46:22 AM,russo.elise@madisonps.org,Elise Russo,Elise,Russo,Willow Cordova|Charlie Glenn|Zara Jarvis,Mrs. Conley|Mrs. Wade|Mr. Farmer|Mr. Marshall
+387,2:11:47 AM,sloan.vance@madisonps.org,Vance Sloan,Vance,Sloan,Esperanza Velasquez|Payton Parrish|Louis Walls|Jolie Mata,Mrs. Oliver|Mr. Lowe|Mr. Reed
+388,5:12:13 PM,rojas.lucy@madisonps.org,Lucy Rojas,Lucy,Rojas,Jillian Armstrong|Johnny Jackson|Arabella Duffy|Serena Gilbert|Trevor Buchanan,Mrs. Gutierrez|Mrs. Drake|Mr. Graham|Mrs. Ferrell|Mrs. Luna
+389,8:05:31 PM,yates.roman@madisonps.org,Roman Yates,Roman,Yates,Tara Fischer|Terry Mcclain|Nickolas Mays|Alyssa Armstrong|Katherine Allison,Mr. Patrick|Mrs. Strong|Mrs. Wood|Mrs. Hunt|Mrs. Strong
+390,10:27:24 AM,carney.charlee@madisonps.org,Charlee Carney,Charlee,Carney,Whitney Marshall|Kristian Serrano|Mohamed Mack|Thalia Hunt|Mark Cole,Mr. Willis|Mr. Cook|Mr. Cabrera|Mr. King|Mrs. Lam
+391,7:40:25 PM,davenport.kody@madisonps.org,Kody Davenport,Kody,Davenport,Samara Schmitt|Darrell Mcintosh|Kristian Proctor|Katrina Espinoza|Tiana Weiss,Mrs. Flynn
+392,5:21:53 PM,spence.lennon@madisonps.org,Lennon Spence,Lennon,Spence,Madden Mckenzie,Mr. Cabrera|Mr. Cabrera
+393,8:28:43 PM,watkins.german@madisonps.org,German Watkins,German,Watkins,Lennon Spence|Carlee Lane,Mr. Montoya|Mrs. Ferrell|Mr. Thompson|Mrs. Walton|Mrs. Walton
+394,3:06:04 AM,sanchez.clarissa@madisonps.org,Clarissa Sanchez,Clarissa,Sanchez,Jorden Bray|Vicente Hull|Serena Mullins|Danika Wiley|Esperanza Velasquez,Mrs. Sanchez|Mr. Costa|Mr. Edwards
+395,10:11:12 AM,dalton.macie@madisonps.org,Macie Dalton,Macie,Dalton,Katelyn Benton|Jaylyn Strong|Princess Bell|Kristian Frey|Dallas Best,Mrs. Sanchez|Mrs. Hammond|Mr. Vasquez|Mrs. Parsons
+396,5:12:14 PM,crane.jeramiah@madisonps.org,Jeramiah Crane,Jeramiah,Crane,Camryn Harrell|Eric Cantrell|Izaiah Barry,Mr. Vazquez|Mr. Reed|Mrs. Rollins
+397,1:41:39 AM,newton.jerimiah@madisonps.org,Jerimiah Newton,Jerimiah,Newton,Tristian Roberson|Madeleine Benson|Marcos Hodges|Zachary Perry,Mr. Vazquez|Mrs. Solomon|Mrs. Hunt
+398,9:47:49 PM,choi.lara@madisonps.org,Lara Choi,Lara,Choi,Zayden Oconnell|Kody Davenport|Dalia Hensley|Jameson Marshall|Quentin Gray,Mrs. Hahn|Mr. Dalton|Mrs. Gutierrez|Mrs. Schaefer
+399,7:25:37 AM,conway.brittany@madisonps.org,Brittany Conway,Brittany,Conway,Kaylee Vincent|Zavier Sandoval|Kristian Serrano|Jane Logan|Sebastian Ingram,Mrs. Nixon|Mrs. Luna|Mrs. Ferrell
+400,1:46:34 PM,dennis.raelynn@madisonps.org,Raelynn Dennis,Raelynn,Dennis,Tristian Roberson|Jamari Krueger|Caitlyn Raymond|Lucia Owens|Jarrett Perry,Mrs. Solomon|Mr. Cook|Mr. Suarez|Mr. Cabrera|Mrs. Hammond
+401,5:21:58 PM,harper.mark@madisonps.org,Mark Harper,Mark,Harper,George Poole|Malakai Ochoa|Patrick Meza|Avah Harding|Mckinley Blair,Mrs. Hahn|Mr. Terrell|Mr. Terrell|Mrs. Drake|Mr. Livingston
+402,4:27:07 AM,chang.zaiden@madisonps.org,Zaiden Chang,Zaiden,Chang,Jolie Salas,Mrs. Parsons|Mr. King|Mr. Richmond|Mr. Willis|Mrs. Strong
+403,12:50:55 AM,hodge.karlee@madisonps.org,Karlee Hodge,Karlee,Hodge,Alisson Terry|Hassan Hawkins,Mr. Mcguire
+404,4:17:03 PM,martinez.xzavier@madisonps.org,Xzavier Martinez,Xzavier,Martinez,Leland Hutchinson|Nia Pacheco|Byron Woodard|Emelia Shields|Devin Henry,Mr. Montoya|Mr. Young
+405,4:25:05 AM,walls.ezequiel@madisonps.org,Ezequiel Walls,Ezequiel,Walls,Princess Bell|Sierra Paul|Madeleine Benson|Tomas Chapman|Clarissa Sanchez,Mrs. Chang|Mr. Dalton|Mrs. Luna|Mr. Carey|Mr. Dalton
+406,1:23:35 AM,lawrence.dominick@madisonps.org,Dominick Lawrence,Dominick,Lawrence,Brooks Caldwell|Myles Estes|Kyla King,Mrs. Chavez|Mr. Reed|Mrs. Chavez
+407,4:48:33 AM,mahoney.haiden@madisonps.org,Haiden Mahoney,Haiden,Mahoney,Abby Blackburn|Dayton Allison|Rory Goodman|Lara Choi,Mrs. Pollard|Mrs. Lam|Mrs. Strong|Mr. Terrell
+408,9:40:02 PM,hull.vicente@madisonps.org,Vicente Hull,Vicente,Hull,Paisley Booker|Trevin Steele|Jazlene Cruz|Thalia Hunt|Lindsay Levine,Mrs. Solomon|Mr. Costa|Mrs. Sanchez
+409,2:08:14 PM,grant.sidney@madisonps.org,Sidney Grant,Sidney,Grant,Kyla King|Brycen Golden|Antony Combs|Noelle Phillips|Keyon Cisneros,Mrs. Nixon|Mr. Lowe|Mrs. Pollard
+410,3:11:20 AM,norman.jared@madisonps.org,Jared Norman,Jared,Norman,Beau Camacho|Yasmin Hodge|Corinne Bolton|Joe Spence|Alyssa Armstrong,Mr. Thompson|Mr. Miles|Mr. Roberts|Mr. Vazquez
+411,12:36:05 PM,levy.kassidy@madisonps.org,Kassidy Levy,Kassidy,Levy,Danika Gray|Julianne Drake|Nasir Warren|Sherlyn Tran|Pamela Moyer,Mrs. Chang|Mrs. Pollard|Mr. Farmer
+412,4:48:50 PM,snyder.peyton@madisonps.org,Peyton Snyder,Peyton,Snyder,Gavin Foster,Mr. Merritt|Mrs. Bentley|Mrs. Nixon|Mrs. Hahn|Mrs. Oliver
+413,2:42:40 AM,blankenship.london@madisonps.org,London Blankenship,London,Blankenship,Denzel Kelley|Kaley Fox,Mr. Reed|Mrs. Blackburn|Mr. Cook|Mrs. Solomon|Mrs. Kane
+414,4:14:11 PM,dillon.caleb@madisonps.org,Caleb Dillon,Caleb,Dillon,Elle Lindsey|Avah Harding|Kailee Flores|Max Hubbard|Chasity Shea,Mr. Richmond|Mr. Lucero|Mrs. Oliver|Mrs. Oliver|Mrs. Mosley
+415,11:31:23 PM,burns.aaliyah@madisonps.org,Aaliyah Burns,Aaliyah,Burns,Andrea Vance|Carmelo Bernard|Wade Gillespie|Gia Mcknight|Alaina Rogers,Mr. Edwards
+416,10:42:33 AM,bullock.liana@madisonps.org,Liana Bullock,Liana,Bullock,Kristen Allison|Sheldon Little|Thalia Hunt,Mr. King|Mrs. Blackburn
+417,8:38:38 PM,walton.saniya@madisonps.org,Saniya Walton,Saniya,Walton,Desmond Good|Liana Bullock|Kathleen Rice|Jimmy Ware,Mrs. Maddox|Mrs. Costa|Mrs. Francis|Mr. Gonzales|Mr. Lucero
+418,3:19:35 AM,bernard.dayami@madisonps.org,Dayami Bernard,Dayami,Bernard,Kamryn Graves|Madilyn Bernard|Nicolas Huff|Jaron Browning|Gilbert Mason,Mr. Roberts|Mr. Cook|Mrs. Schaefer
+419,8:34:46 PM,reeves.shelby@madisonps.org,Shelby Reeves,Shelby,Reeves,Ahmad Meza|Malakai Ochoa|Tiana Weiss|Paola Bartlett|Tamia Romero,Mr. Gonzales|Mr. Braun|Mrs. Costa|Mr. Gillespie
+420,12:19:02 PM,kramer.joy@madisonps.org,Joy Kramer,Joy,Kramer,Mireya Webb|Peyton Lowe|Milton Rangel|Rayan Powers|Tara Fischer,Mr. Richmond|Mrs. Kane|Mrs. Velez
+421,6:07:37 PM,goodman.jeffery@madisonps.org,Jeffery Goodman,Jeffery,Goodman,Josue Lucero|Kameron Blanchard|Jeramiah Crane|Dania Benson|Jane Logan,Mrs. Flynn|Mrs. Pugh|Mrs. Wall
+422,2:21:37 AM,franco.willow@madisonps.org,Willow Franco,Willow,Franco,Kaydence Fernandez,Mrs. Ferrell|Mrs. Reid|Mrs. Pugh|Mrs. Lam
+423,8:58:40 PM,blackburn.aarav@madisonps.org,Aarav Blackburn,Aarav,Blackburn,Charles Morrow|Raegan Rush,Mrs. Harvey|Mr. Frazier|Mr. Marshall
+424,4:33:20 AM,osborn.malia@madisonps.org,Malia Osborn,Malia,Osborn,Jimmy Ware|Raelynn Dennis|Kolton Olsen|Elise Herring|Fletcher Hanna,Mrs. Walton|Mrs. Chavez|Mr. Huffman|Mrs. Lam|Mrs. Gutierrez
+425,12:04:45 PM,krause.cristian@madisonps.org,Cristian Krause,Cristian,Krause,Elian Ryan|Ryland Trujillo|London Blankenship|Jarrett Perry|Yamilet Rowe,Mrs. Savage|Mrs. Mcmillan|Mrs. Nixon|Mr. Costa|Mrs. Mosley
+426,2:57:20 AM,decker.jenny@madisonps.org,Jenny Decker,Jenny,Decker,German Watkins|Jaylyn Stokes|Jordon Hodges,Mrs. Walton|Mrs. Pugh|Mrs. Francis|Mr. Campbell|Mr. Figueroa
+427,11:31:55 PM,knight.shaun@madisonps.org,Shaun Knight,Shaun,Knight,Mckayla Sherman|Abby Blackburn|Pamela Arellano|Averi Donovan,Mr. Figueroa
+428,12:32:23 AM,dennis.kenny@madisonps.org,Kenny Dennis,Kenny,Dennis,Ashlynn Donaldson|Elijah James|Malachi Owen|Casey Hernandez|Samuel Keith,Mr. Montoya|Mrs. Bentley
+429,5:40:36 PM,white.pamela@madisonps.org,Pamela White,Pamela,White,Ezekiel Mahoney|Fernanda Tucker|Hunter Mckenzie|Sidney Grant|Kenny Dennis,Mrs. Solomon|Mr. Richmond|Mrs. Kane|Mr. King|Mrs. Velez
+430,2:26:24 PM,dougherty.gary@madisonps.org,Gary Dougherty,Gary,Dougherty,Aliyah Newman|Jillian Armstrong|Jaidyn Finley|Miah Vincent|Jared Norman,Mr. Patrick|Mrs. Costa|Mr. Willis
+431,12:55:51 AM,fletcher.nayeli@madisonps.org,Nayeli Fletcher,Nayeli,Fletcher,Amare Weiss|Amelia Buckley|Demarion Burke|Liana Bullock|Steve Hooper,Mrs. Lam|Mrs. Costa|Mrs. Mcmillan|Mr. Hester
+432,8:20:03 AM,vaughn.alexus@madisonps.org,Alexus Vaughn,Alexus,Vaughn,Rosemary Fuentes,Mrs. Hahn|Mrs. Pugh|Mrs. Pollard
+433,8:48:36 AM,beasley.jameson@madisonps.org,Jameson Beasley,Jameson,Beasley,Jazlene Cruz|Trevin Steele,Mrs. Savage|Mrs. Braun|Mr. Lucero
+434,3:58:32 AM,chaney.juliet@madisonps.org,Juliet Chaney,Juliet,Chaney,Amelia Buckley|Alena Christian|Jaylyn Stokes|Zaid Crawford|Jaslene Marsh,Mr. Kemp|Mr. Dalton|Mrs. Braun|Mrs. Maddox
+435,9:55:35 PM,levy.dixie@madisonps.org,Dixie Levy,Dixie,Levy,Jamie Hill|Maci Swanson|Preston Kaufman|Tamia Romero|Finnegan Small,Mrs. Gutierrez|Mr. Dorsey|Mrs. Lucas
+436,5:06:57 AM,pacheco.rihanna@madisonps.org,Rihanna Pacheco,Rihanna,Pacheco,Johnny Jackson|Jadyn Oconnell|Leonidas Tyler,Mrs. Braun|Mrs. Wood|Mrs. Sanchez|Mr. Mcguire|Mr. Cook
+437,1:11:47 AM,clay.makaila@madisonps.org,Makaila Clay,Makaila,Clay,Van Washington|Edgar Valenzuela|Jerome Gilbert|Macie Dalton,Mr. Floyd|Mrs. Ferrell|Mrs. Hickman|Mrs. Kane|Mrs. Drake
+438,2:07:09 AM,leblanc.nigel@madisonps.org,Nigel Leblanc,Nigel,Leblanc,Adalyn Steele|Jamal Johnston|Jayla Ayers|Joe Beck|Mariam Cohen,Mrs. Lawson|Mr. Mcguire|Mrs. Rollins|Mr. Costa|Mr. Hester
+439,9:57:22 AM,wade.mikaela@madisonps.org,Mikaela Wade,Mikaela,Wade,Raegan Rush|Kael Shah|Karlee Hodge|Jillian Armstrong|Anika Hull,Mr. Terrell
+440,8:05:33 PM,herman.tessa@madisonps.org,Tessa Herman,Tessa,Herman,Nikhil Wyatt|Ryan Solomon|Javion Weiss|Trevin Steele|Charlee Carney,Mr. Dorsey|Mrs. Hickman
+441,7:35:35 PM,beck.shayla@madisonps.org,Shayla Beck,Shayla,Beck,Trevin Steele|Reid Mueller|Cory Silva|Serena Meadows|Monique Schwartz,Mr. Mcguire|Mr. Caldwell|Mrs. Gutierrez|Mr. Roberts|Mrs. Harvey
+442,2:10:00 AM,walsh.evangeline@madisonps.org,Evangeline Walsh,Evangeline,Walsh,Edgar Valenzuela,Mrs. Braun|Mrs. Strong|Mrs. Pollard
+443,4:40:19 PM,coleman.finley@madisonps.org,Finley Coleman,Finley,Coleman,Khalil Wyatt|Zayden Oconnell,Mr. Suarez|Mrs. Pugh|Mr. Frazier|Mrs. Luna
+444,9:46:43 AM,frederick.liana@madisonps.org,Liana Frederick,Liana,Frederick,Ronald Beltran|Tess Petersen|Jacey Bryant|Jacey Bryant|Dixie Levy,Mr. Edwards|Mrs. Hunt|Mrs. Oliver
+445,4:25:24 PM,mccormick.darren@madisonps.org,Darren Mccormick,Darren,Mccormick,Jessie Flynn|Casey Hernandez|Pedro Harris|Bradley Coffey|Kamryn Graves,Mrs. Rollins|Mr. Marshall|Mrs. Lawson
+446,12:55:23 PM,shields.emelia@madisonps.org,Emelia Shields,Emelia,Shields,Yadira Hodge|Lane Macdonald|Robert Watson,Mr. Edwards|Mr. Webb|Mr. Lucero|Mr. Carey
+447,8:38:02 PM,pacheco.nia@madisonps.org,Nia Pacheco,Nia,Pacheco,Muhammad Bird|Mark Cole|Rodolfo Tyler|Jagger Farrell,Mr. Kemp|Mrs. Marquez|Mrs. Strong
+448,3:38:21 AM,simon.lindsay@madisonps.org,Lindsay Simon,Lindsay,Simon,Jonathon Castaneda|Jasiah Moses|Jaqueline Hickman|Izaiah Barry|Kenna Landry,Mr. Willis|Mrs. Wall|Mr. Cook|Mr. Edwards|Mr. Morrow
+449,4:23:03 AM,hubbard.max@madisonps.org,Max Hubbard,Max,Hubbard,Marley Johnston|Jasmin Dillon|Hassan Hawkins|Jaylin Hodge|Aliyah Newman,Mrs. Conley|Mr. Figueroa|Mr. Gibson|Mrs. Chandler|Mr. Dorsey
+450,8:18:51 PM,hooper.steve@madisonps.org,Steve Hooper,Steve,Hooper,Kai Mathews|Averi Barr|Isabelle Cordova|Kaylee Vincent|Malachi Owen,Mrs. Kane|Mrs. Maddox|Mrs. Drake|Mrs. Hammond|Mr. Willis
+451,5:06:11 AM,chen.keyon@madisonps.org,Keyon Chen,Keyon,Chen,Donna Andrews|Mylie Arias|Carleigh Espinoza|Ulises Mullen|Calvin Garrison,Mrs. Hahn
+452,10:34:49 AM,camacho.beau@madisonps.org,Beau Camacho,Beau,Camacho,Sara Orr,Mr. Vasquez|Mrs. Lucas
+453,11:30:10 PM,harmon.rachael@madisonps.org,Rachael Harmon,Rachael,Harmon,Sara Orr|Javier Maynard,Mr. Gonzales|Mr. Terrell|Mrs. Lawson|Mr. Dalton|Mr. Young
+454,8:28:05 PM,best.tyson@madisonps.org,Tyson Best,Tyson,Best,Ava Sullivan|Clara Vasquez|Quinn Knapp|Lana Boone|Yasmin Hodge,Mrs. Solomon|Mrs. Marquez|Mrs. Wall
+455,10:21:21 PM,archer.noelle@madisonps.org,Noelle Archer,Noelle,Archer,Elisa Castillo|Jakobe Andrade|Jaidyn Nolan|Liana Bullock|Amirah Liu,Mr. Mcfarland|Mr. Richmond|Mr. Morrow|Mrs. Hunt
+456,11:49:12 PM,gilbert.serena@madisonps.org,Serena Gilbert,Serena,Gilbert,Jayden Hutchinson|Jolie Mata|Sloane Savage,Mr. Carey|Mrs. Rollins|Mr. Cabrera
+457,9:15:12 AM,francis.lorena@madisonps.org,Lorena Francis,Lorena,Francis,Alondra Boyle|Danica Hansen|Aleena Watson|Leonel Shelton,Mrs. Pollard|Mr. Frazier|Mr. Costa
+458,7:30:57 PM,massey.kale@madisonps.org,Kale Massey,Kale,Massey,Jadyn Gardner|Fletcher Hanna|Mohammad Miles|Bennett Christian|Alex Bentley,Mrs. Pollard|Mr. Collins|Mrs. Flynn|Mrs. Bentley
+459,11:59:36 AM,buck.noah@madisonps.org,Noah Buck,Noah,Buck,Elle Lindsey|Shelby Reeves|Marcos Mills|Jamal Johnston|Vance Mccarthy,Mr. Thompson|Mrs. Lucas|Mr. Merritt
+460,4:49:09 AM,leach.gabriella@madisonps.org,Gabriella Leach,Gabriella,Leach,Sam Werner|Shania Ware|Aliyah Newman|Caylee Nunez|Alani Oneill,Mr. Braun|Mr. Graham|Mr. Carey|Mr. Edwards|Mrs. Francis
+461,1:42:54 PM,valenzuela.edgar@madisonps.org,Edgar Valenzuela,Edgar,Valenzuela,Monique Mcconnell|Thalia Briggs|Gaven Costa|Macey Gilbert|Macie Poole,Mrs. Wall|Mr. Webb|Mr. Mcguire|Mrs. Braun|Mrs. Pollard
+462,12:36:12 PM,donaldson.ashlynn@madisonps.org,Ashlynn Donaldson,Ashlynn,Donaldson,Kael Shah,Mrs. Ferrell|Mrs. Hammond|Mr. Hester|Mrs. Strong|Mrs. Pugh
+463,4:04:26 AM,wang.calvin@madisonps.org,Calvin Wang,Calvin,Wang,Claire Moreno|Toby Arias,Mrs. Lam
+464,8:10:32 PM,buck.adriana@madisonps.org,Adriana Buck,Adriana,Buck,Noelle Phillips|Faith Torres|Aliyah Newman|Joshua Ferrell|Jeffery Goodman,Mrs. Wall|Mrs. Blackburn
+465,12:36:14 PM,acosta.cherish@madisonps.org,Cherish Acosta,Cherish,Acosta,Thalia Simpson|Cailyn Horton|Jamison James|Evie Thornton|Ethen Hamilton,Mrs. Costa|Mr. Richmond|Mrs. Mcmillan|Mrs. Hahn|Mr. Gonzales
+466,7:08:03 PM,stokes.jaylyn@madisonps.org,Jaylyn Stokes,Jaylyn,Stokes,Preston Kaufman|Gilbert Mason|Amiah Berger,Mr. Campbell|Mrs. Nixon|Mrs. Conley
+467,6:18:27 PM,kelley.denzel@madisonps.org,Denzel Kelley,Denzel,Kelley,Tripp Ashley|Isaiah Herman|Amber Palmer|Isaiah Murillo,Mrs. Pugh|Mr. Mcfarland|Mrs. Pugh|Mrs. Harvey
+468,9:26:00 PM,taylor.noah@madisonps.org,Noah Taylor,Noah,Taylor,Kyla King|Preston Greene|Josiah Allen|Jase Macdonald|Cortez Savage,Mr. Dorsey|Mr. Cook|Mr. Hester
+469,3:53:55 AM,andrade.jakobe@madisonps.org,Jakobe Andrade,Jakobe,Andrade,Jordan Hardy|Easton Mckay|Brogan Marquez|Liana Bullock|Audrey Deleon,Mr. Huffman|Mr. Cook|Mrs. Velez
+470,2:42:38 PM,evans.catherine@madisonps.org,Catherine Evans,Catherine,Evans,Duncan Evans|Jacoby Pope|Jarrett Perry|Waylon Rosario|Tanya Little,Mrs. Holt|Mr. Morrow|Mr. Dalton|Mrs. Pugh
+471,4:41:27 PM,macdonald.jase@madisonps.org,Jase Macdonald,Jase,Macdonald,Pierce Pittman|Dulce Osborn|Roderick Decker|Jaquan Duke|Van Washington,Mr. Vasquez|Mr. Graham|Mrs. Hammond
+472,10:04:35 AM,duffy.andres@madisonps.org,Andres Duffy,Andres,Duffy,Keon Santos,Mr. Gonzales|Mr. Frazier|Mr. Mcfarland|Mrs. Hunt|Mr. Floyd
+473,7:59:10 AM,liu.amirah@madisonps.org,Amirah Liu,Amirah,Liu,Nigel Galloway|Maren Montgomery,Mrs. Conley|Mr. Rose|Mrs. Reid|Mr. Roberts|Mr. Reed
+474,12:57:19 PM,meza.carla@madisonps.org,Carla Meza,Carla,Meza,Tyler Browning|Mark Cole|Jade Moses|Joanna Wilkerson|Jason Lin,Mrs. Parsons|Mr. Rose|Mr. Gentry|Mr. Terrell|Mr. Morrow
+475,7:55:46 AM,ali.camryn@madisonps.org,Camryn Ali,Camryn,Ali,Reid Mueller|Zackery Young|Amelie Kent|Jorge Contreras|Salvatore Choi,Mrs. Mosley
+476,10:30:13 PM,ray.scarlett@madisonps.org,Scarlett Ray,Scarlett,Ray,Lydia Owens|Hector Marks|Maurice Solomon,Mr. Suarez|Mrs. Wall
+477,6:46:57 AM,terry.chaim@madisonps.org,Chaim Terry,Chaim,Terry,Kallie Huber|Jerome Gilbert|Toby Arias|Cadence Hunt,Mr. Huffman|Mr. Roberts|Mr. Webb|Mrs. Hahn|Mr. Livingston
+478,7:55:56 AM,watson.aleena@madisonps.org,Aleena Watson,Aleena,Watson,Mike Sherman|Josh Trujillo|Lena Larson|Robert Watson|Clara Vasquez,Mrs. Savage|Mrs. Hammond|Mr. Edwards
+479,5:35:38 PM,dominguez.mercedes@madisonps.org,Mercedes Dominguez,Mercedes,Dominguez,Carla Meza|Jane Logan|Skyler Watkins|Thalia Hunt|Abby Blackburn,Mrs. Nixon|Mrs. Drake|Mrs. Mcmillan|Mr. Rose
+480,12:22:43 AM,mcpherson.stephen@madisonps.org,Stephen Mcpherson,Stephen,Mcpherson,Pedro Harris|Shania Ware|Donna Andrews|Raphael Gregory|Tatiana Sexton,Mrs. Marquez|Mrs. Costa|Mrs. Braun
+481,1:19:37 AM,boone.lana@madisonps.org,Lana Boone,Lana,Boone,Jalen Ortega|Lucia Marsh|Elias Lynn|Izabelle Blake|Noelle Archer,Mr. Thompson|Mrs. Bentley|Mrs. Strong
+482,9:14:17 PM,simon.emerson@madisonps.org,Emerson Simon,Emerson,Simon,Leonel Shelton,Mrs. Chang|Mrs. Hunt|Mrs. Maddox|Mr. Montoya
+483,4:51:55 AM,marsh.ainsley@madisonps.org,Ainsley Marsh,Ainsley,Marsh,Tommy Vega|Anastasia Turner,Mr. King|Mrs. Solomon|Mr. Patrick
+484,12:27:33 PM,chase.tobias@madisonps.org,Tobias Chase,Tobias,Chase,Khalil Wyatt|Abram Rogers|Serena Mullins|Damon Graham|Ryan Solomon,Mr. Vasquez|Mrs. Lawson|Mr. Webb|Mr. Frazier|Mr. Cook
+485,11:08:07 PM,gilbert.macey@madisonps.org,Macey Gilbert,Macey,Gilbert,Terry Mcclain|Lewis Hester|Damari Chung|Tori Summers|Jessica Frank,Mr. Vazquez|Mr. Patrick|Mr. Caldwell|Mr. Reed|Mr. Webb
+486,4:29:32 PM,patrick.gideon@madisonps.org,Gideon Patrick,Gideon,Patrick,Kaiya Frye|Joy Kramer|Luciana Douglas,Mrs. Ferrell|Mr. Vazquez|Mr. King|Mrs. Hahn|Mr. Thompson
+487,12:26:40 PM,hensley.marin@madisonps.org,Marin Hensley,Marin,Hensley,Toby Gardner|Duncan Evans|Nicolas Huff|Ramiro Lee,Mrs. Walton
+488,8:52:00 PM,finley.tanya@madisonps.org,Tanya Finley,Tanya,Finley,Teagan Bush|Cortez Savage|Josue Strong|Cory Silva|Dereon Barrera,Mrs. Mosley|Mrs. Lucas
+489,6:49:26 AM,sexton.shayna@madisonps.org,Shayna Sexton,Shayna,Sexton,Payton Ritter|Yareli Irwin|Valerie Perkins|Jayla Martinez|Tanya Finley,Mr. Mcfarland|Mrs. Walton|Mrs. Savage|Mrs. Braun|Mrs. Harvey
+490,5:17:34 AM,greene.preston@madisonps.org,Preston Greene,Preston,Greene,Royce Haney|John Bernard|Ayden Woodward|Mattie Potter|Ireland Fitzgerald,Mr. Schaefer|Mrs. Chavez|Mrs. Savage
+491,12:18:28 AM,everett.kayden@madisonps.org,Kayden Everett,Kayden,Everett,Cohen Benton|Carla Meza|Tristian Roberson|Keshawn Reese|Teagan Bush,Mrs. Oliver|Mr. Floyd|Mr. Rose|Mr. Willis
+492,6:04:34 PM,gibbs.michaela@madisonps.org,Michaela Gibbs,Michaela,Gibbs,Giada Gaines,Mr. Marshall|Mr. Dorsey|Mrs. Sanchez
+493,1:37:43 AM,villarreal.santino@madisonps.org,Santino Villarreal,Santino,Villarreal,Miriam Mills|Tyson Best,Mr. Mcguire|Mrs. Braun|Mrs. Mosley
+494,6:06:11 PM,swanson.maci@madisonps.org,Maci Swanson,Maci,Swanson,Jordan Hardy|Yandel Carey|Aiyana Gordon|Steven Montoya|Yareli Irwin,Mr. Thompson|Mr. Schaefer|Mrs. Flynn|Mr. Richmond
+495,2:44:32 AM,duffy.arabella@madisonps.org,Arabella Duffy,Arabella,Duffy,Josh Trujillo|Camryn Harrell|Rosemary Edwards|Kasey Page|Kristian Serrano,Mr. Gillespie|Mr. Miles|Mr. Thompson
+496,7:01:08 PM,fitzgerald.ireland@madisonps.org,Ireland Fitzgerald,Ireland,Fitzgerald,Shaun Knight|Antonio Bright|Casey Hernandez,Mrs. Chang|Mrs. Wade|Mrs. Sanchez|Mr. Young|Mr. Mcguire
+497,4:28:11 PM,king.kyla@madisonps.org,Kyla King,Kyla,King,Mohammad Miles|Scarlett Ray|Jacoby Pope|Daniela Jimenez,Mr. Suarez|Mr. Thompson|Mr. Livingston|Mrs. Bentley|Mrs. Schaefer
+498,3:10:51 AM,cook.gabriella@madisonps.org,Gabriella Cook,Gabriella,Cook,Patience Benton|Jazmin Kramer|Tanya Finley|Cale Harrington|Maximo Hogan,Mrs. Gutierrez|Mr. Collins|Mr. Edwards|Mr. Cook|Mr. Vasquez
+499,1:51:47 PM,marquez.brogan@madisonps.org,Brogan Marquez,Brogan,Marquez,Samuel Keith|Brynlee Weeks|Sofia Rodriguez|Jaylyn Strong|Kameron Blanchard,Mrs. Harvey
+500,5:02:16 AM,mcclain.terry@madisonps.org,Terry Mcclain,Terry,Mcclain,Aaliyah Burns|Jacob Neal|Patience Benton|Malachi Owen|Yamilet Collins,Mrs. Chandler|Mr. Braun
+501,12:23:05 AM,hanna.morgan@madisonps.org,Morgan Hanna,Morgan,Hanna,Lewis Hester|Zachary Perry|Valentina Wagner|Cadence Jacobs|Eliezer Sweeney,Mr. Braun|Mrs. Chang|Mrs. Solomon|Mrs. Lawson|Mrs. Walton
+502,12:12:00 AM,gilbert.andre@madisonps.org,Andre Gilbert,Andre,Gilbert,Lilia Strong,Mrs. Parsons|Mrs. Braun|Mr. Thompson
+503,12:13:34 PM,lara.rubi@madisonps.org,Rubi Lara,Rubi,Lara,Imani Kidd|Nickolas Mays,Mrs. Holt|Mr. Frazier|Mr. Gonzales|Mrs. Wall
+504,10:58:31 PM,allison.easton@madisonps.org,Easton Allison,Easton,Allison,Keon Stone|Willow Cordova|Zara Jarvis|Jacey Stout|Josue Lucero,Mrs. Luna|Mrs. Harvey|Mr. Graham
+505,11:43:36 PM,nichols.michaela@madisonps.org,Michaela Nichols,Michaela,Nichols,Madilyn Bernard|Hazel Wise|Muhammad Bird|Bradley Coffey|Jocelyn Randolph,Mr. Miles|Mrs. Mcmillan|Mr. Farmer
+506,12:05:49 AM,pacheco.marcel@madisonps.org,Marcel Pacheco,Marcel,Pacheco,Jadiel Kennedy|Isaiah Reed|Bradley Coffey,Mr. Kemp|Mr. Cabrera|Mr. Merritt|Mrs. Ferrell
+507,11:34:14 AM,sparks.carleigh@madisonps.org,Carleigh Sparks,Carleigh,Sparks,Joe Spence|Anika Hull|Janet Schultz|Serena Mullins,Mrs. Hunt|Mrs. Chang|Mrs. Velez
+508,9:12:03 PM,lamb.kaylee@madisonps.org,Kaylee Lamb,Kaylee,Lamb,Mikaela Wade|Tanya Finley|Tara Richmond|Deanna Brandt|Alondra Boyle,Mrs. Harvey|Mrs. Francis|Mr. Rose|Mrs. Drake|Mrs. Pollard
+509,7:19:52 PM,wiley.andy@madisonps.org,Andy Wiley,Andy,Wiley,Liana Bullock|Jocelyn Randolph|Waylon Rosario|Kassidy Levy|Dalia Hensley,Mr. Collins|Mrs. Holt|Mrs. Oliver|Mr. Figueroa|Mr. Miles
+510,10:35:12 AM,hunt.killian@madisonps.org,Killian Hunt,Killian,Hunt,Alannah Cantu|Josh Howe|Broderick Hinton|Trevin Steele|Leonel Garrett,Mr. Figueroa|Mr. Young|Mr. Braun|Mr. Terrell|Mr. Vazquez
+511,7:23:55 AM,adams.joaquin@madisonps.org,Joaquin Adams,Joaquin,Adams,Quinn Knapp|Maximus Mckay|Jolie Salas|Jayla Martinez|Reece Morgan,Mr. Webb
+512,2:37:31 PM,wagner.valentina@madisonps.org,Valentina Wagner,Valentina,Wagner,Ace Parks,Mrs. Nixon|Mrs. Drake
+513,8:24:37 AM,foley.lance@madisonps.org,Lance Foley,Lance,Foley,Jagger Farrell|Ezekiel Mahoney,Mrs. Wall|Mr. King|Mr. Gillespie|Mr. Cook|Mrs. Marquez
+514,5:18:15 AM,delacruz.tiffany@madisonps.org,Tiffany Delacruz,Tiffany,Delacruz,Kevin Houston|Romeo Carrillo|Raegan Rush|Adriana Buck|Makaila Clay,Mr. Farmer|Mrs. Lucas|Mrs. Solomon
+515,3:40:22 PM,pacheco.raphael@madisonps.org,Raphael Pacheco,Raphael,Pacheco,Payton Ritter|Jerimiah Newton|Broderick Hinton|Zaiden Chang|Arabella Duffy,Mrs. Lucas|Mrs. Lucas|Mrs. Gutierrez|Mr. Lucero
+516,3:26:56 PM,mckay.maximus@madisonps.org,Maximus Mckay,Maximus,Mckay,Marco Fry|Peyton Snyder|Kayden Everett,Mrs. Wall|Mr. Braun|Mrs. Strong
+517,5:10:14 AM,mullen.ulises@madisonps.org,Ulises Mullen,Ulises,Mullen,Jaidyn Nolan|Hunter Mckenzie|Noelle Archer|Lamar Murillo,Mr. King|Mr. Merritt|Mrs. Braun
+518,4:34:40 AM,madden.braedon@madisonps.org,Braedon Madden,Braedon,Madden,Penelope Valdez|Joanna Waters|Haiden Mahoney|Pamela Ayala|Kaylee Vincent,Mr. Gibson|Mr. Vasquez|Mrs. Holt|Mrs. Lucas
+519,5:47:52 PM,brewer.zion@madisonps.org,Zion Brewer,Zion,Brewer,Jameson Beasley|Alanna Crane|Alannah Cantu|Jayleen Vincent|Kadence Lester,Mrs. Schaefer|Mrs. Blackburn|Mrs. Braun
+520,4:29:51 PM,collier.kenya@madisonps.org,Kenya Collier,Kenya,Collier,Gilbert Mason|Melina Hammond|Marcel Pacheco|Dallas Munoz|Mike Sherman,Mrs. Maddox|Mrs. Hammond|Mr. Miles|Mrs. Nixon|Mr. Mcguire
+521,12:26:40 PM,duffy.sanai@madisonps.org,Sanai Duffy,Sanai,Duffy,Elian Ryan|Calvin Wang|Marely Fuentes|Zackery Galloway|Jovani Arellano,Mr. Morrow|Mrs. Huynh|Mrs. Hahn|Mrs. Rollins|Mr. Young
+522,4:46:16 AM,summers.tori@madisonps.org,Tori Summers,Tori,Summers,Zara Jarvis,Mrs. Wade|Mr. Cook|Mrs. Pollard|Mrs. Francis|Mrs. Hammond
+523,1:23:43 AM,benton.cohen@madisonps.org,Cohen Benton,Cohen,Benton,Shawn Nguyen|Miriam Mills,Mr. Mcguire
+524,9:34:57 PM,roman.zander@madisonps.org,Zander Roman,Zander,Roman,Kasey Page|Salma Blake|Justin Jacobs|Seth Woods|Audrey Deleon,Mrs. Solomon|Mrs. Schaefer
+525,1:52:03 PM,sherman.mike@madisonps.org,Mike Sherman,Mike,Sherman,Noelle Santana|Casey Hernandez|Oliver Tate|Shamar Fields|Tess Petersen,Mr. Morrow|Mr. Graham|Mrs. Harvey|Mr. Lowe|Mrs. Kane
+526,1:42:40 AM,wright.nathan@madisonps.org,Nathan Wright,Nathan,Wright,Garrett Chavez|Macey Horn|Charlotte Burns,Mr. Dorsey|Mr. Marshall|Mrs. Blackburn
+527,6:29:46 AM,wiley.danika@madisonps.org,Danika Wiley,Danika,Wiley,Cohen Benton|Mark Cole|Anika Rojas|Serena Mullins,Mrs. Rollins|Mr. Gibson|Mrs. Walton|Mrs. Holt
+528,7:15:15 AM,estes.myles@madisonps.org,Myles Estes,Myles,Estes,Carissa Riddle|Kaylen Bush|Isiah Crawford|Cassandra Fitzgerald|Bennett Christian,Mr. Edwards|Mrs. Costa|Mr. Gibson
+529,4:43:22 AM,ritter.payton@madisonps.org,Payton Ritter,Payton,Ritter,Patience Benton|Jovani Arellano|Yareli Irwin|Natalya Hendricks|Jada Walls,Mrs. Parsons|Mr. Campbell|Mr. Hester
+530,2:46:45 PM,johnston.jamal@madisonps.org,Jamal Johnston,Jamal,Johnston,Roman Shepard|Joe Shea|Miah Vincent|Matthias Cline|Caitlyn Raymond,Mr. Young|Mr. Gibson|Mr. Merritt|Mrs. Costa
+531,3:45:54 PM,martinez.jayla@madisonps.org,Jayla Martinez,Jayla,Martinez,Salma Barnes|Abel Jacobs|Isaiah Reed|Aarav Mcclain|Nayeli Fletcher,Mrs. Harvey|Mrs. Hunt|Mr. Farmer
+532,1:23:18 PM,perry.jarrett@madisonps.org,Jarrett Perry,Jarrett,Perry,Cherish Acosta,Mrs. Oliver|Mr. Cook|Mrs. Mosley|Mrs. Reid|Mr. Figueroa
+533,4:00:01 PM,santos.keon@madisonps.org,Keon Santos,Keon,Santos,Joslyn Mathews|Jacob Neal,Mr. Braun|Mr. Floyd|Mrs. Mosley|Mrs. Walton|Mr. Reed
+534,11:54:22 AM,silva.cory@madisonps.org,Cory Silva,Cory,Silva,Lucian Parsons|Ethen Hamilton|Joy Weiss|Noelle Archer|Yadira Hodge,Mrs. Hunt|Mrs. Conley|Mrs. Hunt|Mr. King|Mr. Huffman
+535,4:22:19 PM,gentry.jocelynn@madisonps.org,Jocelynn Gentry,Jocelynn,Gentry,Marcel Pacheco|Macy Cantrell|Jordan Hardy|Sienna Roy|Isaiah Herman,Mrs. Gutierrez
+536,6:42:48 PM,choi.raelynn@madisonps.org,Raelynn Choi,Raelynn,Choi,Dallas Munoz|Joanna Wilkerson|Nigel Leblanc,Mr. Merritt|Mrs. Pugh
+537,9:12:34 PM,rowe.cheyenne@madisonps.org,Cheyenne Rowe,Cheyenne,Rowe,Deandre Vega|Deshawn Gillespie|Adriana Buck|Abby Blackburn,Mr. Braun|Mrs. Hahn|Mr. Mcfarland|Mr. Farmer|Mr. Rose
+538,4:14:59 PM,vega.deandre@madisonps.org,Deandre Vega,Deandre,Vega,Darius Brandt|Jazmin Kramer|Kathleen Rice|Shamar Fields|Marley Johnston,Mr. Cook|Mrs. Maddox|Mr. Cabrera
+539,12:40:07 PM,finley.jaidyn@madisonps.org,Jaidyn Finley,Jaidyn,Finley,Jayla Ayers|Mark Harper|Cassie Valentine|Elle Lindsey|Lena Larson,Mrs. Mosley|Mr. Mcguire|Mrs. Kane|Mr. Caldwell
+540,10:10:37 AM,cochran.easton@madisonps.org,Easton Cochran,Easton,Cochran,Sheldon Little|Julianne Case|Clayton Trevino|Camila Hayden|Bentley Moreno,Mrs. Wade|Mrs. Velez|Mrs. Parsons
+541,5:09:10 PM,weiss.joy@madisonps.org,Joy Weiss,Joy,Weiss,Rayan Powers|Tristan Duncan|Darrell Mcintosh|Areli Lang|Faith Stokes,Mr. Gillespie|Mr. Vazquez|Mr. Hester
+542,7:24:10 PM,bush.kaylen@madisonps.org,Kaylen Bush,Kaylen,Bush,Alyssa Armstrong,Mrs. Maddox|Mr. Vasquez|Mr. Gillespie|Mr. Edwards
+543,6:45:44 PM,giles.edith@madisonps.org,Edith Giles,Edith,Giles,Junior Smith|Pamela Arellano,Mrs. Wood|Mrs. Sanchez|Mr. Kemp
+544,4:08:56 PM,ortega.jalen@madisonps.org,Jalen Ortega,Jalen,Ortega,Amaya Cuevas|Alanna Crane|Dania Benson|Dominique Elliott|Nathanial Galvan,Mr. Mcguire|Mr. Suarez|Mr. Lowe|Mrs. Sanchez|Mrs. Oliver
+545,6:03:37 PM,cordova.isabelle@madisonps.org,Isabelle Cordova,Isabelle,Cordova,Pierce Lynch|Leonel Shelton|Jerimiah Newton|Marely Schultz|Madden Mckenzie,Mr. Young|Mr. Morrow|Mrs. Savage|Mrs. Schaefer|Mr. Marshall
+546,3:40:24 PM,bartlett.reynaldo@madisonps.org,Reynaldo Bartlett,Reynaldo,Bartlett,Pierce Lynch|Alex Bentley|Jasiah Moses,Mrs. Huynh|Mr. Costa|Mrs. Blackburn|Mr. Gonzales|Mr. Merritt
+547,1:29:30 AM,page.kasey@madisonps.org,Kasey Page,Kasey,Page,Nia Pacheco|Nicolas Booth|Autumn Zhang|Damon Graham,Mrs. Hunt
+548,12:19:17 AM,nichols.jay@madisonps.org,Jay Nichols,Jay,Nichols,Vivian Blake|Myles Estes|Tripp Bradford|Savanna Chang|Ryland Trujillo,Mr. Floyd|Mr. King
+549,11:37:25 PM,collins.yamilet@madisonps.org,Yamilet Collins,Yamilet,Collins,Billy Bauer|Grayson Summers|Jocelyn Randolph|Kamila Contreras|Marley Wiley,Mr. Collins|Mrs. Drake|Mr. Vazquez|Mrs. Huynh|Mrs. Hahn
+550,3:36:52 AM,carlson.angelo@madisonps.org,Angelo Carlson,Angelo,Carlson,Danny Bonilla|Yandel Carey|Jadyn Gardner|Kyla King|Malakai Ochoa,Mr. Cabrera|Mr. Edwards|Mrs. Drake
+551,10:40:42 AM,king.jadyn@madisonps.org,Jadyn King,Jadyn,King,Pamela Moyer|Teagan Bush|Ricardo Sawyer|Alanna Crane|Patience Greene,Mr. Cook|Mr. Hester|Mrs. Marquez|Mrs. Chandler
+552,12:24:43 PM,james.elijah@madisonps.org,Elijah James,Elijah,James,Steve Hooper,Mr. Lucero|Mr. Edwards|Mr. Braun
+553,8:26:15 AM,carey.yandel@madisonps.org,Yandel Carey,Yandel,Carey,Eli Johns|Abby Blackburn,Mrs. Velez|Mrs. Rollins|Mr. Cook
+554,6:32:52 PM,sawyer.ricardo@madisonps.org,Ricardo Sawyer,Ricardo,Sawyer,Howard Silva|Vaughn Mckinney|Lance Foley|Trace Higgins|Sophia Brewer,Mrs. Conley|Mrs. Harvey|Mrs. Luna|Mrs. Lam
+555,2:58:34 PM,west.iris@madisonps.org,Iris West,Iris,West,Alison Shah|Kason Riggs|Kailee Flores|Esmeralda Hanson|Julianne Case,Mr. Suarez|Mrs. Wood|Mrs. Sanchez
+556,2:19:01 PM,lambert.moses@madisonps.org,Moses Lambert,Moses,Lambert,Amaya Cuevas|Romeo Carrillo|Lamar Murillo,Mrs. Huynh|Mrs. Wall|Mrs. Blackburn|Mrs. Holt|Mrs. Wade
+557,3:32:55 AM,carrillo.romeo@madisonps.org,Romeo Carrillo,Romeo,Carrillo,Van Washington|Lydia Hutchinson|Fletcher Hanna|Amelie Griffin,Mr. Mcfarland|Mrs. Lucas|Mrs. Schaefer|Mr. Young|Mrs. Costa
+558,5:15:14 PM,nash.maggie@madisonps.org,Maggie Nash,Maggie,Nash,Ariana Trujillo|Neveah Tapia|Stephen Mcpherson|Kristian Frey|Corinne Bolton,Mr. Vazquez|Mr. Gentry|Mr. Caldwell|Mr. Lowe|Mr. Caldwell
+559,4:53:27 PM,lawson.savanna@madisonps.org,Savanna Lawson,Savanna,Lawson,Kristian Serrano|Salvatore Sloan|Nigel Luna|Emerson Simon|Hayley Mathis,Mr. Suarez
+560,4:35:49 AM,trevino.clayton@madisonps.org,Clayton Trevino,Clayton,Trevino,Micheal Ellis|Cristian Krause|Danica Hansen|Micheal Ellis|Leonard Campbell,Mrs. Sanchez|Mrs. Reid
+561,2:20:20 PM,trujillo.josh@madisonps.org,Josh Trujillo,Josh,Trujillo,Samuel Keith|Kai Mathews|Matthias Cline|Zaid Crawford|Braelyn Melton,Mrs. Wall|Mrs. Ferrell|Mr. Lucero|Mrs. Conley|Mr. Cook
+562,7:02:46 PM,rosario.alejandro@madisonps.org,Alejandro Rosario,Alejandro,Rosario,Madilyn Bernard,Mrs. Marquez|Mrs. Mosley|Mr. Miles
+563,6:16:53 PM,benson.dania@madisonps.org,Dania Benson,Dania,Benson,Sara Orr|Zackery Galloway,Mr. Dalton|Mrs. Rollins|Mrs. Blackburn|Mr. Mcfarland
+564,7:50:47 AM,crawford.zaid@madisonps.org,Zaid Crawford,Zaid,Crawford,Cortez Washington|Jamison James|Madden Mckenzie|Ada Gaines|Ezekiel Mahoney,Mrs. Francis|Mr. Richmond|Mrs. Reid
+565,4:42:27 AM,hutchinson.lydia@madisonps.org,Lydia Hutchinson,Lydia,Hutchinson,Jayla Ayers|Danica Conway|Leonard Campbell|Tanya Finley|Cortez Savage,Mrs. Nixon|Mr. Collins|Mr. Gibson
+566,10:12:22 PM,grimes.gracie@madisonps.org,Gracie Grimes,Gracie,Grimes,George Poole|Bradyn Meyers|Jair Carson,Mr. Cook|Mr. Mcguire|Mrs. Huynh|Mrs. Pollard
+567,3:12:14 AM,hensley.linda@madisonps.org,Linda Hensley,Linda,Hensley,Isabelle Cordova|Cassandra Fitzgerald|Albert Key|Lawson Wall,Mr. Edwards|Mrs. Costa|Mr. Collins
+568,3:22:40 AM,hopkins.keyla@madisonps.org,Keyla Hopkins,Keyla,Hopkins,Jorden Roberts|Dixie Levy|Josh Trujillo|Joe Beck|Alani Oneill,Mrs. Hahn|Mr. Morrow|Mrs. Hammond|Mr. Miles|Mrs. Pugh
+569,2:25:39 PM,arellano.pamela@madisonps.org,Pamela Arellano,Pamela,Arellano,Aarav Blackburn|Maximo Hogan|Baylee Parsons|Wade Gillespie|Santino Villarreal,Mrs. Hammond|Mr. Cook|Mrs. Marquez|Mrs. Chandler|Mr. Gentry
+570,5:04:05 AM,gardner.jadyn@madisonps.org,Jadyn Gardner,Jadyn,Gardner,Cloe Holden|Emiliano Clements|Joy Weiss|Hazel Wise|Jayleen Vincent,Mrs. Wade|Mr. Huffman|Mr. Mcguire|Mr. Gentry|Mr. Campbell
+571,12:17:52 PM,gilbert.jerome@madisonps.org,Jerome Gilbert,Jerome,Gilbert,Mercedes Mccormick|Lea Grimes|Angelo Carlson|Krish Welch|Antony Combs,Mrs. Mcmillan
+572,3:39:52 PM,merritt.miley@madisonps.org,Miley Merritt,Miley,Merritt,Derrick Bennett,Mrs. Hunt|Mr. Edwards
+573,4:26:11 AM,krause.anika@madisonps.org,Anika Krause,Anika,Krause,Dayami Franco|Lennon Spence,Mr. Gonzales|Mr. Dorsey|Mr. Marshall|Mrs. Hammond|Mrs. Chavez
+574,1:38:04 AM,meadows.kelsey@madisonps.org,Kelsey Meadows,Kelsey,Meadows,Josue Strong|Isla Pope|Jason Benitez|Catherine Evans|Isaiah Herman,Mrs. Mcmillan|Mr. Dalton|Mrs. Bentley
+575,11:54:59 AM,mahoney.ezekiel@madisonps.org,Ezekiel Mahoney,Ezekiel,Mahoney,Ronald Beltran|Valerie Perkins|Kaia Valentine|Alex Bentley|Joyce Hayes,Mr. Gonzales|Mrs. Maddox|Mrs. Mosley|Mrs. Walton
+576,10:00:25 AM,tucker.israel@madisonps.org,Israel Tucker,Israel,Tucker,Jalen Ortega|Tripp Ashley|Yamilet Collins,Mrs. Costa|Mr. Cabrera|Mr. Rose
+577,4:55:03 AM,young.zackery@madisonps.org,Zackery Young,Zackery,Young,Kael Wiley|Dereon Barrera|Aedan Mercer|Kaia Valentine,Mr. Suarez|Mr. Hester|Mr. Carey
+578,1:11:54 AM,sanford.ricardo@madisonps.org,Ricardo Sanford,Ricardo,Sanford,Kael Shah|Muhammad Adams|Amiah Berger|Ryan Solomon|Eric Cantrell,Mr. Terrell|Mrs. Savage|Mrs. Costa|Mr. Rose
+579,12:41:00 AM,harrell.camryn@madisonps.org,Camryn Harrell,Camryn,Harrell,Averi Barr|Joyce Hayes|Calvin Wang|Duncan Evans|Dallas Best,Mrs. Sanchez|Mr. Collins|Mr. Hester
+580,5:01:50 PM,mccarty.steven@madisonps.org,Steven Mccarty,Steven,Mccarty,Tara Richmond|Brycen Golden|Naima Sims|Hazel Wise|Macey Horn,Mrs. Braun|Mrs. Harvey|Mrs. Kane|Mr. Roberts|Mrs. Harvey
+581,12:18:18 PM,bentley.alex@madisonps.org,Alex Bentley,Alex,Bentley,Alena Christian|Jaydan Alvarez|Amelie Kent|Brittany Conway|Carolyn Roy,Mrs. Kane|Mr. Mcguire|Mr. Dalton|Mr. Edwards|Mrs. Nixon
+582,9:45:06 PM,hickman.matilda@madisonps.org,Matilda Hickman,Matilda,Hickman,Jacey Stout,Mrs. Oliver|Mr. Reed|Mrs. Luna|Mrs. Kane|Mr. Young
+583,12:20:02 AM,terrell.chanel@madisonps.org,Chanel Terrell,Chanel,Terrell,Devyn Fitzpatrick|Ryland Richard,Mr. Livingston
+584,2:28:38 AM,bright.antonio@madisonps.org,Antonio Bright,Antonio,Bright,Alondra Boyle|Maren Montgomery|Juliet Chaney|Averi Donovan|Harold Hancock,Mrs. Chang|Mr. Miles
+585,11:52:05 AM,luna.nigel@madisonps.org,Nigel Luna,Nigel,Luna,Macey Gilbert|Shaun Knight|Alaina Rogers|Princess Bell|Lorena Francis,Mrs. Pollard|Mr. Braun|Mr. Mcguire|Mrs. Rollins|Mrs. Strong
+586,6:48:26 AM,larson.lena@madisonps.org,Lena Larson,Lena,Larson,Emerson Juarez|Noelle Phillips|Marcos Hodges,Mr. Costa|Mr. Vasquez|Mrs. Wall
+587,1:19:07 PM,shea.peter@madisonps.org,Peter Shea,Peter,Shea,Ulises Mullen|Aiyana Gordon|Julian Zamora|Deangelo Long,Mrs. Ferrell|Mrs. Chandler|Mr. Cook|Mrs. Strong
+588,4:27:31 AM,mcconnell.emmalee@madisonps.org,Emmalee Mcconnell,Emmalee,Mcconnell,Monique Mcconnell|Macie Dalton|Nathan Wright|Joseph Atkins|George Poole,Mr. Richmond|Mrs. Hahn|Mr. Reed
+589,12:35:42 PM,moyer.pamela@madisonps.org,Pamela Moyer,Pamela,Moyer,Jonathon Castaneda|Dayami Bernard|Talia Ingram|Andres Duffy|Lara Choi,Mrs. Schaefer|Mr. Graham|Mr. Farmer
+590,11:01:57 AM,wall.lawson@madisonps.org,Lawson Wall,Lawson,Wall,Mattie Gallegos|Arabella Duffy|Jaylyn Farrell|Andres Mendez|Rory Goodman,Mrs. Marquez|Mrs. Francis|Mr. Reed|Mr. Webb
+591,2:51:06 AM,mckenzie.madden@madisonps.org,Madden Mckenzie,Madden,Mckenzie,Abagail Osborne|Lamar Murillo|Mya Schaefer|Nayeli Vang|Patience Benton,Mr. Roberts|Mr. Rose|Mr. Gibson
+592,2:56:07 PM,russell.kailey@madisonps.org,Kailey Russell,Kailey,Russell,German Watkins,Mrs. Luna|Mr. Reed|Mr. Graham|Mr. Livingston|Mrs. Kane
+593,8:22:41 PM,small.aryana@madisonps.org,Aryana Small,Aryana,Small,Howard Silva|Kasey Page,Mrs. Lam|Mr. Vazquez|Mr. Cook|Mrs. Lam|Mr. Floyd
+594,10:46:05 PM,burton.kallie@madisonps.org,Kallie Burton,Kallie,Burton,Scarlett Ray|Nathanial Galvan|Davion Garrett|Pierce Pittman|Reina Moses,Mr. Schaefer|Mr. Lucero|Mr. Cook|Mr. Lowe|Mr. Gonzales
+595,3:52:27 AM,moore.aaliyah@madisonps.org,Aaliyah Moore,Aaliyah,Moore,Edgar Valenzuela|Jenny Carson|Raquel Peters|Dixie Levy|Gloria Nunez,Mrs. Strong
+596,3:53:19 AM,hill.zaiden@madisonps.org,Zaiden Hill,Zaiden,Hill,Duncan Evans|Peyton Lowe|Ayden Woodward,Mrs. Lucas|Mrs. Lam
+597,10:44:23 AM,walters.whitney@madisonps.org,Whitney Walters,Whitney,Walters,Gideon Patrick|Caylee Nunez|Mylie Gallegos|Vaughn Summers,Mr. Terrell|Mr. King|Mrs. Wade|Mr. Lowe|Mr. Cook
+598,5:45:35 AM,ingram.sebastian@madisonps.org,Sebastian Ingram,Sebastian,Ingram,Gideon Patrick|Kai Mathews|Karissa Wheeler|June Lopez|Crystal Grant,Mr. Livingston|Mrs. Costa|Mrs. Hahn
+599,5:41:01 AM,banks.anthony@madisonps.org,Anthony Banks,Anthony,Banks,Tatiana Sexton|Kristian Frey|Mark Dudley|Ciara Morales|Keon Stone,Mr. Willis|Mrs. Luna|Mr. Reed|Mr. Montoya
+600,9:53:10 PM,hickman.natalya@madisonps.org,Natalya Hickman,Natalya,Hickman,Sanai Duffy|Elaina Bennett|Vivian Blake|Casey Hernandez|Carlee Lane,Mr. Mcguire|Mr. Young|Mr. Lucero
+601,12:36:32 AM,hanson.esmeralda@madisonps.org,Esmeralda Hanson,Esmeralda,Hanson,Katherine Allison|Arjun Mayo|Deshawn Gillespie|Ryan Solomon|Noah Taylor,Mr. Young|Mrs. Drake|Mr. Mcguire
+602,5:13:24 AM,roberson.bianca@madisonps.org,Bianca Roberson,Bianca,Roberson,Lindsay Simon,Mr. Cabrera|Mr. Dalton|Mrs. Walton|Mr. Farmer
+603,11:56:39 AM,choi.salvatore@madisonps.org,Salvatore Choi,Salvatore,Choi,Emiliano Clements|Ulises Mullen,Mr. Cabrera|Mr. Montoya|Mr. Miles
+604,3:07:29 AM,morrison.hazel@madisonps.org,Hazel Morrison,Hazel,Morrison,Kyle Melton|Devyn Fitzpatrick|Jaslene Marsh|Josiah Allen|Aarav Blackburn,Mrs. Velez|Mr. Roberts|Mrs. Ferrell|Mr. Graham|Mr. Collins
+605,7:18:31 PM,arias.toby@madisonps.org,Toby Arias,Toby,Arias,Alejandro Rosario|Dakota Patel|Pierce Lynch|Allie Hall|Jaylyn Farrell,Mr. Figueroa|Mr. Richmond|Mrs. Oliver|Mrs. Strong|Mrs. Kane
+606,6:29:11 AM,stout.jacey@madisonps.org,Jacey Stout,Jacey,Stout,Andres Mendez|Ross Oliver|Bianca Roberson,Mr. Graham|Mrs. Luna|Mrs. Braun|Mrs. Maddox|Mrs. Wade
+607,10:38:44 PM,thornton.evie@madisonps.org,Evie Thornton,Evie,Thornton,Audrey Deleon|Kaylee Vincent|Faith Torres|Aryana Small,Mrs. Pollard
+608,5:17:01 PM,horton.cailyn@madisonps.org,Cailyn Horton,Cailyn,Horton,Ally Hawkins|Ayden Woodward|Elijah Cooley|Keagan Mack|Michaela Gibbs,Mr. Montoya|Mr. Costa
+609,3:53:14 AM,castillo.elisa@madisonps.org,Elisa Castillo,Elisa,Castillo,Mckinley Blair|Darius Brandt|Jaylyn Farrell|Weston Huerta|Lyric Lester,Mrs. Flynn|Mr. Morrow|Mr. Young|Mrs. Reid|Mrs. Solomon
+610,10:16:55 AM,warren.nasir@madisonps.org,Nasir Warren,Nasir,Warren,Carleigh Sparks|Kason Riggs|Byron Woodard|Elena Pineda|Aaliyah Burns,Mrs. Hahn|Mr. Livingston|Mrs. Solomon
+611,8:55:53 PM,bell.meadow@madisonps.org,Meadow Bell,Meadow,Bell,Izaiah Jimenez|Karlee Hodge|Davion Garrett|Royce Haney|Brooks Ford,Mr. Graham|Mr. Rose|Mr. Mcguire|Mrs. Blackburn
+612,10:35:04 PM,roberson.yadiel@madisonps.org,Yadiel Roberson,Yadiel,Roberson,Princess Bell,Mrs. Gutierrez|Mr. Campbell|Mr. Edwards
+613,1:05:06 PM,gregory.raphael@madisonps.org,Raphael Gregory,Raphael,Gregory,Billy Bauer|Aryana Small,Mrs. Huynh|Mr. Dalton|Mrs. Hammond
+614,11:18:01 AM,levine.tiffany@madisonps.org,Tiffany Levine,Tiffany,Levine,Kylan Wells|Shiloh Haney|Dax Ross|Jadiel Kennedy|Junior Smith,Mr. Young|Mrs. Savage|Mr. Graham|Mrs. Luna
+615,8:15:47 PM,sweeney.eliezer@madisonps.org,Eliezer Sweeney,Eliezer,Sweeney,Raven Mcmahon|Leonel Blackburn|Isla Pope|Howard Lamb|Teagan Bush,Mr. Reed|Mr. Webb|Mrs. Wade
+616,7:56:24 AM,mack.mohamed@madisonps.org,Mohamed Mack,Mohamed,Mack,Jakobe Andrade|Emerson Juarez|Gauge David,Mrs. Luna|Mr. Gonzales|Mrs. Savage|Mr. King|Mrs. Costa
+617,12:53:26 AM,lester.kadence@madisonps.org,Kadence Lester,Kadence,Lester,Peter Shea|Zaiden Hill|Lilia Strong|Melody Villa,Mr. Frazier|Mrs. Rollins|Mr. Gentry|Mr. Lucero|Mrs. Bentley
+618,5:03:05 AM,vincent.jayleen@madisonps.org,Jayleen Vincent,Jayleen,Vincent,Tripp Bradford|Marley Johnston|Gauge David|Serena Meadows|Cale Harrington,Mrs. Hahn|Mrs. Huynh|Mr. Graham|Mrs. Chavez|Mr. Thompson
+619,3:20:50 PM,perkins.valerie@madisonps.org,Valerie Perkins,Valerie,Perkins,Jocelynn Carney|Leonel Garrett|Nigel Galloway|Yadira Hodge|Ulises Mullen,Mr. Lucero
+620,4:03:53 AM,grant.crystal@madisonps.org,Crystal Grant,Crystal,Grant,Abram Rogers|Mckinley Blair|Scarlet Duke|Edith Giles|Andres Duffy,Mr. Gentry|Mrs. Walton
+621,9:20:48 AM,steele.adalyn@madisonps.org,Adalyn Steele,Adalyn,Steele,Kailee Flores|Jaylyn Strong|Hope Fuentes|Cristian Krause|Raphael Pacheco,Mrs. Strong|Mrs. Conley|Mrs. Parsons|Mrs. Gutierrez|Mrs. Chang
+622,2:21:50 PM,shah.alison@madisonps.org,Alison Shah,Alison,Shah,Tristian Roberson,Mr. Farmer|Mr. King|Mr. Lowe
+623,1:20:09 PM,donovan.averi@madisonps.org,Averi Donovan,Averi,Donovan,Jenny Carson|Julian Zamora,Mrs. Huynh|Mrs. Harvey|Mr. Vasquez|Mr. Kemp
+624,11:41:38 PM,wheeler.karissa@madisonps.org,Karissa Wheeler,Karissa,Wheeler,Kaylee Vincent|Isla Pope|Virginia Griffin|Audrina Sheppard|Jason Benitez,Mr. Schaefer|Mrs. Lam|Mrs. Blackburn
+625,4:35:30 AM,cantu.alannah@madisonps.org,Alannah Cantu,Alannah,Cantu,Ryland Richard|Nasir Warren|Hunter Mckenzie|Nathan Wright|Jayvon Finley,Mrs. Mcmillan|Mr. Cook|Mr. Gillespie
+626,8:04:04 PM,jacobs.abel@madisonps.org,Abel Jacobs,Abel,Jacobs,Adriana Buck|Audrina Sheppard|Yareli Irwin,Mr. Morrow|Mrs. Schaefer|Mrs. Drake|Mr. Vasquez
+627,4:35:05 AM,nolan.roger@madisonps.org,Roger Nolan,Roger,Nolan,Amelia Buckley|Lydia Owens|Patrick Meza|Cassie Valentine,Mrs. Holt|Mrs. Reid|Mrs. Parsons
+628,1:52:30 PM,choi.saige@madisonps.org,Saige Choi,Saige,Choi,Nickolas Mays|Andy Olson|Hazel Morrison|Leonard Campbell|Ali Pearson,Mr. Collins|Mrs. Wall|Mrs. Flynn|Mrs. Strong|Mrs. Maddox
+629,3:22:30 AM,underwood.tianna@madisonps.org,Tianna Underwood,Tianna,Underwood,Jovani Arellano|Javion Weiss|Gabriella Leach|Johan Carr|Jair Carson,Mr. Lucero|Mr. Graham|Mrs. Wood|Mr. Braun|Mr. Lowe
+630,7:57:22 PM,lozano.wesley@madisonps.org,Wesley Lozano,Wesley,Lozano,Lillianna Logan|Shaun Knight|Darrell Mcintosh|Lara Choi|Yamilet Collins,Mr. Lucero|Mr. Merritt|Mrs. Harvey|Mr. Morrow|Mrs. Chavez
+631,11:44:05 PM,sandoval.zavier@madisonps.org,Zavier Sandoval,Zavier,Sandoval,Reece Hayden|Darrell Mcintosh|Martha Harper|Zaiden Hill|Addison Best,Mr. Graham
+632,8:03:20 PM,moses.reina@madisonps.org,Reina Moses,Reina,Moses,Avah Harding,Mr. Lucero|Mr. Merritt
+633,2:09:19 AM,mckenzie.hunter@madisonps.org,Hunter Mckenzie,Hunter,Mckenzie,Alejandro Rosario|Tristan Duncan,Mrs. Hunt|Mrs. Savage|Mrs. Lawson|Mrs. Hunt|Mrs. Flynn
+634,3:46:43 AM,robinson.briley@madisonps.org,Briley Robinson,Briley,Robinson,Karissa Wheeler|Howard Lamb|Marin Mills|Emerson Juarez|Casey Hernandez,Mr. Costa|Mr. Huffman|Mr. Campbell
+635,2:13:18 PM,kramer.jazmin@madisonps.org,Jazmin Kramer,Jazmin,Kramer,Alaina Rogers|Isaiah Murillo|Peyton Snyder|Cadence Hunt|Aaliyah Burns,Mrs. Holt|Mr. Frazier|Mrs. Sanchez|Mr. Livingston
+636,2:34:14 AM,tran.nikolas@madisonps.org,Nikolas Tran,Nikolas,Tran,Keyon Cisneros|Noe Riddle|Devyn Fitzpatrick,Mr. Campbell|Mrs. Walton|Mrs. Pollard
+637,1:55:22 PM,melton.kyle@madisonps.org,Kyle Melton,Kyle,Melton,Danica Hansen|Joslyn Mathews|Raelynn Choi|Joslyn Mathews,Mrs. Pugh|Mr. Farmer|Mrs. Walton
+638,3:09:58 PM,bird.muhammad@madisonps.org,Muhammad Bird,Muhammad,Bird,Keon Stone|Morgan Rangel|Tony Graves|Teagan Bush|Nikolas Tran,Mr. Mcfarland|Mrs. Hickman|Mrs. Mosley|Mrs. Wade
+639,12:35:31 AM,wilkinson.keyon@madisonps.org,Keyon Wilkinson,Keyon,Wilkinson,Kadence Lester|Lorena Francis|Kameron Blanchard|Nylah York|Thalia Briggs,Mrs. Marquez|Mr. King|Mrs. Mosley
+640,4:49:56 PM,powers.rayan@madisonps.org,Rayan Powers,Rayan,Powers,Cristofer Sloan|Carleigh Sparks|Yamilet Collins|Maximus Mckay|Jadiel Kennedy,Mrs. Francis|Mrs. Rollins|Mrs. Oliver|Mrs. Strong|Mr. Morrow
+641,5:21:31 PM,shea.joe@madisonps.org,Joe Shea,Joe,Shea,Nikhil Madden|Marley Johnston|Shayla Beck|Amiah Wallace|Tristen Warren,Mrs. Chavez|Mrs. Solomon|Mr. Frazier|Mrs. Parsons|Mrs. Rollins
+642,12:04:23 PM,blackburn.abby@madisonps.org,Abby Blackburn,Abby,Blackburn,Joe Spence,Mr. Lucero|Mrs. Oliver|Mr. Roberts|Mr. Kemp|Mr. Carey
+643,3:00:11 AM,daugherty.keagan@madisonps.org,Keagan Daugherty,Keagan,Daugherty,Eli Johns|Frances Berry,Mrs. Maddox
+644,7:18:33 PM,marsh.melody@madisonps.org,Melody Marsh,Melody,Marsh,Elena Pineda|Lesly Marsh|Jaydan Alvarez|Finnegan Small|Jamie Thornton,Mr. Mcguire|Mr. Edwards
+645,11:11:40 PM,waters.joanna@madisonps.org,Joanna Waters,Joanna,Waters,Talia Ingram|Steve Hooper|Raina Noble|Naima Sims|Faith Stokes,Mrs. Conley|Mr. Floyd|Mr. Farmer|Mrs. Braun|Mr. Farmer
+646,3:40:27 PM,coffey.bradley@madisonps.org,Bradley Coffey,Bradley,Coffey,Lewis Hester|Aiyana Gordon|Giselle Decker,Mr. Graham|Mr. Roberts|Mr. Miles
+647,2:48:06 PM,chapman.tomas@madisonps.org,Tomas Chapman,Tomas,Chapman,Aron Perkins|Keyon Cisneros|Noah Taylor|Trevin Steele,Mr. Gillespie|Mrs. Strong|Mrs. Strong|Mr. Gibson
+648,2:14:26 AM,bruce.clarissa@madisonps.org,Clarissa Bruce,Clarissa,Bruce,Urijah Wang|Amirah Liu|Dylan Hughes|Camryn Ali|Nicolas Booth,Mr. Caldwell|Mrs. Savage|Mrs. Luna
+649,9:13:55 AM,armstrong.alyssa@madisonps.org,Alyssa Armstrong,Alyssa,Armstrong,Joe Spence|Sidney Grant|Lisa Schmitt|Amare Weiss|Kaydence Fernandez,Mr. Gibson|Mrs. Velez|Mr. Collins
+650,1:02:09 PM,chung.damari@madisonps.org,Damari Chung,Damari,Chung,Tianna Underwood|London Blankenship|Peter Shea|Xzavier Martinez|Isla Pope,Mrs. Marquez|Mrs. Hickman|Mr. Willis|Mr. Suarez
+651,11:46:00 PM,mccullough.taylor@madisonps.org,Taylor Mccullough,Taylor,Mccullough,Andy Olson|Semaj Braun|Sheldon Little|Amber Ford|Kane Hall,Mr. Rose|Mrs. Harvey|Mrs. Nixon
+652,11:14:22 PM,crane.owen@madisonps.org,Owen Crane,Owen,Crane,Max Hubbard,Mrs. Ferrell|Mr. Reed|Mr. Vazquez|Mr. Rose|Mr. Morrow
+653,11:11:36 PM,cline.matthias@madisonps.org,Matthias Cline,Matthias,Cline,Darrell Mcintosh|Ronald Beltran,Mrs. Lucas|Mrs. Francis|Mrs. Kane|Mrs. Pugh|Mr. King
+654,1:29:37 PM,hoffman.scott@madisonps.org,Scott Hoffman,Scott,Hoffman,Jaylyn Stokes|Braeden Lawson|Shayna Sexton|Finnegan Small|Kenny Dennis,Mr. Vasquez|Mrs. Chang|Mr. Hester|Mrs. Flynn|Mr. Huffman
+655,7:20:55 AM,allen.haleigh@madisonps.org,Haleigh Allen,Haleigh,Allen,Roderick Decker|Israel Tucker|Rosemary Strong|Brittany Conway|Elijah Cooley,Mrs. Kane
+656,6:05:12 AM,bonilla.danny@madisonps.org,Danny Bonilla,Danny,Bonilla,Keyla Hopkins|Jadyn Gardner|Autumn Zhang,Mrs. Hahn|Mrs. Walton
+657,8:24:13 PM,cordova.willow@madisonps.org,Willow Cordova,Willow,Cordova,Eleanor Hahn|Moses Lambert|Ryland Trujillo|Dominique Elliott,Mrs. Solomon|Mrs. Braun|Mr. Suarez|Mr. Lowe|Mr. Cook
+658,9:57:42 PM,raymond.caitlyn@madisonps.org,Caitlyn Raymond,Caitlyn,Raymond,Lorena Francis|Monique Schwartz|Andre Gilbert|Jason Choi|Ahmad Meza,Mr. Mcfarland|Mrs. Sanchez|Mr. Costa
+659,1:36:24 AM,sellers.kenley@madisonps.org,Kenley Sellers,Kenley,Sellers,Magdalena Yang|Malik Pham|Thalia Simpson|Cristian Lawson|Vance Mccarthy,Mr. Reed|Mrs. Pugh|Mrs. Nixon|Mrs. Hickman
+660,6:43:18 PM,mueller.reid@madisonps.org,Reid Mueller,Reid,Mueller,Maggie Carpenter|Mariah Gilmore|Cortez Savage|Pedro Zamora|Noe Riddle,Mrs. Holt|Mrs. Luna|Mrs. Parsons
+661,7:58:55 AM,olson.andy@madisonps.org,Andy Olson,Andy,Olson,Nayeli Gibson|Carleigh Espinoza|Amare Weiss|Lena Larson|Jay Nichols,Mrs. Reid|Mrs. Parsons|Mr. Mcguire
+662,7:34:54 AM,adams.muhammad@madisonps.org,Muhammad Adams,Muhammad,Adams,Rubi Lara,Mr. Floyd|Mr. Marshall|Mr. Young|Mrs. Hickman
+663,10:25:23 PM,dunlap.paulina@madisonps.org,Paulina Dunlap,Paulina,Dunlap,Toby Gardner|Natalya Hickman,Mrs. Hickman|Mrs. Wood|Mrs. Wall
+664,8:49:41 AM,spencer.savannah@madisonps.org,Savannah Spencer,Savannah,Spencer,Tobias Chase|Andres Mendez|Brogan Marquez|Natalya Hendricks|Byron Woodard,Mrs. Schaefer|Mr. Cook|Mr. Mcguire|Mrs. Drake|Mrs. Conley
+665,12:54:10 PM,cooper.leroy@madisonps.org,Leroy Cooper,Leroy,Cooper,Raina Noble|Lesly Marsh|Talia Jenkins|Patience Benton|Randy Palmer,Mr. Mcguire|Mr. Rose|Mrs. Hammond|Mr. Kemp|Mrs. Hickman
+666,8:42:56 PM,randolph.jocelyn@madisonps.org,Jocelyn Randolph,Jocelyn,Randolph,Charlotte Burns|Miley Merritt|Keshawn Reese,Mrs. Wood|Mrs. Pollard|Mrs. Harvey|Mr. Suarez|Mr. Cook
+667,9:40:34 PM,brewer.sophia@madisonps.org,Sophia Brewer,Sophia,Brewer,Rocco Church|Donna Andrews|Ireland Fitzgerald|Zayden Oconnell,Mr. Campbell
+668,4:15:38 AM,zamora.julian@madisonps.org,Julian Zamora,Julian,Zamora,Johnathan Cabrera|Kristian Proctor|Brycen Golden|Natalya Hendricks|Ingrid Cantu,Mrs. Strong|Mrs. Savage
+669,6:54:03 PM,tyler.rodolfo@madisonps.org,Rodolfo Tyler,Rodolfo,Tyler,Tatiana Sexton|Anika Krause|Zayden Oconnell|Cadence Hunt|Tara Fischer,Mr. Huffman|Mrs. Walton|Mr. Mcguire|Mr. Terrell|Mr. Cook
+670,4:27:22 PM,juarez.emerson@madisonps.org,Emerson Juarez,Emerson,Juarez,Damion Stone|Scarlett Ray|Javion Weiss|Seth Woods|Yadiel Roberson,Mrs. Walton|Mrs. Marquez|Mr. Merritt
+671,8:51:57 AM,cisneros.keyon@madisonps.org,Keyon Cisneros,Keyon,Cisneros,Braeden Lawson|Jolie Horne|Tommy Vega|Carlee Lane|Benjamin Huff,Mr. Caldwell|Mr. Gentry|Mr. Young|Mr. Vazquez
+672,7:12:16 AM,dean.nathaly@madisonps.org,Nathaly Dean,Nathaly,Dean,Jayla Martinez,Mr. Merritt|Mrs. Wall|Mrs. Luna
+673,10:42:40 AM,schultz.marely@madisonps.org,Marely Schultz,Marely,Schultz,Brogan Marquez|Libby Sawyer,Mr. Gonzales|Mr. Schaefer|Mrs. Lam
+674,7:49:59 AM,cantrell.eric@madisonps.org,Eric Cantrell,Eric,Cantrell,Jorge Contreras|Quentin Gray|Marie Shannon|Dylan Reed|Hector Marks,Mrs. Harvey|Mr. Suarez|Mrs. Gutierrez|Mrs. Kane
+675,5:09:00 PM,kemp.kole@madisonps.org,Kole Kemp,Kole,Kemp,Dylan Bird|Cristian Lawson|Dereon Barrera|Meadow Bell|Kale Massey,Mrs. Francis|Mrs. Lawson|Mr. Rose
+676,11:18:47 PM,cook.mohammad@madisonps.org,Mohammad Cook,Mohammad,Cook,Antonio Bright|Elijah James|Maurice Solomon,Mrs. Ferrell|Mrs. Kane|Mrs. Reid|Mrs. Solomon|Mr. Gibson
+677,7:55:50 PM,mooney.araceli@madisonps.org,Araceli Mooney,Araceli,Mooney,Steven Mccarty|Carissa Riddle|Rodolfo Tyler|Mike Sherman,Mr. Floyd|Mrs. Ferrell|Mrs. Chavez|Mrs. Solomon|Mr. Lowe
+678,3:44:00 AM,moses.jade@madisonps.org,Jade Moses,Jade,Moses,Terry Mcclain|Danika Wiley|Chloe Villegas|Macie Dalton|Joslyn Mathews,Mrs. Francis|Mr. Thompson|Mr. Carey|Mr. Caldwell|Mr. Mcguire
+679,7:08:42 AM,carney.jocelynn@madisonps.org,Jocelynn Carney,Jocelynn,Carney,Caitlyn Raymond|Gary Dougherty|Amiah Berger|Shiloh Haney|Dania Benson,Mrs. Wall
+680,11:42:48 AM,herman.isaiah@madisonps.org,Isaiah Herman,Isaiah,Herman,Evangeline Walsh|Johnathan Cabrera|Kane Hall|Haiden Mahoney|London Blankenship,Mr. Farmer|Mr. Willis
+681,11:09:40 PM,barrera.dereon@madisonps.org,Dereon Barrera,Dereon,Barrera,Jenny Carson|Roderick Decker|Peter Shea|Willow Franco|Deanna Brandt,Mrs. Parsons|Mr. Livingston|Mr. Cook|Mr. Livingston|Mr. Figueroa
+682,6:57:21 AM,gomez.jovan@madisonps.org,Jovan Gomez,Jovan,Gomez,Brooks Caldwell,Mr. Collins|Mr. Gonzales|Mrs. Pollard
+683,3:47:37 PM,zavala.stanley@madisonps.org,Stanley Zavala,Stanley,Zavala,Mercedes Mccormick|Jaslene Marsh,Mrs. Gutierrez|Mr. Graham|Mrs. Savage|Mr. Livingston
+684,1:21:14 PM,shea.chasity@madisonps.org,Chasity Shea,Chasity,Shea,Aedan Mercer|John Bernard|Briley Robinson|Tripp Bradford|Karissa Wheeler,Mrs. Ferrell|Mr. Webb|Mrs. Luna
+685,3:36:30 PM,hanson.erik@madisonps.org,Erik Hanson,Erik,Hanson,Frances Berry|Ryan Barton|Melody Villa|Lana Boone|Tyler Browning,Mrs. Pollard|Mrs. Francis|Mrs. Wood
+686,12:45:38 PM,macdonald.lane@madisonps.org,Lane Macdonald,Lane,Macdonald,Cristofer Sloan|Vance Mccarthy|Bianca Roberson,Mr. Caldwell|Mrs. Wood|Mrs. Velez|Mr. Vazquez
+687,9:00:48 PM,strong.josue@madisonps.org,Josue Strong,Josue,Strong,Raina Noble|Jocelynn Carney|Cadence Hunt|Kamila Bruce,Mrs. Velez|Mrs. Maddox|Mr. Cabrera
+688,4:00:29 AM,frank.jessica@madisonps.org,Jessica Frank,Jessica,Frank,Kameron Blanchard|Kael Wiley|Abagail Osborne|Aiyana Gordon|Noelle Santana,Mr. Schaefer|Mr. Lowe|Mrs. Flynn|Mr. Young|Mrs. Chavez
+689,10:55:38 AM,blair.mckinley@madisonps.org,Mckinley Blair,Mckinley,Blair,Jaydon Andrade|Josue Strong|Roman Yates|Jason Lin|Skyler Watkins,Mr. Edwards|Mr. Young|Mrs. Hammond|Mr. Cabrera|Mr. Rose
+690,1:32:12 PM,poole.macie@madisonps.org,Macie Poole,Macie,Poole,Trevin Steele|Trace Higgins|Chasity Shea|Michaela Gibbs|Carla Meza,Mr. Rose|Mrs. Velez|Mrs. Reid|Mr. Miles|Mr. Floyd
+691,8:02:47 PM,barajas.aaden@madisonps.org,Aaden Barajas,Aaden,Barajas,Cannon Lee|Roderick Decker|Jude Reese|Wade Gillespie|Noe Riddle,Mrs. Kane
+692,4:07:33 PM,sheppard.audrina@madisonps.org,Audrina Sheppard,Audrina,Sheppard,Tommy Cabrera,Mrs. Marquez|Mr. Dorsey
+693,6:18:06 PM,choi.jason@madisonps.org,Jason Choi,Jason,Choi,Tara Fischer|Amare Weiss,Mr. Gibson|Mr. Edwards|Mrs. Wall|Mr. Farmer|Mrs. Wade
+694,3:44:26 PM,richard.rylan@madisonps.org,Rylan Richard,Rylan,Richard,Harley Johns|Jason Benitez|Braeden Lawson|Deja Krueger|Darren Mccormick,Mrs. Hammond|Mr. Dorsey|Mrs. Harvey
+695,6:30:23 PM,hester.lewis@madisonps.org,Lewis Hester,Lewis,Hester,Yandel Carey|Cynthia Porter|Hazel Morrison|Jorge Contreras|Addison Best,Mr. Vazquez|Mrs. Chavez|Mr. Patrick|Mrs. Oliver
+696,5:45:59 PM,vincent.miah@madisonps.org,Miah Vincent,Miah,Vincent,Yamilet Rowe|Cadence Hunt|Mia Navarro,Mrs. Strong|Mr. Patrick|Mrs. Costa
+697,1:32:06 PM,mills.marin@madisonps.org,Marin Mills,Marin,Mills,Van Washington|Madeleine Benson|Tara Schmidt|Gavin Foster,Mr. Lucero|Mr. Terrell|Mrs. Wood
+698,3:49:02 AM,valentine.kaia@madisonps.org,Kaia Valentine,Kaia,Valentine,Martha Harper|Casey Hernandez|Rory Goodman|Julie Cardenas|Jakob Orr,Mr. Cook|Mr. Suarez|Mrs. Gutierrez|Mr. Mcfarland
+699,10:01:26 PM,jarvis.zara@madisonps.org,Zara Jarvis,Zara,Jarvis,Zachary Perry|Noe Riddle|Leonidas Tyler|Marcos Hodges|Vaughn Mckinney,Mr. Reed|Mr. Young|Mr. Willis
+700,9:34:49 PM,york.nylah@madisonps.org,Nylah York,Nylah,York,Amelie Griffin|Urijah Wang|Kimberly Hatfield|Jarrett Perry|Jaylyn Strong,Mr. Frazier|Mrs. Blackburn|Mrs. Blackburn|Mrs. Chavez|Mr. Roberts
+701,2:53:41 PM,gaines.ada@madisonps.org,Ada Gaines,Ada,Gaines,Josue Lucero|Yasmin Burgess|Marlie Garza|Harold Hancock|Shayla Beck,Mrs. Lam|Mrs. Parsons|Mrs. Hickman|Mrs. Chang|Mr. Costa
+702,2:30:28 PM,cortez.rodrigo@madisonps.org,Rodrigo Cortez,Rodrigo,Cortez,Tamia Nunez,Mr. Richmond|Mrs. Schaefer|Mr. Montoya|Mrs. Pugh|Mrs. Reid
+703,4:46:38 AM,silva.howard@madisonps.org,Howard Silva,Howard,Silva,Tristan Duncan|Charlie Glenn,Mr. Cook
+704,5:16:09 PM,wise.hazel@madisonps.org,Hazel Wise,Hazel,Wise,Halle Green|Tanya Finley|Leonard Campbell|Martha Harper|Terry Mcclain,Mrs. Walton|Mr. Gonzales
+705,6:10:37 PM,huff.benjamin@madisonps.org,Benjamin Huff,Benjamin,Huff,Audrina Sheppard|Claire Moreno|Andy Olson|Noah Buck|Amelie Griffin,Mr. Webb|Mrs. Rollins|Mr. Thompson|Mr. Floyd|Mr. Braun
+706,9:32:26 AM,gray.quentin@madisonps.org,Quentin Gray,Quentin,Gray,Macie Poole|Caleb Dillon|Nathan Wright,Mrs. Mosley|Mrs. Walton|Mr. Patrick
+707,2:29:44 PM,jackson.johnny@madisonps.org,Johnny Jackson,Johnny,Jackson,Joe Shea|Gia Love|Chloe Villegas|Allie Hall,Mr. Mcguire|Mr. Collins|Mr. Roberts|Mrs. Ferrell
+708,11:10:25 AM,hogan.maximo@madisonps.org,Maximo Hogan,Maximo,Hogan,Matilda Hickman|Fatima Hall|Dangelo Mcintosh|Joe Shea|Thalia Simpson,Mr. Montoya|Mr. Collins|Mr. Vazquez
+709,8:37:02 AM,banks.nyasia@madisonps.org,Nyasia Banks,Nyasia,Banks,Camila Hayden|Tripp Bradford|Cloe Holden|Tori Summers|Carolyn Roy,Mr. Kemp|Mrs. Costa|Mrs. Hammond
+710,4:22:57 PM,webb.mireya@madisonps.org,Mireya Webb,Mireya,Webb,Easton Allison|Tatiana Sexton|Jalen Hart|Shiloh Haney|Corinne Bolton,Mrs. Blackburn|Mr. Dorsey|Mr. Floyd|Mr. Figueroa
+711,11:19:39 PM,moses.jasiah@madisonps.org,Jasiah Moses,Jasiah,Moses,Cadence Jacobs|Romeo Carrillo|Melody Marsh|Elias Lynn|Scott Hoffman,Mr. Caldwell|Mrs. Oliver|Mr. Cook
+712,10:48:42 PM,mack.javion@madisonps.org,Javion Mack,Javion,Mack,Makaila Clay,Mr. Mcguire|Mrs. Mcmillan|Mrs. Pollard|Mrs. Pollard|Mrs. Wall
+713,9:25:55 AM,blanchard.kameron@madisonps.org,Kameron Blanchard,Kameron,Blanchard,Jadyn Gardner|Malakai Ochoa,Mr. Hester|Mrs. Harvey|Mr. Schaefer|Mrs. Blackburn|Mr. Edwards
+714,5:58:29 AM,love.gia@madisonps.org,Gia Love,Gia,Love,Cynthia Porter|Nyasia Banks|Kimberly Hatfield|Bradyn Meyers|Waylon Rosario,Mr. Edwards|Mr. Huffman|Mrs. Bentley|Mr. Marshall|Mrs. Conley
+715,5:44:26 PM,vincent.kaylee@madisonps.org,Kaylee Vincent,Kaylee,Vincent,Aiyana Gordon|Leroy Cooper|Urijah Wang|Halle Green|Monserrat Tapia,Mrs. Mosley
+716,2:37:16 PM,mendez.andres@madisonps.org,Andres Mendez,Andres,Mendez,Gracie Grimes|Billy Choi|Denzel Kelley,Mr. Campbell|Mr. Gentry
+717,11:20:25 PM,norris.amare@madisonps.org,Amare Norris,Amare,Norris,Tatum Gentry|Lana Boone|Urijah Wang|Julianne Lindsey,Mrs. Nixon|Mrs. Pugh|Mrs. Gutierrez|Mr. Frazier|Mr. Mcguire
+718,11:48:08 AM,ware.shania@madisonps.org,Shania Ware,Shania,Ware,Lane Macdonald|Salvatore Sloan|Cohen Benton|Andre Gilbert|Jared Norman,Mr. Farmer|Mr. Schaefer|Mr. Cook
+719,11:07:48 AM,osborne.abagail@madisonps.org,Abagail Osborne,Abagail,Osborne,Vaughn Mckinney|Emiliano Clements|Kaiya Frye|Sidney Grant|Maren Montgomery,Mr. Thompson|Mrs. Hahn|Mr. Figueroa|Mr. Marshall
+720,9:48:38 PM,ware.jimmy@madisonps.org,Jimmy Ware,Jimmy,Ware,Thalia Simpson|Owen Beard|Kevin Houston|Yadiel Roberson|Jacob Neal,Mrs. Hickman|Mrs. Hickman|Mrs. Conley
+721,3:25:16 AM,ware.wyatt@madisonps.org,Wyatt Ware,Wyatt,Ware,Matthias Cline|Damari Chung|Danny Bonilla|Fletcher Hanna|Brooks Ford,Mr. Kemp|Mr. Cook|Mr. Patrick
+722,5:13:53 PM,barton.ryan@madisonps.org,Ryan Barton,Ryan,Barton,Eliezer Sweeney,Mr. Cook|Mrs. Wall|Mrs. Chang|Mrs. Solomon
+723,1:09:16 PM,bird.dylan@madisonps.org,Dylan Bird,Dylan,Bird,Jason Choi|Javion Mack,Mrs. Costa|Mr. Cabrera|Mrs. Sanchez
+724,6:51:52 AM,oconnell.zayden@madisonps.org,Zayden Oconnell,Zayden,Oconnell,Pierce Pittman|Jane Logan|Willow Franco|Marlie Mccall|Roger Nolan,Mrs. Lawson|Mr. Webb|Mr. Suarez|Mrs. Drake|Mrs. Walton
+725,9:02:07 PM,villa.melody@madisonps.org,Melody Villa,Melody,Villa,Tate Wilson|Kylan Wells|Cristofer Sloan|Yasmin Hodge|Jakob Orr,Mrs. Parsons|Mrs. Wade|Mrs. Costa|Mr. Collins|Mr. Huffman
+726,7:02:49 AM,lee.cannon@madisonps.org,Cannon Lee,Cannon,Lee,Eliana Mcmillan|Kaiya Frye|Hamza Harmon,Mr. Rose|Mr. Carey|Mrs. Drake|Mrs. Mosley|Mr. Miles
+727,6:10:26 PM,keith.samuel@madisonps.org,Samuel Keith,Samuel,Keith,Keyla Hopkins|Julie Cardenas|Harper Olsen|Maddox Roman,Mrs. Flynn
+728,12:49:12 PM,roberson.tristian@madisonps.org,Tristian Roberson,Tristian,Roberson,Amelie Griffin|Joe Beck|Nylah York|Lara Choi|Reynaldo Bartlett,Mrs. Hickman|Mrs. Ferrell
+729,11:16:12 AM,rogers.abram@madisonps.org,Abram Rogers,Abram,Rogers,Lamar Murillo|Princess Bentley|Steve Hooper|Ramiro Lee|Kane Hall,Mrs. Lucas|Mrs. Strong|Mrs. Braun|Mr. Frazier|Mrs. Wade
+730,10:48:17 PM,bennett.elaina@madisonps.org,Elaina Bennett,Elaina,Bennett,Matthias Cline|Cynthia Porter|Cassie Valentine|Cristian Lawson|Beau Camacho,Mrs. Hunt|Mr. Collins|Mrs. Wood
+731,10:30:59 PM,cervantes.lillie@madisonps.org,Lillie Cervantes,Lillie,Cervantes,Carlee Lane|Kathy Levy|Aleena Watson|Leonel Blackburn|Isiah Crawford,Mr. Patrick|Mrs. Marquez|Mr. Costa|Mrs. Bentley
+732,11:14:41 AM,castaneda.jonathon@madisonps.org,Jonathon Castaneda,Jonathon,Castaneda,Serena Gilbert,Mr. Hester|Mr. Willis|Mrs. Lawson
+733,5:23:22 PM,valentine.cassie@madisonps.org,Cassie Valentine,Cassie,Valentine,Sofia Rodriguez|Ezequiel Lynn,Mr. Merritt|Mr. Edwards|Mrs. Strong
+734,2:44:14 PM,solomon.ryan@madisonps.org,Ryan Solomon,Ryan,Solomon,Roderick Decker|Kayden Everett|Sienna Roy|Cherish Acosta|Cortez Medina,Mrs. Chavez|Mr. Collins|Mr. Thompson|Mrs. Ferrell
+735,5:00:09 AM,rivers.danna@madisonps.org,Danna Rivers,Danna,Rivers,Cannon Lee|Halle Green|Amiah Wallace|Tripp Ashley|Coby Davis,Mrs. Holt|Mrs. Parsons|Mrs. Mcmillan
+736,5:29:57 AM,todd.easton@madisonps.org,Easton Todd,Easton,Todd,Bianca Roberson|Josue Strong|Joshua Ferrell,Mr. Dalton|Mrs. Mosley|Mr. Lucero|Mrs. Chang|Mrs. Lam
+737,7:44:20 AM,savage.cortez@madisonps.org,Cortez Savage,Cortez,Savage,Colt Larsen|Randy Palmer|Abagail Osborne|Kaiya Frye,Mrs. Mcmillan|Mrs. Drake|Mr. Richmond|Mr. Rose|Mr. Gentry
+738,6:53:58 PM,rojas.anika@madisonps.org,Anika Rojas,Anika,Rojas,Kristian Serrano|Janet Schultz|Kyla King|Ezequiel Walls|Robert Watson,Mrs. Marquez|Mrs. Holt|Mr. Edwards|Mr. Mcfarland|Mr. Edwards
+739,1:41:35 PM,evans.duncan@madisonps.org,Duncan Evans,Duncan,Evans,Juliet Chaney|Jarrett Perry|June Lopez|Samara Schmitt|Alex Bentley,Mrs. Harvey
+740,9:02:45 AM,miller.andrea@madisonps.org,Andrea Miller,Andrea,Miller,Darren Mccormick|Evie Thornton|Jasiah Moses|Meadow Bell|Peyton Snyder,Mr. Montoya|Mr. Graham
+741,2:45:04 PM,alvarez.jaydan@madisonps.org,Jaydan Alvarez,Jaydan,Alvarez,Tyler Browning|Denzel Kelley|Preston Kaufman|Ann Hanson|Jorden Bray,Mr. Thompson|Mr. Miles|Mrs. Lucas|Mrs. Gutierrez|Mr. Hester
+742,10:17:25 AM,kidd.imani@madisonps.org,Imani Kidd,Imani,Kidd,Patience Benton,Mr. Huffman|Mrs. Pugh|Mr. Miles
+743,9:39:11 AM,parsons.lucian@madisonps.org,Lucian Parsons,Lucian,Parsons,Rihanna Pacheco|Jamari Krueger,Mrs. Hammond|Mrs. Nixon|Mr. Caldwell|Mr. Gonzales
+744,1:32:57 AM,logan.lillianna@madisonps.org,Lillianna Logan,Lillianna,Logan,Pedro Zamora|Marcel Pacheco|Kaiya Frye|Steven Montoya|Gabriella Leach,Mr. King|Mr. Gillespie|Mrs. Braun
+745,2:43:42 PM,hodges.jordon@madisonps.org,Jordon Hodges,Jordon,Hodges,Francis Duarte|Gabrielle Underwood|Giada Gaines|Noelle Santana|Izabelle Blake,Mr. Campbell|Mr. Hester|Mr. Miles
+746,2:52:08 AM,hutchinson.jayden@madisonps.org,Jayden Hutchinson,Jayden,Hutchinson,Elaina Bennett|Katelyn Benton|Rodney Mcguire,Mrs. Luna|Mrs. Walton|Mrs. Hammond|Mrs. Wood
+747,6:13:14 AM,melton.braelyn@madisonps.org,Braelyn Melton,Braelyn,Melton,Caitlyn Raymond|Alexus Vaughn|Claire Moreno|Tristian Glass,Mr. Cook|Mr. Carey|Mrs. Gutierrez
+748,12:52:34 PM,sims.naima@madisonps.org,Naima Sims,Naima,Sims,Marco Fry|Tamia Nunez|Joanna Waters|Aarav Mcclain|Micheal Ellis,Mrs. Francis|Mrs. Conley|Mrs. Braun|Mr. Collins|Mr. Edwards
+749,3:55:22 AM,case.julianne@madisonps.org,Julianne Case,Julianne,Case,Clara Vasquez|Kael Wiley|Zion Bird|Alannah Cantu|Odin Flowers,Mrs. Nixon|Mr. Lucero|Mrs. Braun|Mrs. Marquez|Mrs. Ferrell
+750,5:22:38 AM,wright.angela@madisonps.org,Angela Wright,Angela,Wright,Roderick Gonzalez|Asia Liu|Raelynn Dennis|Amare Weiss|Kylan Wells,Mr. Schaefer|Mrs. Mcmillan|Mrs. Harvey|Mrs. Harvey|Mrs. Gutierrez
+751,7:48:14 AM,fernandez.kaydence@madisonps.org,Kaydence Fernandez,Kaydence,Fernandez,Malakai Ochoa|Vicente Hawkins|Eva Stuart|Yamilet Rowe|Ingrid Cantu,Mr. Vasquez
+752,2:35:09 AM,burgess.everett@madisonps.org,Everett Burgess,Everett,Burgess,Dax Ross,Mrs. Walton|Mrs. Rollins
+753,12:57:53 PM,meza.ahmad@madisonps.org,Ahmad Meza,Ahmad,Meza,Penelope Valdez|Jayvon Finley,Mrs. Pollard|Mr. Vasquez|Mr. Lowe|Mr. Terrell|Mrs. Hammond
+754,11:13:20 PM,nunez.gloria@madisonps.org,Gloria Nunez,Gloria,Nunez,Brycen Golden|Jaydon Andrade|Bennett Christian|Mattie Gallegos|Lydia Owens,Mrs. Oliver|Mrs. Pugh|Mr. Cook
+755,8:35:40 PM,hardin.liberty@madisonps.org,Liberty Hardin,Liberty,Hardin,Hazel Wise|Vaughn Mckinney|Nikhil Madden|Mikaela Wade|Jagger Farrell,Mrs. Hickman|Mr. Farmer|Mrs. Oliver|Mr. Carey
+756,2:25:38 AM,erickson.kaiden@madisonps.org,Kaiden Erickson,Kaiden,Erickson,Jane Logan|Willow Cordova|Odin Flowers,Mrs. Drake|Mr. Cabrera|Mrs. Francis
+757,6:34:03 PM,morrow.bentley@madisonps.org,Bentley Morrow,Bentley,Morrow,Vance Sloan|Romeo Carrillo|Miriam Mills|Charlotte Burns,Mr. Marshall|Mrs. Reid|Mr. Cook
+758,7:02:21 PM,stark.nicolas@madisonps.org,Nicolas Stark,Nicolas,Stark,Tanya Little|Dylan Hughes|Jaiden Arias|Cale Harrington|Naima Sims,Mr. Farmer|Mrs. Francis|Mrs. Costa|Mr. Rose
+759,11:01:12 PM,foster.gavin@madisonps.org,Gavin Foster,Gavin,Foster,German Watkins|Deandre Vega|Amara Meadows|Calvin Wang|Alia Rowe,Mrs. Braun|Mr. Thompson|Mrs. Hahn
+760,1:24:45 PM,clements.emiliano@madisonps.org,Emiliano Clements,Emiliano,Clements,Preston Kaufman|Mikaela Wade|Bradyn Meyers|Kristen Allison|Shayna Sexton,Mr. Miles|Mr. Merritt|Mrs. Harvey|Mr. Patrick|Mrs. Pugh
+761,10:51:58 PM,wilson.tate@madisonps.org,Tate Wilson,Tate,Wilson,Teagan Bush|Kason Riggs|Adalyn Little|Andy Wiley|Ezequiel Lynn,Mrs. Chandler|Mr. Vazquez|Mr. Gonzales|Mrs. Wood|Mr. Vasquez
+762,2:33:38 AM,farrell.jagger@madisonps.org,Jagger Farrell,Jagger,Farrell,Fletcher Hanna,Mr. King|Mr. Carey|Mrs. Braun|Mrs. Costa|Mr. Livingston
+763,11:36:10 PM,poole.george@madisonps.org,George Poole,George,Poole,Joy Weiss|Kadence Lester,Mrs. Walton
+764,12:40:16 PM,gallegos.mattie@madisonps.org,Mattie Gallegos,Mattie,Gallegos,Stanley Zavala|Elisa Castillo|Antony Combs|Bianca Roberson|Cassie Valentine,Mr. Mcguire|Mrs. Chang
+765,1:54:19 AM,fitzgerald.cassandra@madisonps.org,Cassandra Fitzgerald,Cassandra,Fitzgerald,Madeleine Benson|Tatiana Sexton|Randy Huber|Cailyn Horton|Lesly Marsh,Mr. Cabrera|Mrs. Marquez|Mrs. Flynn|Mr. Dalton|Mrs. Lucas
+766,12:07:44 AM,cline.charlotte@madisonps.org,Charlotte Cline,Charlotte,Cline,George Poole|Martha Harper|Tripp Ashley,Mrs. Conley|Mrs. Nixon|Mrs. Holt
+767,7:49:32 PM,meyers.bradyn@madisonps.org,Bradyn Meyers,Bradyn,Meyers,Lydia Hutchinson|Deja Krueger|Dayton Allison|Lilia Strong,Mr. Mcguire|Mrs. Schaefer|Mrs. Rollins|Mrs. Rollins
+768,12:55:54 AM,allison.kristen@madisonps.org,Kristen Allison,Kristen,Allison,Taylor Schwartz|Kymani Gilmore|Lucy Rojas|Joyce Hayes|Yadiel Roberson,Mrs. Ferrell|Mrs. Hunt|Mr. Gillespie
+769,2:28:04 AM,welch.krish@madisonps.org,Krish Welch,Krish,Welch,Aliyah Newman|Billy Choi|Raina Cameron|Araceli Mooney|Braedon Madden,Mrs. Harvey|Mr. Mcguire|Mr. Miles
+770,6:20:03 PM,french.carter@madisonps.org,Carter French,Carter,French,Christian Salazar|Cristofer Sloan|Alonzo Castillo|Van Washington|Tate Wilson,Mrs. Lam|Mrs. Hickman|Mr. Gibson|Mrs. Kane
+771,10:01:21 AM,gilmore.kymani@madisonps.org,Kymani Gilmore,Kymani,Gilmore,Jason Lin|Tiffany Levine|Johnathan Cabrera|Malakai Ochoa|Harold Hancock,Mr. Huffman|Mr. Gonzales|Mrs. Costa
+772,4:41:24 AM,ford.amber@madisonps.org,Amber Ford,Amber,Ford,Shirley Haas,Mr. Braun|Mrs. Wade|Mrs. Hahn|Mrs. Luna|Mr. Caldwell
+773,11:24:16 PM,kerr.chad@madisonps.org,Chad Kerr,Chad,Kerr,Bradley Coffey|Ryan Solomon,Mr. Mcfarland|Mr. Lowe|Mr. Dorsey|Mrs. Lam|Mr. Roberts
+774,9:01:50 AM,rodriguez.sofia@madisonps.org,Sofia Rodriguez,Sofia,Rodriguez,Tatum Gentry|Zachary Perry|Romeo Carrillo|Damion Stone|Mylie Gallegos,Mrs. Chang|Mr. Young|Mr. Dalton|Mr. Willis|Mr. Morrow
+775,11:23:54 PM,parks.ace@madisonps.org,Ace Parks,Ace,Parks,Alena Christian|Tate Wilson|Nayeli Gibson|Princess Bell|Aracely Branch,Mr. Edwards
+776,6:58:55 AM,nunez.caylee@madisonps.org,Caylee Nunez,Caylee,Nunez,Nicolas Booth|Joanna Waters|Abel Jacobs,Mrs. Reid|Mr. Hester
+777,9:09:50 PM,pearson.mattie@madisonps.org,Mattie Pearson,Mattie,Pearson,Elias Lynn|Jorge Contreras|Mariam Cohen|Jaylynn Ponce,Mr. Frazier|Mr. Lucero|Mrs. Wood|Mrs. Wood|Mrs. Schaefer
+778,7:02:48 PM,humphrey.halle@madisonps.org,Halle Humphrey,Halle,Humphrey,Wyatt Ware|Gilbert Mason|Marin Hensley|Savannah Spencer|Jaylin Hodge,Mr. Richmond|Mr. Thompson|Mr. Dorsey
+779,4:15:31 AM,pearson.ali@madisonps.org,Ali Pearson,Ali,Pearson,Howard Lamb|Jacey Stout|Cynthia Porter|Giselle Decker|Charles Morrow,Mr. Gonzales|Mrs. Marquez|Mrs. Nixon|Mr. Reed
+780,1:34:33 AM,tyler.leonidas@madisonps.org,Leonidas Tyler,Leonidas,Tyler,Easton Cochran|Nathaly Dean|Jorge Contreras|Nicolas Booth|Kasey Page,Mr. Huffman|Mr. Mcguire|Mrs. Chandler
+781,3:27:26 AM,riddle.carissa@madisonps.org,Carissa Riddle,Carissa,Riddle,Hayley Mathis|Josiah Allen|Eric Cantrell|Keyon Chen|Carleigh Sparks,Mr. Cabrera|Mrs. Nixon|Mrs. Strong
+782,1:03:46 AM,cannon.rashad@madisonps.org,Rashad Cannon,Rashad,Cannon,Leland Hutchinson,Mr. Roberts|Mrs. Chang|Mr. Collins|Mr. Lowe
+783,5:21:41 PM,branch.aracely@madisonps.org,Aracely Branch,Aracely,Branch,Louis Walls|Alondra Boyle,Mrs. Hammond|Mr. Carey|Mr. Miles
+784,10:35:08 PM,herrera.matias@madisonps.org,Matias Herrera,Matias,Herrera,Mariyah Rollins|Dayami Franco|Josh Trujillo|Zackery Young|Caitlyn Raymond,Mrs. Chang|Mrs. Pugh|Mrs. Chavez|Mrs. Parsons|Mr. Webb
+785,9:14:16 AM,hendrix.cole@madisonps.org,Cole Hendrix,Cole,Hendrix,Izabelle Blake|Amelia Buckley|Dax Ross|Giada Gaines|Nigel Luna,Mr. Gonzales|Mrs. Savage|Mr. Richmond|Mr. Huffman|Mr. Schaefer
+786,5:21:40 AM,galloway.zackery@madisonps.org,Zackery Galloway,Zackery,Galloway,Halle Green|Tessa Herman|Zackery Galloway,Mr. Montoya|Mr. Caldwell|Mrs. Maddox|Mrs. Mcmillan|Mrs. Strong
+787,3:00:01 PM,pope.isla@madisonps.org,Isla Pope,Isla,Pope,Eric Cantrell|Evangeline Walsh|Annalise Hurley|Salma Barnes,Mr. Richmond
+788,2:49:26 AM,barr.averi@madisonps.org,Averi Barr,Averi,Barr,Martha Harper|Nyasia Banks|Maren Montgomery|Jerimiah Newton|Kenya Collier,Mr. Livingston|Mr. Farmer
+789,11:04:47 AM,sanchez.stephanie@madisonps.org,Stephanie Sanchez,Stephanie,Sanchez,Salma Barnes|Jaiden Arias|Jorden Roberts|Virginia Griffin|Serena Mullins,Mrs. Gutierrez|Mrs. Strong|Mr. Cabrera|Mrs. Walton|Mr. Figueroa
+790,1:52:41 PM,lane.carlee@madisonps.org,Carlee Lane,Carlee,Lane,Serena Mullins|Rosemary Edwards|Joanna Wilkerson|Pamela Moyer|Pamela White,Mrs. Sanchez|Mrs. Lawson|Mrs. Wade
+791,8:21:34 PM,christian.alena@madisonps.org,Alena Christian,Alena,Christian,Jolie Salas|Lawson Bray|Lucian Parsons|Khalil Wyatt|Joe Shea,Mr. Suarez|Mr. Braun|Mr. Figueroa|Mrs. Sanchez
+792,9:31:00 AM,duarte.francis@madisonps.org,Francis Duarte,Francis,Duarte,Araceli Mooney,Mrs. Braun|Mrs. Bentley|Mr. Dorsey
+793,3:42:51 PM,jimenez.izaiah@madisonps.org,Izaiah Jimenez,Izaiah,Jimenez,Taylor Mccullough|Jasmin Dillon,Mr. Livingston|Mr. Montoya|Mrs. Lawson
+794,3:44:26 AM,villegas.chloe@madisonps.org,Chloe Villegas,Chloe,Villegas,Johan Carr|Kamila Bruce|Clarissa Bruce|Elena Pineda|Faith Torres,Mrs. Wade|Mr. Terrell|Mrs. Nixon|Mr. Rose
+795,5:51:08 PM,beasley.sterling@madisonps.org,Sterling Beasley,Sterling,Beasley,Braelyn Melton|Carissa Riddle|Kayla Hood|Cortez Savage|Rocco Church,Mr. Gibson|Mrs. Conley|Mrs. Huynh
+796,3:42:27 AM,arellano.jovani@madisonps.org,Jovani Arellano,Jovani,Arellano,Morgan Rangel|Ariana Trujillo|Alannah Cantu,Mrs. Francis|Mr. Frazier|Mrs. Pollard|Mr. Carey|Mrs. Oliver
+797,11:18:25 PM,carson.jair@madisonps.org,Jair Carson,Jair,Carson,Stanley Zavala|Vicente Hull|Johan Friedman|Tommy Vega,Mr. Gonzales|Mr. Mcfarland|Mrs. Pugh|Mr. Roberts|Mr. Frazier
+798,7:40:22 AM,greene.patience@madisonps.org,Patience Greene,Patience,Greene,Isiah Crawford|Andre Gilbert|Bailey Russell|Gauge David|Keon Stone,Mr. Hester|Mr. Webb|Mrs. Bentley|Mrs. Huynh|Mrs. Wade
+799,11:40:45 AM,parrish.payton@madisonps.org,Payton Parrish,Payton,Parrish,Clara Vasquez|Aleena Watson|Matilda Hickman|Joe Spence|Hunter Mckenzie,Mrs. Savage
+800,9:13:49 PM,arias.mylie@madisonps.org,Mylie Arias,Mylie,Arias,Andres Mendez|Jovanni Abbott|Moses Lambert|Amirah Liu|Kyla King,Mrs. Hammond|Mr. Vazquez
+801,12:00:41 AM,perkins.aron@madisonps.org,Aron Perkins,Aron,Perkins,Clarissa Sanchez|Noah Buck|Jacob Neal|Dakota Patel|Jaiden Arias,Mrs. Chavez|Mr. Farmer|Mrs. Oliver|Mrs. Wood|Mr. Frazier
+802,8:33:24 AM,harding.avah@madisonps.org,Avah Harding,Avah,Harding,Tessa Herman,Mr. Campbell|Mrs. Schaefer|Mrs. Schaefer
+803,12:30:24 PM,velazquez.lana@madisonps.org,Lana Velazquez,Lana,Velazquez,Martha Harper|Derrick Bennett,Mr. Lowe|Mrs. Lam|Mr. Webb|Mr. Vasquez
+804,1:08:15 AM,huerta.weston@madisonps.org,Weston Huerta,Weston,Huerta,Jakobe Andrade|Jessica Frank|Muhammad Bird|Javion Mack|Willow Franco,Mrs. Lam|Mr. Farmer|Mr. Vazquez
+805,9:55:46 AM,riddle.noe@madisonps.org,Noe Riddle,Noe,Riddle,Elisa Castillo|Kael Shah|Leland Hutchinson|Malachi Owen|Jamison James,Mrs. Drake|Mr. Merritt|Mr. Lucero
+806,8:19:28 PM,farrell.jaylyn@madisonps.org,Jaylyn Farrell,Jaylyn,Farrell,Javion Mack|Dereon Barrera|Kole Kemp,Mr. Merritt|Mrs. Parsons|Mr. Suarez|Mrs. Chang
+807,8:27:10 AM,schmidt.tara@madisonps.org,Tara Schmidt,Tara,Schmidt,Tristan Duncan|Mattie Gallegos|Pedro Wheeler|Pedro Wheeler,Mr. Willis|Mrs. Wood|Mr. Kemp
+808,12:13:37 AM,lynn.elias@madisonps.org,Elias Lynn,Elias,Lynn,Everett Burgess|Jasiah Moses|Jaydan Alvarez|Finley Coleman|Dayami Gray,Mr. Cook|Mr. Mcfarland|Mr. Dalton|Mr. Terrell|Mr. Patrick
+809,4:06:09 AM,perez.sydnee@madisonps.org,Sydnee Perez,Sydnee,Perez,Easton Todd|Beau Camacho|Alexus Vaughn|Elise Herring|Eva Stuart,Mr. Gentry|Mrs. Gutierrez|Mr. Vasquez|Mrs. Pollard|Mr. Kemp
+810,10:41:11 PM,martinez.lyla@madisonps.org,Lyla Martinez,Lyla,Martinez,Camryn Harrell|Pamela Arellano|Baylee Parsons|Easton Allison|Evangeline Walsh,Mr. Braun|Mr. Young|Mrs. Sanchez|Mr. Carey|Mrs. Chandler
+811,6:59:10 AM,berry.frances@madisonps.org,Frances Berry,Frances,Berry,Jakob Orr|Joshua Ferrell|Daniela Jimenez|Alena Christian|Vance Sloan,Mrs. Mcmillan
+812,2:06:15 AM,perry.zachary@madisonps.org,Zachary Perry,Zachary,Perry,Donna Andrews,Mr. Collins|Mr. Floyd
+813,9:29:48 PM,roberts.jorden@madisonps.org,Jorden Roberts,Jorden,Roberts,Miah Vincent|Giselle Decker,Mr. Figueroa|Mr. Dorsey|Mrs. Wade|Mr. Rose|Mr. Lucero
+814,9:28:07 AM,solomon.maurice@madisonps.org,Maurice Solomon,Maurice,Solomon,John Bernard|Mohammad Cook|Lucia Owens|Hunter Mckenzie|Taylor Mccullough,Mrs. Chandler|Mr. Gillespie|Mrs. Parsons
+815,4:35:18 AM,marshall.jameson@madisonps.org,Jameson Marshall,Jameson,Marshall,Brooks Ford|Jordon Hodges|Lewis Hester|Toby Arias|Cassandra Fitzgerald,Mrs. Luna|Mr. Gonzales|Mr. Frazier|Mr. Carey
+816,12:56:41 PM,hancock.harold@madisonps.org,Harold Hancock,Harold,Hancock,Mercedes Dominguez|Emelia Shields|Nasir Warren,Mrs. Hunt|Mrs. Hickman|Mrs. Hammond
+817,1:45:19 AM,mcgrath.jayvon@madisonps.org,Jayvon Mcgrath,Jayvon,Mcgrath,Catherine Evans|Jocelyn Randolph|Marely Fuentes|Jenny Fischer,Mrs. Wade|Mr. Willis|Mrs. Nixon
+818,12:04:16 PM,deleon.audrey@madisonps.org,Audrey Deleon,Audrey,Deleon,Kaiden Erickson|Shirley Haas|Benjamin Huff|Tyler Browning|Jaidyn Nolan,Mrs. Francis|Mr. Gillespie|Mrs. Marquez|Mrs. Lam
+819,2:55:05 AM,cooley.elijah@madisonps.org,Elijah Cooley,Elijah,Cooley,Morgan Hanna|Trevin Steele|Jaylyn Farrell|Michaela Gibbs|Marcos Mills,Mrs. Nixon|Mrs. Huynh|Mr. Vazquez
+820,5:42:33 PM,mata.jolie@madisonps.org,Jolie Mata,Jolie,Mata,Kole Kemp|Tyson Best|Danika Wiley|Yahir Hahn|Matthias Cline,Mr. Figueroa|Mrs. Holt|Mr. Young|Mrs. Blackburn|Mr. Lucero
+821,3:48:53 PM,crane.alanna@madisonps.org,Alanna Crane,Alanna,Crane,Tyson Best|Urijah Wang|Jared Norman|Fletcher Hanna|Thalia Simpson,Mrs. Reid|Mr. Livingston|Mr. Gonzales|Mr. Figueroa|Mrs. Flynn
+822,6:13:13 PM,strong.jaylyn@madisonps.org,Jaylyn Strong,Jaylyn,Strong,Quinton Ayers,Mrs. Velez|Mrs. Maddox|Mr. Livingston|Mr. Vazquez|Mrs. Chavez
+823,9:38:34 AM,wyatt.khalil@madisonps.org,Khalil Wyatt,Khalil,Wyatt,Reina Moses|Karissa Wheeler,Mr. Cook
+824,4:23:55 AM,salas.jolie@madisonps.org,Jolie Salas,Jolie,Salas,Marcel Pacheco|Fernanda Tucker|Kolton Olsen|Kassidy Levy|Patience Benton,Mrs. Flynn|Mrs. Lawson
+825,11:27:13 AM,booker.paisley@madisonps.org,Paisley Booker,Paisley,Booker,Beau Camacho|Carissa Riddle|Claire Moreno|Ingrid Cantu|Jovanni Abbott,Mr. Mcguire|Mrs. Nixon|Mr. Graham|Mr. Carey|Mrs. Lucas
+826,4:40:22 PM,ayers.danna@madisonps.org,Danna Ayers,Danna,Ayers,Kale Sampson|Jayvon Salazar|Amirah Cunningham,Mr. Gonzales|Mr. Gentry|Mr. Marshall
+827,12:06:36 AM,garrison.calvin@madisonps.org,Calvin Garrison,Calvin,Garrison,Johnny Jackson|Ryan Solomon|Tara Richmond|Keyla Hopkins,Mrs. Bentley|Mr. Farmer|Mr. Gentry|Mrs. Hunt
+828,11:27:46 AM,woods.seth@madisonps.org,Seth Woods,Seth,Woods,Scarlet Duke|Sofia Rodriguez|Myles Estes|Joslyn Mathews|Braedon Madden,Mr. Carey|Mr. Dorsey|Mr. Roberts
+829,7:25:05 PM,gallegos.mylie@madisonps.org,Mylie Gallegos,Mylie,Gallegos,Kailee Flores|Elsa Stewart|Kiersten Joseph|Sofia Rodriguez|Tyson Best,Mrs. Savage|Mr. Merritt|Mrs. Flynn
+830,5:09:30 AM,duke.jaquan@madisonps.org,Jaquan Duke,Jaquan,Duke,Vaughn Summers|Devin Henry|Monique Schwartz|Jalen Ortega|Pierce Lynch,Mr. Merritt|Mrs. Luna|Mrs. Lucas|Mr. Hester
+831,4:00:41 PM,sloan.salvatore@madisonps.org,Salvatore Sloan,Salvatore,Sloan,Leonel Garrett|Grayson Summers|Katherine Allison|Javion Mack|Roderick Decker,Mr. Mcfarland|Mrs. Ferrell|Mrs. Conley
+832,6:57:12 AM,roy.sienna@madisonps.org,Sienna Roy,Sienna,Roy,London Blankenship,Mrs. Mosley|Mrs. Lucas|Mrs. Pollard|Mr. Caldwell|Mrs. Harvey
+833,6:19:27 PM,watson.robert@madisonps.org,Robert Watson,Robert,Watson,Caleb Singleton|Trevin Steele,Mrs. Harvey|Mr. Campbell|Mr. Hester|Mrs. Hahn|Mr. Gillespie
+834,11:04:17 AM,underwood.gabrielle@madisonps.org,Gabrielle Underwood,Gabrielle,Underwood,Jayla Ayers|Clara Vasquez|Thalia Simpson|Alaina Rogers|Elijah Cooley,Mr. Reed|Mr. Graham|Mr. Edwards|Mr. Terrell|Mr. Richmond
+835,11:26:56 PM,contreras.kamila@madisonps.org,Kamila Contreras,Kamila,Contreras,Ada Gaines|Caitlyn Raymond|Jameson Beasley|Elle Lindsey|Cloe Holden,Mr. Hester
+836,7:18:41 PM,lindsey.julianne@madisonps.org,Julianne Lindsey,Julianne,Lindsey,Kaydence Fernandez|Harper Olsen|Clarissa Sanchez,Mr. Lucero|Mrs. Reid
+837,5:50:07 AM,maynard.javier@madisonps.org,Javier Maynard,Javier,Maynard,Peyton Snyder|Halle Humphrey|Whitney Marshall|Kailee Flores,Mr. Caldwell|Mrs. Pugh|Mr. Mcfarland|Mr. Edwards|Mrs. Reid
+838,7:37:26 PM,ellis.micheal@madisonps.org,Micheal Ellis,Micheal,Ellis,Nicolas Huff|Katelyn Benton|Noah Taylor|Damion Stone|Faith Stokes,Mrs. Pugh|Mr. Morrow|Mr. Caldwell
+839,1:46:49 PM,montes.leila@madisonps.org,Leila Montes,Leila,Montes,Caitlyn Raymond|Ulises Mullen|Nicolas David|Johnathan Cabrera|Jocelynn Carney,Mrs. Costa|Mr. Graham|Mr. Hester|Mrs. Oliver
+840,2:30:03 AM,benitez.conner@madisonps.org,Conner Benitez,Conner,Benitez,Lindsay Levine|Braedon Madden|Naima Sims|Lea Grimes|Melina Hammond,Mrs. Francis|Mr. Reed|Mrs. Hunt
+841,5:18:03 PM,mills.marcos@madisonps.org,Marcos Mills,Marcos,Mills,Javion Weiss|Bryson Thornton|Jaydan Alvarez|Elise Miller|Jocelynn Gentry,Mr. Schaefer|Mrs. Chandler|Mr. Cook
+842,2:16:44 PM,gray.everett@madisonps.org,Everett Gray,Everett,Gray,Angela Wright,Mr. Graham|Mrs. Wade|Mr. Mcguire|Mrs. Sanchez
+843,5:16:40 PM,lawson.braeden@madisonps.org,Braeden Lawson,Braeden,Lawson,Kenny Dennis|Charlee Carney,Mrs. Hahn|Mr. Terrell|Mrs. Lam
+844,4:21:45 PM,cowan.krystal@madisonps.org,Krystal Cowan,Krystal,Cowan,Jada Walls|Jordon Hodges|Isiah Crawford|Mylie Gallegos|Byron Woodard,Mr. Floyd|Mrs. Kane|Mrs. Luna|Mr. Frazier|Mr. Carey
+845,11:19:16 PM,spence.joe@madisonps.org,Joe Spence,Joe,Spence,Scarlet Duke|Jenny Carson|Cortez Savage|Matthias Cline|Giselle Decker,Mrs. Harvey|Mr. Huffman|Mr. Schaefer|Mr. Young|Mr. Merritt
+846,1:34:34 PM,vincent.kamron@madisonps.org,Kamron Vincent,Kamron,Vincent,Jakob Orr|Andres Duffy|Morgan Hanna,Mrs. Strong|Mrs. Wood|Mr. Carey|Mr. Roberts|Mr. Schaefer
+847,1:06:09 PM,mullins.serena@madisonps.org,Serena Mullins,Serena,Mullins,Ace Parks|Lawson Wall|Stanley Zavala|Winston Vasquez,Mr. Gibson
+848,2:34:30 PM,giles.roger@madisonps.org,Roger Giles,Roger,Giles,Mattie Gallegos|Clarissa Bruce|Braedon Madden|Junior Smith|Roman Shepard,Mr. Dalton|Mr. Lucero
+849,11:15:23 AM,reed.isaiah@madisonps.org,Isaiah Reed,Isaiah,Reed,Dixie Levy|Tamia Campos|Saige Hansen|Hazel Morrison|Zion Hess,Mr. Kemp|Mr. Reed|Mr. Rose|Mrs. Ferrell|Mr. Merritt
+850,6:41:37 AM,serrano.kristian@madisonps.org,Kristian Serrano,Kristian,Serrano,Elsa Stewart|Steven Mccarty|Deandre Vega|Haleigh Allen|Linda Hensley,Mr. Reed|Mrs. Wade|Mrs. Velez
+851,10:49:21 PM,owen.malachi@madisonps.org,Malachi Owen,Malachi,Owen,Macy Cantrell|Jorden Roberts|Amaya Cuevas|Hope Fuentes|Averi Donovan,Mrs. Harvey|Mr. Patrick|Mr. Cook|Mr. Edwards
+852,5:45:47 AM,decker.roderick@madisonps.org,Roderick Decker,Roderick,Decker,Brynlee Weeks,Mr. Graham|Mrs. Kane|Mr. Roberts
+853,8:36:50 AM,browning.tyler@madisonps.org,Tyler Browning,Tyler,Browning,Nia Pacheco|June Lopez,Mr. Graham|Mrs. Drake|Mr. Caldwell
+854,4:30:35 PM,simpson.thalia@madisonps.org,Thalia Simpson,Thalia,Simpson,Kaydence Fernandez|Tiffany Delacruz|Izabelle Blake|Mattie Gallegos|Dulce Osborn,Mr. Caldwell|Mrs. Parsons|Mrs. Walton|Mr. Lucero
+855,12:15:47 AM,fox.kaley@madisonps.org,Kaley Fox,Kaley,Fox,Krystal Cowan|Devyn Fitzpatrick|Amara Meadows|Nigel Luna|Thalia Hunt,Mr. Montoya|Mrs. Marquez|Mr. Reed
+856,12:07:11 PM,patrick.nathanael@madisonps.org,Nathanael Patrick,Nathanael,Patrick,Raelynn Dennis|Frida Whitaker|Lesly Marsh,Mrs. Chandler|Mrs. Hahn|Mr. Marshall|Mr. Farmer|Mr. Reed
+857,12:33:23 PM,flowers.odin@madisonps.org,Odin Flowers,Odin,Flowers,Lennon Spence|Carleigh Espinoza|Keyon Wilkinson|Kenya Collier,Mr. Collins|Mr. Campbell|Mr. Morrow|Mr. Thompson|Mr. Collins
+858,3:25:38 PM,middleton.taylor@madisonps.org,Taylor Middleton,Taylor,Middleton,Donna Andrews|Natalya Hickman|Paola Bartlett|Yadira Hodge|Ezekiel Mahoney,Mrs. Wood|Mrs. Hunt|Mrs. Francis|Mrs. Francis|Mr. Montoya
+859,3:50:36 AM,mcguire.rodney@madisonps.org,Rodney Mcguire,Rodney,Mcguire,Penelope Valdez|Devin Henry|Mikaela Wade|Amara Meadows|Leonidas Tyler,Mrs. Pugh
+860,3:31:34 AM,vasquez.winston@madisonps.org,Winston Vasquez,Winston,Vasquez,Mya Schaefer|Kaydence Fernandez|Cale Harrington|Krystal Cowan|Dalia Hensley,Mrs. Chandler|Mrs. Schaefer
+861,6:53:08 AM,peters.raquel@madisonps.org,Raquel Peters,Raquel,Peters,Alani Oneill|Kasey Page|Steven Mccarty|Dania Benson|Toby Gardner,Mrs. Velez|Mrs. Bentley|Mrs. Ferrell|Mrs. Braun|Mr. Roberts
+862,1:09:20 PM,nguyen.shawn@madisonps.org,Shawn Nguyen,Shawn,Nguyen,Mariyah Rollins,Mrs. Ferrell|Mr. Webb|Mrs. Hahn
+863,4:19:05 PM,kaufman.santos@madisonps.org,Santos Kaufman,Santos,Kaufman,Cassie Valentine|Dixie Levy,Mrs. Kane|Mr. Dorsey|Mrs. Huynh|Mrs. Sanchez
+864,9:10:31 AM,abbott.jovanni@madisonps.org,Jovanni Abbott,Jovanni,Abbott,Jovani Meza|Jason Benitez|Andy Wiley|Danny Bonilla|Ashlynn Donaldson,Mrs. Wood|Mr. Gonzales|Mrs. Drake
+865,3:47:52 PM,huber.randy@madisonps.org,Randy Huber,Randy,Huber,Finley Coleman|Lyric Lester|Elijah Cooley|Audrey Deleon|Krish Welch,Mrs. Mosley|Mr. Frazier|Mrs. Gutierrez
+866,11:09:55 PM,drake.julianne@madisonps.org,Julianne Drake,Julianne,Drake,Valentina Wagner|Cloe Holden|Ryan Barton,Mr. Cook|Mr. Morrow|Mrs. Luna|Mr. Dalton
+867,10:03:28 PM,david.nicolas@madisonps.org,Nicolas David,Nicolas,David,Demarion Burke|Tara Fischer|Yamilet Collins|Caleb Dillon,Mr. Young|Mrs. Sanchez|Mrs. Marquez
+868,11:57:00 AM,braun.semaj@madisonps.org,Semaj Braun,Semaj,Braun,Kody Davenport|Jaidyn Finley|Isaiah Reed|Kameron Blanchard|Ross Oliver,Mr. Mcfarland|Mr. Collins|Mrs. Nixon|Mr. Terrell|Mrs. Drake
+869,9:01:07 PM,grimes.lea@madisonps.org,Lea Grimes,Lea,Grimes,Davion Garrett|Malachi Owen|Rodney Mcguire|Monique Mcconnell|Frida Whitaker,Mrs. Sanchez|Mrs. Drake|Mr. Collins|Mrs. Kane|Mrs. Bentley
+870,10:53:50 PM,blake.vivian@madisonps.org,Vivian Blake,Vivian,Blake,Baylee Parsons|Elian Ryan|Bennett Christian|Nigel Luna|Nasir Warren,Mr. Graham|Mrs. Maddox|Mrs. Nixon|Mr. Edwards|Mrs. Bentley
+871,1:28:00 AM,harrington.cale@madisonps.org,Cale Harrington,Cale,Harrington,Urijah Wang|Saige Choi|Finnegan Small|Aiyana Gordon|Lindsay Simon,Mrs. Chang
+872,5:34:49 AM,tucker.fernanda@madisonps.org,Fernanda Tucker,Fernanda,Tucker,Harold Hancock,Mrs. Hickman|Mrs. Nixon
+873,11:13:11 PM,huff.nicolas@madisonps.org,Nicolas Huff,Nicolas,Huff,Mattie Pearson|Kole Kemp,Mr. Vasquez|Mrs. Blackburn|Mrs. Wall|Mr. Morrow|Mr. Frazier
+874,12:14:28 PM,hernandez.casey@madisonps.org,Casey Hernandez,Casey,Hernandez,Jolie Salas|Antonio Bright|Ryan Solomon|Elena Pineda|Mariam Cohen,Mr. Hester|Mrs. Gutierrez|Mrs. Blackburn
+875,10:53:18 PM,ford.brooks@madisonps.org,Brooks Ford,Brooks,Ford,Royce Haney|Tatiana Sexton|Caleb Singleton|Amirah Cunningham|Anthony Banks,Mr. Suarez|Mrs. Wood|Mrs. Harvey|Mrs. Sanchez
+876,12:30:00 AM,patel.dakota@madisonps.org,Dakota Patel,Dakota,Patel,Virginia Griffin|Weston Huerta|Clarissa Bruce,Mr. Schaefer|Mr. Willis|Mr. Willis
+877,9:28:49 PM,campos.tamia@madisonps.org,Tamia Campos,Tamia,Campos,Yamilet Collins|Finley Coleman|Tobias Chase|Shaun Knight,Mrs. Drake|Mrs. Savage|Mrs. Bentley
+878,6:19:40 AM,graves.kamryn@madisonps.org,Kamryn Graves,Kamryn,Graves,Jagger Farrell|Yamilet Collins|Ashlynn Donaldson|Maxim Davenport|Javier Maynard,Mr. Reed|Mrs. Reid|Mrs. Sanchez|Mrs. Oliver
+879,5:06:03 PM,krueger.jamari@madisonps.org,Jamari Krueger,Jamari,Krueger,Marlie Mccall|Morgan Hanna|Mylie Arias|Zara Jarvis|Tara Schmidt,Mr. Hester|Mr. Graham|Mr. Frazier
+880,12:24:57 PM,benton.patience@madisonps.org,Patience Benton,Patience,Benton,Josh Howe|Jimmy Ware|Gary Dougherty|Jonathon Castaneda|Kenny Dennis,Mrs. Kane|Mrs. Wall|Mrs. Flynn|Mr. Dalton|Mrs. Wade
+881,5:15:42 AM,sawyer.libby@madisonps.org,Libby Sawyer,Libby,Sawyer,Lawson Wall|Nikolas Tran|Alexus Vaughn|Isaiah Reed|Kaylee Lamb,Mrs. Hammond|Mrs. Chandler|Mrs. Costa|Mr. Frazier|Mr. Gillespie
+882,10:57:25 AM,ayers.quinton@madisonps.org,Quinton Ayers,Quinton,Ayers,Sidney Grant,Mrs. Solomon|Mr. Hester|Mr. Carey|Mr. Cook|Mrs. Holt
+883,10:26:06 PM,wheeler.pedro@madisonps.org,Pedro Wheeler,Pedro,Wheeler,Cannon Lee|Elisa Castillo,Mrs. Flynn
+884,3:11:35 AM,graham.damon@madisonps.org,Damon Graham,Damon,Graham,Mike Sherman|Danielle Taylor|Cole Wells|Jacob Neal|Edith Giles,Mr. Floyd|Mr. Figueroa
+885,12:43:30 AM,gordon.aiyana@madisonps.org,Aiyana Gordon,Aiyana,Gordon,Pamela Ayala|Jayvon Mcgrath|Joanna Waters|Joaquin Adams|Jamari Krueger,Mrs. Wade|Mr. Figueroa|Mr. Frazier|Mrs. Hahn|Mr. Schaefer
+886,7:17:25 AM,bradford.tripp@madisonps.org,Tripp Bradford,Tripp,Bradford,Amelie Griffin|Haiden Mahoney|Ireland Fitzgerald,Mr. King|Mrs. Mosley|Mr. Huffman
+887,2:29:47 AM,salazar.jayvon@madisonps.org,Jayvon Salazar,Jayvon,Salazar,Sam Werner|Paulina Dunlap|Camryn Ali|Martha Harper,Mr. Suarez|Mr. Edwards|Mr. Cook|Mr. Roberts
+888,4:45:20 PM,bartlett.paola@madisonps.org,Paola Bartlett,Paola,Bartlett,Kevin Houston|Jay Nichols|Finley Coleman|Clarissa Sanchez|Catherine Evans,Mrs. Savage|Mr. Suarez|Mr. Dalton
+889,6:18:05 PM,hendricks.natalya@madisonps.org,Natalya Hendricks,Natalya,Hendricks,Wyatt Ware|Taylor Middleton|Lawson Wall|Clarissa Sanchez|Edgar Valenzuela,Mrs. Holt|Mr. Reed|Mrs. Hahn
+890,11:04:22 PM,palmer.randy@madisonps.org,Randy Palmer,Randy,Palmer,Nayeli Gibson|Jude Reese|Charlee Carney|Reece Hayden|Marcos Mills,Mr. Mcguire|Mr. Kemp|Mrs. Conley|Mrs. Maddox
+891,10:51:21 PM,rodriguez.dayana@madisonps.org,Dayana Rodriguez,Dayana,Rodriguez,Pierce Lynch|Haleigh Allen|Sloane Savage|Harold Hancock|Kenya Collier,Mrs. Velez|Mrs. Wood|Mr. Gillespie
+892,5:22:26 AM,hawkins.ally@madisonps.org,Ally Hawkins,Ally,Hawkins,Chad Kerr,Mrs. Strong|Mr. Schaefer|Mr. Merritt|Mr. Thompson|Mr. Graham
+893,10:18:12 AM,burgess.adalynn@madisonps.org,Adalynn Burgess,Adalynn,Burgess,Kevin Houston|Jamari Krueger,Mr. Graham|Mr. Floyd|Mrs. Strong|Mr. Young|Mrs. Schaefer
+894,12:13:58 AM,woodard.byron@madisonps.org,Byron Woodard,Byron,Woodard,Patience Benton|Nia Pacheco|Yandel Carey|Bianca Roberson|Calvin Garrison,Mr. Miles|Mr. Rose|Mrs. Oliver|Mr. Schaefer|Mrs. Wood
+895,4:29:02 PM,long.deangelo@madisonps.org,Deangelo Long,Deangelo,Long,Lance Foley|Jocelyn Randolph|Shayla Beck|Makaila Clay|Angela Wright,Mr. Gillespie
+896,2:17:42 AM,horne.jolie@madisonps.org,Jolie Horne,Jolie,Horne,Jordon Hodges|Easton Allison|Jessie Flynn,Mrs. Gutierrez|Mrs. Kane
+897,3:21:55 AM,wallace.amiah@madisonps.org,Amiah Wallace,Amiah,Wallace,Jamie Hill|Savannah Spencer|Jair Carson|Terry Mcclain,Mr. Cook|Mr. Huffman|Mrs. Marquez|Mr. Edwards|Mr. Thompson
+898,10:58:20 AM,morgan.reece@madisonps.org,Reece Morgan,Reece,Morgan,Brynlee Weeks|Amare Norris|Lennon Spence|Dallas Best|Sanai Duffy,Mrs. Conley|Mr. Kemp|Mrs. Conley
+899,10:31:40 AM,weiss.tiana@madisonps.org,Tiana Weiss,Tiana,Weiss,Cannon Lee|Sebastian Ingram|Easton Allison|London Blankenship|Jacoby Pope,Mrs. Mosley|Mrs. Pollard|Mrs. Wall|Mr. Miles
+900,8:02:07 PM,haney.royce@madisonps.org,Royce Haney,Royce,Haney,Kyla King|Josue Lucero|Oscar Olson|Bianca Roberson|Maci Swanson,Mr. Webb|Mr. Edwards|Mr. Suarez
+901,1:08:54 PM,barry.izaiah@madisonps.org,Izaiah Barry,Izaiah,Barry,Odin Flowers|Reina Moses|Owen Crane|Tamia Romero|Darren Mccormick,Mrs. Flynn|Mrs. Nixon|Mr. King
+902,8:41:06 PM,valdez.penelope@madisonps.org,Penelope Valdez,Penelope,Valdez,Hazel Wise,Mr. Mcguire|Mr. Terrell|Mr. Livingston|Mr. Braun
+903,12:34:25 PM,james.jamison@madisonps.org,Jamison James,Jamison,James,Taylor Middleton|Mattie Potter,Mrs. Pollard|Mr. Gentry|Mrs. Ferrell
+904,8:22:59 PM,hammond.melina@madisonps.org,Melina Hammond,Melina,Hammond,Jacey Stout|Rodrigo Cortez|Kelsey Meadows|Semaj Braun|Shamar Fields,Mr. Lucero|Mrs. Lam|Mr. Hester|Mr. Costa|Mrs. Sanchez
+905,12:30:25 PM,moreno.claire@madisonps.org,Claire Moreno,Claire,Moreno,Hazel Morrison|Jerimiah Newton|Mekhi Dunn|Brooks Caldwell|Jase Macdonald,Mrs. Ferrell|Mrs. Lam|Mr. Willis|Mrs. Blackburn|Mrs. Hahn
+906,4:58:05 AM,rush.raegan@madisonps.org,Raegan Rush,Raegan,Rush,Vicente Hawkins|Jayvon Mcgrath|Amelie Kent,Mrs. Costa|Mrs. Mcmillan|Mrs. Pugh|Mr. Vasquez|Mrs. Hahn
+907,3:41:49 AM,landry.kenna@madisonps.org,Kenna Landry,Kenna,Landry,Ciara Armstrong|Josiah Allen|Tobias Chase|Dominick Lawrence,Mr. Graham
+908,7:58:53 AM,yang.magdalena@madisonps.org,Magdalena Yang,Magdalena,Yang,Tristan Duncan|Jaliyah Haas|Alyssa Armstrong|Marely Schultz|Kane Hall,Mr. Carey|Mrs. Hammond
+909,9:24:35 PM,durham.allen@madisonps.org,Allen Durham,Allen,Durham,Dylan Hughes|Josue Lucero|Alejandro Rosario|Mohammad Cook|Danna Ayers,Mrs. Chang|Mrs. Chang|Mrs. Bentley|Mrs. Hammond|Mr. Montoya
+910,8:30:24 PM,watkins.skyler@madisonps.org,Skyler Watkins,Skyler,Watkins,Van Washington|Joslyn Mathews|Kaylen Bush|Willow Franco|Macie Poole,Mr. Patrick|Mrs. Lawson|Mrs. Blackburn
+911,12:17:30 PM,tran.sherlyn@madisonps.org,Sherlyn Tran,Sherlyn,Tran,Lea Grimes|Marcos Mills|Yamilet Collins|Carla Meza|Owen Crane,Mr. Lucero|Mr. Gillespie|Mr. Thompson|Mr. Terrell
+912,3:46:03 AM,meadows.serena@madisonps.org,Serena Meadows,Serena,Meadows,Jimmy Ware,Mrs. Kane|Mr. Merritt|Mr. Rose
+913,6:02:19 AM,smith.junior@madisonps.org,Junior Smith,Junior,Smith,Quinton Ayers|Isiah Crawford,Mr. Reed|Mr. Montoya|Mr. Reed
+914,6:48:59 AM,hart.eden@madisonps.org,Eden Hart,Eden,Hart,Sebastian Ingram|Shayna Sexton|Cherish Acosta|Mekhi Dunn|Joshua Ferrell,Mr. Hester|Mr. Cabrera|Mr. Patrick|Mr. Thompson
+915,1:26:51 PM,armstrong.ciara@madisonps.org,Ciara Armstrong,Ciara,Armstrong,Zion Hess|Jared Norman|Alani Oneill|Rodney Mcguire|Jordon Hodges,Mr. Montoya|Mrs. Pollard|Mr. Gibson
+916,6:42:22 AM,owens.lydia@madisonps.org,Lydia Owens,Lydia,Owens,Jade Moses|Jasiah Moses|Matias Herrera,Mrs. Solomon|Mr. Kemp|Mrs. Hunt|Mrs. Nixon|Mr. Patrick
+917,10:54:52 PM,frye.kaiya@madisonps.org,Kaiya Frye,Kaiya,Frye,Patience Greene|Mattie Gallegos|Alani Oneill|Iris West,Mr. Lowe|Mrs. Francis|Mr. Webb|Mr. Young|Mrs. Luna
+918,8:55:23 PM,christian.bennett@madisonps.org,Bennett Christian,Bennett,Christian,Cortez Savage|Nathan Wright|Tyler Browning|Caleb Dillon|Nyasia Banks,Mr. Figueroa|Mr. Schaefer|Mr. Kemp|Mr. Vazquez|Mr. Lowe
+919,2:50:56 PM,oconnell.jadyn@madisonps.org,Jadyn Oconnell,Jadyn,Oconnell,Lindsay Levine|Juliana Thornton|Rayan Powers|Danika Gray|Marely Fuentes,Mr. Young
+920,2:31:14 AM,allison.dayton@madisonps.org,Dayton Allison,Dayton,Allison,Dominique Elliott|Hazel Wise|Howard Lamb|Liana Frederick|Jada Walls,Mr. Young|Mrs. Mosley
+921,3:59:58 PM,goodman.rory@madisonps.org,Rory Goodman,Rory,Goodman,Miriam Mills|Frances Berry|Charles Morrow|Lawson Wall|Frida Whitaker,Mr. Lucero|Mrs. Reid|Mr. Braun|Mrs. Rollins|Mrs. Nixon
+922,5:21:21 PM,marsh.lucia@madisonps.org,Lucia Marsh,Lucia,Marsh,Avah Harding,Mrs. Conley|Mr. Hester|Mr. Montoya
+923,12:13:31 PM,strong.lilia@madisonps.org,Lilia Strong,Lilia,Strong,Shania Ware|Nayeli Fletcher,Mrs. Gutierrez|Mrs. Hammond|Mr. Merritt|Mr. Young
+924,9:00:47 AM,marsh.jaslene@madisonps.org,Jaslene Marsh,Jaslene,Marsh,Aliyah Newman|Jayla Ayers|Emerson Simon|Dania Benson|Alexis Salazar,Mrs. Pugh|Mr. Merritt|Mr. Schaefer
+925,8:30:10 PM,galvan.nathanial@madisonps.org,Nathanial Galvan,Nathanial,Galvan,Bentley Morrow|Cristian Lawson|Caleb Singleton|Louis Walls|Camryn Ali,Mrs. Francis|Mrs. Hunt|Mrs. Chavez
+926,12:26:45 AM,harris.pedro@madisonps.org,Pedro Harris,Pedro,Harris,Cohen Benton|Lindsay Levine|Ciara Wyatt,Mr. Cook|Mr. Dorsey|Mr. Gibson|Mr. Terrell
+927,11:18:32 AM,bauer.billy@madisonps.org,Billy Bauer,Billy,Bauer,Easton Mckay|Mariam Cohen|Mariah Gilmore|Owen Crane,Mr. Marshall|Mrs. Lawson|Mrs. Mcmillan
+928,9:02:03 AM,burns.charlotte@madisonps.org,Charlotte Burns,Charlotte,Burns,Jaslene Marsh|Vicente Hawkins|Sloane Savage|Mattie Gallegos|Macie Dalton,Mr. Dalton|Mr. Collins|Mr. Collins|Mr. Frazier|Mrs. Lawson
+929,6:08:28 AM,craig.damarion@madisonps.org,Damarion Craig,Damarion,Craig,Nikolai Oconnor|Paula Frey|Lindsay Simon|Camille Bond|Jordan Hardy,Mrs. Kane|Mrs. Rollins|Mr. Rose|Mrs. Chavez|Mrs. Mosley
+930,12:59:16 PM,burgess.yasmin@madisonps.org,Yasmin Burgess,Yasmin,Burgess,Fabian Taylor|Jane Logan|Nickolas Sellers|Josue Strong|Teagan Bush,Mr. Hester|Mrs. Conley|Mrs. Lam|Mr. Campbell|Mrs. Chang
+931,9:10:16 PM,meadows.amara@madisonps.org,Amara Meadows,Amara,Meadows,Angela Austin|Donna Andrews|Ireland Fitzgerald|Joe Beck|Christian Salazar,Mr. Livingston
+932,3:01:33 PM,taylor.fabian@madisonps.org,Fabian Taylor,Fabian,Taylor,Cadence Hunt,Mr. Webb|Mr. Cook
+933,11:16:16 PM,caldwell.brooks@madisonps.org,Brooks Caldwell,Brooks,Caldwell,Cassie Valentine|Esmeralda Hanson,Mr. Miles|Mr. Cook|Mrs. Pollard|Mrs. Bentley|Mrs. Huynh
+934,7:27:44 AM,bruce.kamila@madisonps.org,Kamila Bruce,Kamila,Bruce,Francis Duarte|Rosemary Strong|Tristen Warren|Dakota Patel|Nyasia Banks,Mrs. Ferrell|Mrs. Velez|Mrs. Oliver
+935,9:52:41 AM,lee.ramiro@madisonps.org,Ramiro Lee,Ramiro,Lee,Cortez Washington|Karlee Hodge|Kathy Levy|Jordon Hodges|German Watkins,Mrs. Francis|Mr. Willis|Mr. Gonzales|Mr. Edwards
+936,8:47:14 AM,savage.sloane@madisonps.org,Sloane Savage,Sloane,Savage,Breanna Shah|Amber Palmer|Roger Giles,Mrs. Pollard|Mrs. Velez|Mrs. Holt
+937,3:56:12 PM,murillo.lamar@madisonps.org,Lamar Murillo,Lamar,Murillo,Jaidyn Finley|Isaiah Murillo|Jazlynn Bond|Nickolas Sellers,Mrs. Huynh|Mr. Figueroa|Mr. Edwards
+938,12:01:12 PM,fitzpatrick.devyn@madisonps.org,Devyn Fitzpatrick,Devyn,Fitzpatrick,Aliyah Newman|Alonzo Castillo|Jaydon Knapp|Marie Shannon|Gaven Costa,Mrs. Pollard|Mr. Costa|Mr. Vasquez|Mr. Gibson
+939,10:10:09 PM,bennett.derrick@madisonps.org,Derrick Bennett,Derrick,Bennett,Amaya Cuevas|Payton Parrish|Mya Schaefer|Mattie Potter|Gia Love,Mr. Floyd|Mr. Cook|Mr. Mcfarland
+940,6:48:23 AM,hall.fatima@madisonps.org,Fatima Hall,Fatima,Hall,Tori Summers|Lea Grimes|Maren Harmon|Jorge Contreras|Kallie Burton,Mrs. Huynh|Mr. Lowe|Mrs. Wall|Mr. Morrow|Mrs. Hahn
+941,6:32:54 AM,chandler.dalton@madisonps.org,Dalton Chandler,Dalton,Chandler,Khalil Wyatt|Zander Roman|Valentina Wagner|Patience Benton|Dylan Bird,Mr. Hester|Mr. Hester|Mrs. Parsons|Mrs. Drake|Mrs. Walton
+942,2:56:07 AM,reese.jude@madisonps.org,Jude Reese,Jude,Reese,Brennen Cannon,Mr. Marshall|Mrs. Harvey|Mrs. Francis|Mrs. Drake|Mrs. Pugh
+943,12:01:55 PM,cardenas.julie@madisonps.org,Julie Cardenas,Julie,Cardenas,Imani Kidd|Jamie Hill,Mrs. Lawson
+944,1:12:03 PM,jimenez.daniela@madisonps.org,Daniela Jimenez,Daniela,Jimenez,Sidney Grant|Joshua Ferrell|Alejandro Rosario|Keyon Cisneros|Tiana Weiss,Mrs. Costa|Mr. Morrow
+945,2:43:04 AM,rice.kathleen@madisonps.org,Kathleen Rice,Kathleen,Rice,Brittany Conway|Adalynn Burgess|Angela Austin|Zion Brewer|Danielle Taylor,Mr. Miles|Mrs. Blackburn|Mr. Roberts|Mrs. Velez|Mrs. Kane
+946,4:22:49 AM,armstrong.jillian@madisonps.org,Jillian Armstrong,Jillian,Armstrong,Davion Garrett|Alex Bentley|Averi Barr,Mrs. Kane|Mr. Rose|Mr. Figueroa
+947,12:11:52 AM,cordova.dania@madisonps.org,Dania Cordova,Dania,Cordova,Finley Coleman|Malia Osborn|Roger Giles|Patrick Meza,Mr. Webb|Mrs. Costa|Mrs. Marquez|Mrs. Drake
+948,11:34:04 AM,schwartz.taylor@madisonps.org,Taylor Schwartz,Taylor,Schwartz,Dillon Santana|Faith Stokes|Gary Dougherty|Dallas Best|Javion Mack,Mrs. Reid|Mrs. Rollins|Mr. Roberts
+949,6:37:58 PM,bird.zion@madisonps.org,Zion Bird,Zion,Bird,Sydnee Perez|Kason Riggs|Tiffany Delacruz|Rodolfo Tyler|Kenley Sellers,Mr. Merritt|Mr. Hester|Mrs. Chang
+950,2:34:31 AM,hahn.yahir@madisonps.org,Yahir Hahn,Yahir,Hahn,Oscar Olson|Bailey Russell|Princess Bentley|Jared Norman|Breanna Shah,Mrs. Luna|Mrs. Velez|Mr. Braun|Mr. Gibson
+951,10:26:31 PM,finley.jayvon@madisonps.org,Jayvon Finley,Jayvon,Finley,Jude Reese|Jaydan Alvarez|Mikaela Wade|Marin Hensley|Nicolas Huff,Mrs. Solomon|Mrs. Drake|Mrs. Francis
+952,3:22:54 AM,cruz.natalya@madisonps.org,Natalya Cruz,Natalya,Cruz,Kristian Frey,Mr. Frazier|Mr. Mcfarland|Mrs. Luna|Mr. Roberts|Mrs. Luna
+953,1:21:32 AM,rosario.waylon@madisonps.org,Waylon Rosario,Waylon,Rosario,Tamia Romero|Ashlynn Donaldson,Mr. Gonzales|Mrs. Chavez|Mrs. Gutierrez|Mrs. Nixon|Mr. Gillespie
+954,10:28:56 PM,booker.xzavier@madisonps.org,Xzavier Booker,Xzavier,Booker,Emerson Simon|Allie Hall|Junior Smith|Brooks Caldwell|Cole Wells,Mr. Huffman|Mr. King|Mr. Rose|Mr. Terrell|Mr. Reed
