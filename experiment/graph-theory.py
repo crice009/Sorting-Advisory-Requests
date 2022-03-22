@@ -6,8 +6,8 @@ from setup import *
 #/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
 #convert the imported files into reasonable data tables
 buildBaseTables()
-buildForeignKeys()
-buildSecondaryTables()
+#buildForeignKeys()
+#buildSecondaryTables()
 
 # ##########################################################################
 # students = [] #array of all the unique student data
@@ -23,11 +23,6 @@ buildSecondaryTables()
 #     #OBJ-format ==>> id | teacher1 [FK] | teacher2 [FK]
 # ##########################################################################
 
-stuRequestWeight = []
-teaRequestWeight = []
-protoClasses = [] #before building classes
-classes = [] #array of all the classes 
-
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
 #  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
@@ -41,13 +36,32 @@ classes = [] #array of all the classes
     #
     # https://dl.acm.org/doi/10.1145/3366424.3383296
     # http://theory.stanford.edu/~nmishra/Papers/clusteringSocialNetworks.pdf
-    #  probably this --> https://www.cse.msu.edu/~cse802/S17/slides/Lec_20_21_22_Clustering.pdf
+    # probably this --> https://www.cse.msu.edu/~cse802/S17/slides/Lec_20_21_22_Clustering.pdf
+    # definitely this --> https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
+    # using networkx library...
+
     
+import networkx as nx
+import matplotlib.pyplot as plt
+G = nx.Graph()
+
+G.add_nodes_from(students)
+print (G.number_of_nodes(), " nodes present")
 
 for student in students:
-    count = 0
-    for each in stu_stu:
-        if each.student2 == student.id:
-            count += 1
-    stuRequestWeight.append([student.id, count])
-print(stuRequestWeight)
+    for friend in student.friends:
+        #print("\t",student.id,"\t",edge)
+        if friend is not None:
+            findPersonByID(students, friend)
+            G.add_edge(student, friend)
+
+print (G.number_of_edges(), " edges present")
+
+# nx.clustering(G)
+
+print(nx.algorithms.approximation.clique.max_clique(G))
+
+
+#test drawing
+nx.draw(G)
+plt.savefig("graph.png")

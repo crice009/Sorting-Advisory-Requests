@@ -1,0 +1,96 @@
+id,timestamp,email,fullname,firstname,surname,teachers
+1,3:52:16 AM,richmond.lorena@madisonps.org,Mr. Richmond,Lorena,Richmond,Mr. Costa|Mrs. Solomon|Mrs. Wall|Mrs. Solomon|Mr. Livingston
+2,8:17:19 AM,kemp.kael@madisonps.org,Mr. Kemp,Kael,Kemp,Mrs. Lam
+3,10:29:49 AM,oliver.aliza@madisonps.org,Mrs. Oliver,Aliza,Oliver,Mrs. Oliver|Mr. Suarez
+4,3:59:07 PM,lam.marely@madisonps.org,Mrs. Lam,Marely,Lam,Mr. Figueroa|Mr. Mcguire|Mrs. Blackburn|Mr. Kemp|Mrs. Wade
+5,4:26:16 AM,conley.tripp@madisonps.org,Mrs. Conley,Tripp,Conley,Mrs. Francis|Mr. Gillespie|Mrs. Mosley
+6,6:01:07 AM,huffman.kyle@madisonps.org,Mr. Huffman,Kyle,Huffman,Mrs. Solomon|Mr. Collins|Mrs. Savage|Mr. Rose
+7,8:36:43 AM,chavez.soren@madisonps.org,Mrs. Chavez,Soren,Chavez,Mrs. Kane|Mrs. Wood|Mr. Morrow
+8,11:12:42 AM,pugh.braylon@madisonps.org,Mrs. Pugh,Braylon,Pugh,Mr. Dalton|Mrs. Francis|Mr. Patrick|Mrs. Costa|Mrs. Huynh
+9,8:10:04 PM,figueroa.slade@madisonps.org,Mr. Figueroa,Slade,Figueroa,Mrs. Holt|Mr. Cabrera|Mrs. Pollard|Mr. Kemp|Mr. Collins
+10,12:57:28 PM,mosley.sasha@madisonps.org,Mrs. Mosley,Sasha,Mosley,Mrs. Hunt|Mrs. Francis|Mr. Reed|Mr. Richmond|Mrs. Lawson
+11,10:47:52 PM,bentley.krista@madisonps.org,Mrs. Bentley,Krista,Bentley,Mr. Lowe|Mr. Suarez|Mrs. Chandler|Mr. Miles|Mr. Cabrera
+12,1:37:54 AM,dalton.lorelei@madisonps.org,Mr. Dalton,Lorelei,Dalton,Mrs. Wade
+13,4:03:23 AM,suarez.nathanial@madisonps.org,Mr. Suarez,Nathanial,Suarez,Mr. Suarez|Mrs. Strong
+14,3:59:21 AM,young.natalia@madisonps.org,Mr. Young,Natalia,Young,Mrs. Pugh|Mr. Floyd|Mrs. Parsons|Mr. Schaefer|Mr. Richmond
+15,7:03:33 AM,livingston.stanley@madisonps.org,Mr. Livingston,Stanley,Livingston,Mrs. Blackburn|Mr. Montoya|Mr. Cabrera
+16,2:33:22 AM,costa.kaiya@madisonps.org,Mrs. Costa,Kaiya,Costa,Mr. Cabrera|Mr. Suarez|Mrs. Strong|Mrs. Drake
+17,10:54:38 AM,terrell.esmeralda@madisonps.org,Mr. Terrell,Esmeralda,Terrell,Mr. Braun|Mrs. Hunt|Mr. Floyd
+18,7:18:42 PM,hammond.sammy@madisonps.org,Mrs. Hammond,Sammy,Hammond,Mr. Thompson|Mr. Campbell|Mr. Reed|Mrs. Chavez|Mr. Mcfarland
+19,11:03:04 AM,parsons.izayah@madisonps.org,Mrs. Parsons,Izayah,Parsons,Mr. Caldwell|Mr. Mcfarland|Mrs. Schaefer|Mrs. Francis|Mr. Vazquez
+20,12:59:01 AM,patrick.deshawn@madisonps.org,Mr. Patrick,Deshawn,Patrick,Mr. Figueroa|Mr. Cook|Mrs. Wade|Mr. Merritt|Mrs. Harvey
+21,7:26:04 PM,walton.desirae@madisonps.org,Mrs. Walton,Desirae,Walton,Mr. Richmond|Mrs. Savage|Mrs. Chavez|Mrs. Lam|Mr. Costa
+22,6:50:48 AM,carey.angelo@madisonps.org,Mr. Carey,Angelo,Carey,Mr. Cabrera
+23,10:06:12 PM,lawson.tanner@madisonps.org,Mrs. Lawson,Tanner,Lawson,Mrs. Strong|Mrs. Marquez
+24,2:58:18 AM,gibson.norah@madisonps.org,Mr. Gibson,Norah,Gibson,Mrs. Huynh|Mr. Collins|Mrs. Hammond|Mr. Farmer|Mr. Terrell
+25,3:55:54 AM,maddox.makenna@madisonps.org,Mrs. Maddox,Makenna,Maddox,Mr. Montoya|Mrs. Velez|Mr. Morrow
+26,8:59:36 PM,lucero.violet@madisonps.org,Mr. Lucero,Violet,Lucero,Mr. Marshall|Mrs. Costa|Mrs. Ferrell|Mrs. Savage
+27,6:05:35 PM,cabrera.jocelynn@madisonps.org,Mr. Cabrera,Jocelynn,Cabrera,Mrs. Blackburn|Mr. Suarez|Mr. Campbell
+28,11:24:57 PM,hester.emery@madisonps.org,Mr. Hester,Emery,Hester,Mr. Edwards|Mrs. Bentley|Mrs. Wade|Mr. Gillespie|Mr. Montoya
+29,3:17:59 AM,blackburn.sidney@madisonps.org,Mrs. Blackburn,Sidney,Blackburn,Mrs. Francis|Mr. Suarez|Mrs. Wade|Mrs. Lam|Mrs. Drake
+30,6:31:49 PM,gutierrez.elliana@madisonps.org,Mrs. Gutierrez,Elliana,Gutierrez,Mrs. Velez|Mrs. Hickman|Mrs. Strong|Mr. Lowe|Mrs. Francis
+31,5:12:24 PM,velez.annika@madisonps.org,Mrs. Velez,Annika,Velez,Mrs. Huynh|Mr. Patrick|Mrs. Chang|Mrs. Holt|Mr. Terrell
+32,6:21:23 PM,roberts.augustus@madisonps.org,Mr. Roberts,Augustus,Roberts,Mrs. Huynh
+33,1:39:23 AM,reid.alexzander@madisonps.org,Mrs. Reid,Alexzander,Reid,Mr. Marshall|Mr. Miles
+34,4:27:17 PM,nixon.brooklynn@madisonps.org,Mrs. Nixon,Brooklynn,Nixon,Mr. Figueroa|Mr. Farmer|Mrs. Hammond|Mrs. Hahn|Mrs. Ferrell
+35,5:57:42 PM,chandler.richard@madisonps.org,Mrs. Chandler,Richard,Chandler,Mrs. Sanchez|Mrs. Gutierrez|Mr. Edwards
+36,12:37:19 PM,mcmillan.damien@madisonps.org,Mrs. Mcmillan,Damien,Mcmillan,Mrs. Harvey|Mrs. Strong|Mr. Patrick|Mrs. Reid
+37,9:03:08 PM,cook.aarav@madisonps.org,Mr. Cook,Aarav,Cook,Mr. Miles|Mr. Kemp|Mrs. Kane
+38,1:57:36 PM,huynh.kai@madisonps.org,Mrs. Huynh,Kai,Huynh,Mr. Young|Mrs. Hunt|Mr. Cook|Mr. Schaefer|Mrs. Strong
+39,5:12:27 PM,wood.bryson@madisonps.org,Mrs. Wood,Bryson,Wood,Mrs. Blackburn|Mrs. Flynn|Mr. Campbell|Mrs. Nixon|Mrs. Harvey
+40,11:58:59 AM,marshall.khloe@madisonps.org,Mr. Marshall,Khloe,Marshall,Mr. Gibson|Mr. Willis|Mrs. Hahn|Mr. Cabrera|Mr. Morrow
+41,2:46:27 PM,schaefer.devyn@madisonps.org,Mr. Schaefer,Devyn,Schaefer,Mrs. Reid|Mrs. Costa|Mrs. Velez|Mrs. Ferrell|Mr. Livingston
+42,11:09:50 AM,wade.logan@madisonps.org,Mrs. Wade,Logan,Wade,Mr. Terrell
+43,5:24:57 AM,lowe.giovanny@madisonps.org,Mr. Lowe,Giovanny,Lowe,Mrs. Velez|Mr. Campbell
+44,9:00:45 AM,vasquez.haley@madisonps.org,Mr. Vasquez,Haley,Vasquez,Mr. Thompson|Mrs. Gutierrez|Mr. Morrow|Mrs. Walton|Mr. Suarez
+45,4:02:15 AM,miles.emerson@madisonps.org,Mr. Miles,Emerson,Miles,Mr. Huffman|Mrs. Marquez|Mrs. Kane
+46,12:04:31 AM,savage.renee@madisonps.org,Mrs. Savage,Renee,Savage,Mrs. Solomon|Mrs. Oliver|Mrs. Braun|Mr. Schaefer
+47,8:11:31 PM,hahn.camille@madisonps.org,Mrs. Hahn,Camille,Hahn,Mr. Mcguire|Mr. Campbell|Mr. Cabrera
+48,11:33:06 AM,willis.jaidyn@madisonps.org,Mr. Willis,Jaidyn,Willis,Mr. Lowe|Mr. Kemp|Mrs. Nixon|Mr. Graham|Mrs. Savage
+49,4:37:09 PM,wall.fatima@madisonps.org,Mrs. Wall,Fatima,Wall,Mrs. Conley|Mrs. Schaefer|Mr. Richmond|Mr. Vasquez|Mrs. Hahn
+50,6:13:16 AM,sanchez.shelby@madisonps.org,Mrs. Sanchez,Shelby,Sanchez,Mrs. Pollard|Mrs. Lucas|Mr. Costa|Mr. Braun|Mrs. Pollard
+51,8:03:47 AM,thompson.johnny@madisonps.org,Mr. Thompson,Johnny,Thompson,Mr. Gonzales|Mr. Lucero|Mr. Gillespie|Mrs. Chavez|Mr. Vazquez
+52,7:29:27 AM,lucas.mathew@madisonps.org,Mrs. Lucas,Mathew,Lucas,Mr. Gillespie
+53,11:46:59 PM,braun.karsyn@madisonps.org,Mr. Braun,Karsyn,Braun,Mr. Cook|Mr. Dalton
+54,12:19:49 AM,ferrell.jonas@madisonps.org,Mrs. Ferrell,Jonas,Ferrell,Mrs. Velez|Mrs. Chandler|Mr. Collins|Mr. Mcguire|Mr. Costa
+55,11:45:38 AM,campbell.tristen@madisonps.org,Mr. Campbell,Tristen,Campbell,Mr. Frazier|Mrs. Reid|Mr. Morrow
+56,3:08:23 AM,harvey.riya@madisonps.org,Mrs. Harvey,Riya,Harvey,Mr. Cook|Mrs. Mcmillan|Mr. Webb|Mrs. Solomon
+57,4:26:55 AM,caldwell.kayley@madisonps.org,Mr. Caldwell,Kayley,Caldwell,Mrs. Walton|Mrs. Holt|Mrs. Francis
+58,10:19:25 AM,hunt.lillianna@madisonps.org,Mrs. Hunt,Lillianna,Hunt,Mrs. Velez|Mrs. Blackburn|Mr. Cabrera|Mr. Rose|Mr. Caldwell
+59,2:33:39 PM,marquez.isaias@madisonps.org,Mrs. Marquez,Isaias,Marquez,Mr. Graham|Mr. Graham|Mrs. Savage|Mr. Campbell|Mrs. Velez
+60,3:17:14 PM,chang.abbie@madisonps.org,Mrs. Chang,Abbie,Chang,Mr. Dalton|Mr. Reed|Mrs. Luna|Mrs. Lucas|Mr. Braun
+61,6:37:25 PM,solomon.kiana@madisonps.org,Mrs. Solomon,Kiana,Solomon,Mr. Patrick|Mrs. Huynh|Mr. Collins|Mrs. Chavez|Mr. Gibson
+62,4:53:04 AM,mcguire.adyson@madisonps.org,Mr. Mcguire,Adyson,Mcguire,Mrs. Drake
+63,5:18:49 PM,hickman.kayley@madisonps.org,Mrs. Hickman,Kayley,Hickman,Mr. Reed|Mr. Caldwell
+64,2:36:11 AM,merritt.alina@madisonps.org,Mr. Merritt,Alina,Merritt,Mrs. Braun|Mr. Mcguire|Mr. Dorsey|Mr. Braun|Mr. Suarez
+65,6:52:44 PM,schaefer.madisyn@madisonps.org,Mrs. Schaefer,Madisyn,Schaefer,Mrs. Mosley|Mrs. Huynh|Mr. Miles
+66,5:34:34 AM,reed.jayla@madisonps.org,Mr. Reed,Jayla,Reed,Mrs. Wall|Mr. Braun|Mr. Young|Mr. Reed
+67,8:28:02 PM,gillespie.yoselin@madisonps.org,Mr. Gillespie,Yoselin,Gillespie,Mr. Edwards|Mr. Mcfarland|Mrs. Chang
+68,3:51:18 PM,flynn.jose@madisonps.org,Mrs. Flynn,Jose,Flynn,Mr. Merritt|Mrs. Chandler|Mrs. Sanchez|Mrs. Mcmillan|Mrs. Kane
+69,6:19:19 PM,cook.abraham@madisonps.org,Mr. Cook,Abraham,Cook,Mrs. Chandler|Mrs. Hickman|Mrs. Luna|Mr. Edwards|Mrs. Holt
+70,9:05:46 AM,morrow.gabriel@madisonps.org,Mr. Morrow,Gabriel,Morrow,Mrs. Francis|Mr. Edwards|Mr. Livingston|Mr. Terrell|Mr. Miles
+71,2:56:38 PM,vazquez.ashlynn@madisonps.org,Mr. Vazquez,Ashlynn,Vazquez,Mrs. Chandler|Mrs. Lawson|Mrs. Holt|Mr. Lucero|Mr. Huffman
+72,6:25:40 PM,farmer.kira@madisonps.org,Mr. Farmer,Kira,Farmer,Mrs. Drake
+73,4:07:14 AM,collins.arjun@madisonps.org,Mr. Collins,Arjun,Collins,Mr. Miles|Mr. Carey
+74,6:42:52 PM,strong.karma@madisonps.org,Mrs. Strong,Karma,Strong,Mr. Mcguire|Mr. Carey|Mrs. Lawson|Mr. Webb|Mrs. Lawson
+75,7:52:03 AM,webb.kayla@madisonps.org,Mr. Webb,Kayla,Webb,Mr. Merritt|Mrs. Chang|Mr. Vazquez
+76,10:06:51 PM,braun.dakota@madisonps.org,Mrs. Braun,Dakota,Braun,Mrs. Luna|Mr. Merritt|Mrs. Drake|Mr. Vazquez
+77,1:02:13 AM,edwards.colby@madisonps.org,Mr. Edwards,Colby,Edwards,Mrs. Holt|Mr. Richmond|Mrs. Conley
+78,3:46:42 AM,drake.maren@madisonps.org,Mrs. Drake,Maren,Drake,Mrs. Pugh|Mr. Patrick|Mr. Livingston|Mrs. Pugh|Mr. Reed
+79,3:31:11 PM,floyd.tyrese@madisonps.org,Mr. Floyd,Tyrese,Floyd,Mr. Edwards|Mr. Hester|Mr. Floyd|Mrs. Harvey|Mr. Gentry
+80,8:55:39 AM,dorsey.tristan@madisonps.org,Mr. Dorsey,Tristan,Dorsey,Mr. Roberts|Mr. Suarez|Mrs. Sanchez|Mrs. Gutierrez|Mrs. Hickman
+81,11:57:18 AM,montoya.jalen@madisonps.org,Mr. Montoya,Jalen,Montoya,Mrs. Wood|Mr. Collins|Mrs. Mcmillan|Mr. Carey|Mr. Webb
+82,3:42:54 AM,rose.khloe@madisonps.org,Mr. Rose,Khloe,Rose,Mr. Lowe
+83,10:38:10 AM,graham.gina@madisonps.org,Mr. Graham,Gina,Graham,Mrs. Huynh|Mr. Marshall
+84,2:01:40 PM,costa.jan@madisonps.org,Mr. Costa,Jan,Costa,Mrs. Holt|Mrs. Kane|Mr. Gonzales|Mr. Gonzales|Mrs. Maddox
+85,1:03:19 AM,rollins.kale@madisonps.org,Mrs. Rollins,Kale,Rollins,Mr. Roberts|Mrs. Hickman|Mr. Campbell
+86,9:49:03 AM,king.edgar@madisonps.org,Mr. King,Edgar,King,Mrs. Rollins|Mrs. Chavez|Mrs. Huynh|Mr. Morrow
+87,1:32:02 AM,francis.macie@madisonps.org,Mrs. Francis,Macie,Francis,Mrs. Mcmillan|Mr. Thompson|Mrs. Hahn
+88,11:26:52 AM,gonzales.laney@madisonps.org,Mr. Gonzales,Laney,Gonzales,Mrs. Wade|Mrs. Pugh|Mr. Roberts|Mr. Montoya|Mrs. Luna
+89,10:19:41 PM,holt.eric@madisonps.org,Mrs. Holt,Eric,Holt,Mrs. Solomon|Mrs. Solomon|Mr. Costa|Mrs. Conley|Mrs. Solomon
+90,11:53:51 PM,frazier.jack@madisonps.org,Mr. Frazier,Jack,Frazier,Mrs. Harvey|Mrs. Reid|Mrs. Conley|Mr. Gonzales|Mrs. Hickman
+91,2:16:33 PM,mcfarland.edith@madisonps.org,Mr. Mcfarland,Edith,Mcfarland,Mr. Dalton|Mr. Carey|Mrs. Hunt|Mrs. Huynh|Mr. Floyd
+92,12:22:44 PM,pollard.aleena@madisonps.org,Mrs. Pollard,Aleena,Pollard,Mrs. Reid
+93,10:12:54 AM,luna.charlize@madisonps.org,Mrs. Luna,Charlize,Luna,Mr. Mcfarland|Mrs. Conley
+94,8:52:22 PM,gentry.claire@madisonps.org,Mr. Gentry,Claire,Gentry,Mrs. Wade|Mrs. Reid|Mrs. Maddox|Mrs. Mcmillan|Mrs. Hunt
+95,9:59:51 AM,kane.jessie@madisonps.org,Mrs. Kane,Jessie,Kane,Mr. Richmond|Mr. Gonzales|Mrs. Savage

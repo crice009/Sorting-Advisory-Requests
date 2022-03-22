@@ -30,6 +30,11 @@ def findIDbyLookupName(list, request):
         if request == individual.lookupName:
             return int(individual.id)
 
+def findPersonByID(list, request):
+    for person in list:
+        if person.id == request:
+            return person
+
 #
 #   The following function is a bit of a monolith.
 #   It's goal is to sort all the form data into the
