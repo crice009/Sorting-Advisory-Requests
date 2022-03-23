@@ -85,27 +85,32 @@ print("from partition-networkx libray:")
 import community ## this is the python-louvain package which can be pip installed 
 import partition_networkx
 ml = community.best_partition(G)
-ec = community.ecg(G, ens_size=20) 
+ec = community.ecg(G, ens_size=10) 
 
 # print(ml)
+# groups = ec.partition
+groups = ml
 color_map=[]
 num_partitions = 0
-for n in ml:
-    if ml[n] > num_partitions:
-        num_partitions = ml[n]
-    if ml[n] == 0:
+for group in groups:
+    if groups[group] > num_partitions:
+        num_partitions = groups[group]
+    if groups[group] == 0:
         hue='#00ff00'
-    if ml[n] == 1:
+    if groups[group] == 1:
         hue='#ff0000'
-    if ml[n] == 2:
+    if groups[group] == 2:
         hue='#0000ff'
-    if ml[n] == 3:
+    if groups[group] == 3:
         hue='#ffff00'
+    if groups[group] == 4:
+        hue='#00ffff'
+    if groups[group] == 5:
+        hue='#ff00ff'
     color_map.append(hue)
 
 print("\t",num_partitions+1," automatically generated partitions")
-# print(ml)
-# print(ec[0]) #<--- this could use some more investigation...
+# print(groups) #<--- this could use some more investigation...
 
 # print("\tAdjusted Graph-Aware Rand Index for Louvain:",G.gam(G, ml))
 # print("\tAdjusted Graph-Aware Rand Index for ecg:",G.gam(G, ec.partition))
