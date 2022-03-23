@@ -5,7 +5,9 @@ from setup import *
 # /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
 #/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
 #convert the imported files into reasonable data tables
-buildBaseTables()
+# buildBaseTables()
+buildClusterTable()
+buildForeignKeys()
 # simpleTeaTea()
 
 # ##########################################################################
@@ -56,30 +58,65 @@ G = nx.Graph() #nondirectional graph
 # print(grid)
 #---------------------------------------------
 
-G.add_nodes_from(teachers)
+#---- turns out: nodes implied from edges ------- don't need these -------------
+# G.add_nodes_from(teachers)
 # print (G.number_of_nodes(), " nodes present")
 # print(G)
 
 for teacher in teachers:
     for tea in teacher.teachers:
         if tea is not None:
-            id = findIDbyLookupName(teachers, tea)
-            x = findPersonByID(teachers, id)
-            G.add_edge(teacher, x)
+            x = findPersonByID(teachers, tea)
+            # G.add_edge(teacher, x)
+            if x != teacher:
+                G.add_edge(teacher, x)
 
 # print (G.number_of_edges(), " edges present")
-print(G)
+print("\t",G)
 
-# nx.clustering(G)
-max_clique = []
-for person in nx.algorithms.approximation.clique.max_clique(G):
-    max_clique.append(person.fullname)
-print("Approximate max clique:",max_clique)    
+# # nx.clustering(G)
+# max_clique = []
+# for person in nx.algorithms.approximation.clique.max_clique(G):
+#     max_clique.append(person.fullname)
+# print("Approximate max clique:",max_clique)    
+
+#taken from partition-networkx tutorial on pip page
+print("from partition-networkx libray:")
+import community ## this is the python-louvain package which can be pip installed 
+import partition_networkx
+ml = community.best_partition(G)
+ec = community.ecg(G, ens_size=20) 
+
+# print(ml)
+color_map=[]
+num_partitions = 0
+for n in ml:
+    if ml[n] > num_partitions:
+        num_partitions = ml[n]
+    if ml[n] == 0:
+        hue='#00ff00'
+    if ml[n] == 1:
+        hue='#ff0000'
+    if ml[n] == 2:
+        hue='#0000ff'
+    if ml[n] == 3:
+        hue='#ffff00'
+    color_map.append(hue)
+
+print("\t",num_partitions+1," automatically generated partitions")
+# print(ml)
+# print(ec[0]) #<--- this could use some more investigation...
+
+# print("\tAdjusted Graph-Aware Rand Index for Louvain:",G.gam(G, ml))
+# print("\tAdjusted Graph-Aware Rand Index for ecg:",G.gam(G, ec.partition))
+
+# print("\n\tJaccard Graph-Aware for Louvain:",G.gam(G, ml, method="jaccard",adjusted=False))
+# print("\tJaccard Graph-Aware for ecg:",G.gam(G, ec.partition, method="jaccard",adjusted=False))
 
 #---------------------------------------------
 # Draw the picture of the graph
-nx.draw(G, node_size=50)
-plt.savefig("graph.png",dpi=300)
+nx.draw(G, node_color=color_map, node_size=50)
+plt.savefig("graph.png",dpi=200)
 #---------------------------------------------
 
 
@@ -87,7 +124,21 @@ plt.savefig("graph.png",dpi=300)
 #   https://pypi.org/project/partition-networkx/
 
 
+# following these instructions: 
+#   https://www.geeksforgeeks.org/python-clustering-connectivity-and-other-graph-properties-using-networkx/
+# #------- only undirected graph -----------------------
+# print(nx.is_connected(G))
+# for n in list(nx.connected_components(G)): #this catches all that are even slightly connected.
+#     count = 0
+#     print(n)
+#     for j in n:
+#         count += 1
+#     print(count, " items in connected 'clique'")
 
+print("\t average short path between two nodes: ",nx.average_shortest_path_length(G))
+
+# try this: https://www.geeksforgeeks.org/operations-on-graph-and-special-graphs-using-networkx-module-python/?ref=lbp
+# should probably make a dataset with two or three obvious cliques for a "barbell" graph
 
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /

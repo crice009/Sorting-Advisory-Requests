@@ -69,6 +69,21 @@ def buildBaseTables():
         print("\t", len(teachers), "\tunique Teacher-s in 'teachers' array")
         # print("\t\t\tex:", teachers[random.randrange(1,len(teachers))].__dict__)
 
+def buildClusterTable():
+    with open('clique-teachers.csv') as csvfile:
+        teacherReader = csv.DictReader(csvfile, delimiter=',')
+        #------------- main teachers objects & array ----------------------
+        for row in teacherReader:
+            teachers.append(Teacher(**row))
+            teachers[-1].id = int(teachers[-1].id)
+            teachers[-1].makeTeachersRequestArray()
+            teachers[-1].lookupName = simpleFullName(teachers[-1].fullname)
+
+        # maybe go back here, and change the name-arrays into foreign keys
+                #or in the functions below...
+        print("\t", len(teachers), "\tunique Teacher-s in 'teachers' array")
+        # print("\t\t\tex:", teachers[random.randrange(1,len(teachers))].__dict__)
+
 #/\/\/\/\/\ foreign keys setup \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 def buildForeignKeys():
     #Change Friend/Teacher Request Arrays to foreign keys
