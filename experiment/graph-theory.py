@@ -6,11 +6,10 @@ from setup import *
 #/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
 #convert the imported files into reasonable data tables
 buildBaseTables()
-#buildForeignKeys()
-#buildSecondaryTables()
+# simpleTeaTea()
 
 # ##########################################################################
-# students = [] #array of all the unique student data
+# teachers = [] #array of all the unique student data
 #     #OBJ-format ==>> id | timestamp | email | fullname | firstname | surname | friends[FK] | teachers[FK] | lookupName
 # teachers = [] #array of all the unique teacher data
 #     #OBJ-format ==>> id | timestamp | email | fullname | firstname | surname | teachers[FK] | lookupName
@@ -40,28 +39,76 @@ buildBaseTables()
     # definitely this --> https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
     # using networkx library...
 
-    
 import networkx as nx
 import matplotlib.pyplot as plt
-G = nx.Graph()
+import math
+# G = nx.DiGraph() #directional graph
+G = nx.Graph() #nondirectional graph
 
-G.add_nodes_from(students)
-print (G.number_of_nodes(), " nodes present")
+#---------------------------------------------
+# test grid for positional drawing
+#
+# grid=[]
+# dimension = int(math.sqrt(len(teachers)+4))
+# for x in range(0,dimension):
+#     for y in range(0,dimension):
+#         grid.append([x,y])
+# print(grid)
+#---------------------------------------------
 
-for student in students:
-    for friend in student.friends:
-        #print("\t",student.id,"\t",edge)
-        if friend is not None:
-            findPersonByID(students, friend)
-            G.add_edge(student, friend)
+G.add_nodes_from(teachers)
+# print (G.number_of_nodes(), " nodes present")
+# print(G)
 
-print (G.number_of_edges(), " edges present")
+for teacher in teachers:
+    for tea in teacher.teachers:
+        if tea is not None:
+            id = findIDbyLookupName(teachers, tea)
+            x = findPersonByID(teachers, id)
+            G.add_edge(teacher, x)
+
+# print (G.number_of_edges(), " edges present")
+print(G)
 
 # nx.clustering(G)
+max_clique = []
+for person in nx.algorithms.approximation.clique.max_clique(G):
+    max_clique.append(person.fullname)
+print("Approximate max clique:",max_clique)    
 
-print(nx.algorithms.approximation.clique.max_clique(G))
+#---------------------------------------------
+# Draw the picture of the graph
+nx.draw(G, node_size=50)
+plt.savefig("graph.png",dpi=300)
+#---------------------------------------------
 
 
-#test drawing
-nx.draw(G)
-plt.savefig("graph.png")
+# Thinking this might work: 
+#   https://pypi.org/project/partition-networkx/
+
+
+
+
+#\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
+# \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
+#  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
+#-------------------------------------------------------------------------------------------
+# first attempt at 'communities'  || https://www.youtube.com/watch?v=PIVx1oedv2o&ab_channel=RoelVandePaar
+#
+# spring_pos = nx.spring_layout(G)
+# parts = nx.best_partition(G)
+# values = [parts.get(node) for node in G.nodes()]
+# nx.draw(G, pos=spring_pos, cmap=plt.get_cmap("jet"), node_color=values, node_size=50)
+# plt.savefig("graph.png",dpi=300)
+#-------------------------------------------------------------------------------------------
+
+#-------------------------------------------------------------------------------------------
+# trying to use cliques to find breakdowns || https://networkx.org/documentation/stable/reference/algorithms/clique.html?highlight=cliques
+#
+# for i in nx.find_cliques(G):
+#     clique = []
+#     for j in i:
+#         clique.append(j.fullname)
+#     print(clique)
+#     # print("\n")
+#-------------------------------------------------------------------------------------------

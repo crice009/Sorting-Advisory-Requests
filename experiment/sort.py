@@ -23,11 +23,6 @@ buildSecondaryTables()
 #     #OBJ-format ==>> id | teacher1 [FK] | teacher2 [FK]
 # ##########################################################################
 
-stuRequestWeight = []
-teaRequestWeight = []
-protoClasses = [] #before building classes
-classes = [] #array of all the classes 
-
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
 #  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
