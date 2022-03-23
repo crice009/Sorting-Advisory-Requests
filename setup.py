@@ -54,7 +54,7 @@ def buildBaseTables():
         teacherReader = csv.DictReader(csvfile, delimiter=',')
         #------------- main teachers objects & array ----------------------
         for row in teacherReader:
-            teachers.append(Student(**row))
+            teachers.append(Teacher(**row))
             teachers[-1].id = int(teachers[-1].id)
             teachers[-1].makeTeachersRequestArray()
             teachers[-1].lookupName = simpleFullName(teachers[-1].fullname)
