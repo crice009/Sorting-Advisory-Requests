@@ -5,24 +5,9 @@ from setup import *
 # /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
 #/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
 #convert the imported files into reasonable data tables
-# buildBaseTables()
+# buildBaseTables() #vestigial line
 buildClusterTable()
 buildForeignKeys()
-# simpleTeaTea()
-
-# ##########################################################################
-# teachers = [] #array of all the unique student data
-#     #OBJ-format ==>> id | timestamp | email | fullname | firstname | surname | friends[FK] | teachers[FK] | lookupName
-# teachers = [] #array of all the unique teacher data
-#     #OBJ-format ==>> id | timestamp | email | fullname | firstname | surname | teachers[FK] | lookupName
-# ##########################################################################
-# stu_stu  = [] #array of all requested student pairs
-#     #OBJ-format ==>> id | student1 [FK] | student2 [FK]
-# stu_tea  = [] #array of all requested student-teacher pairs
-#     #OBJ-format ==>> id | student [FK] | teacher [FK] 
-# tea_tea  = [] #array of all requested teacher pairs
-#     #OBJ-format ==>> id | teacher1 [FK] | teacher2 [FK]
-# ##########################################################################
 
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
@@ -39,29 +24,15 @@ buildForeignKeys()
     # http://theory.stanford.edu/~nmishra/Papers/clusteringSocialNetworks.pdf
     # probably this --> https://www.cse.msu.edu/~cse802/S17/slides/Lec_20_21_22_Clustering.pdf
     # definitely this --> https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
-    # using networkx library...
+    # using 'networkx' & 'community' library for access to graph-data models & python-louvain partitioning methods
+    # try this: https://www.geeksforgeeks.org/operations-on-graph-and-special-graphs-using-networkx-module-python/?ref=lbp
+    # should probably make a dataset with two or three obvious cliques for a "barbell" graph
 
 import networkx as nx
 import matplotlib.pyplot as plt
 import math
 # G = nx.DiGraph() #directional graph
 G = nx.Graph() #nondirectional graph
-
-#---------------------------------------------
-# test grid for positional drawing
-#
-# grid=[]
-# dimension = int(math.sqrt(len(teachers)+4))
-# for x in range(0,dimension):
-#     for y in range(0,dimension):
-#         grid.append([x,y])
-# print(grid)
-#---------------------------------------------
-
-#---- turns out: nodes implied from edges ------- don't need these -------------
-# G.add_nodes_from(teachers)
-# print (G.number_of_nodes(), " nodes present")
-# print(G)
 
 for teacher in teachers:
     for tea in teacher.teachers:
@@ -71,100 +42,62 @@ for teacher in teachers:
             if x != teacher:
                 G.add_edge(teacher, x)
 
-# print (G.number_of_edges(), " edges present")
 print("\t",G)
 
-# # nx.clustering(G)
-# max_clique = []
-# for person in nx.algorithms.approximation.clique.max_clique(G):
-#     max_clique.append(person.fullname)
-# print("Approximate max clique:",max_clique)    
-
 #taken from partition-networkx tutorial on pip page
-print("from partition-networkx libray:")
-import community ## this is the python-louvain package which can be pip installed 
-import partition_networkx
-ml = community.best_partition(G)
-ec = community.ecg(G, ens_size=10) 
+print("\tFrom the imported partitioning libray:")
+import community #https://github.com/taynaud/python-louvain
+max_res = 0.2*len(G.nodes) #about as high as it seems to be stable
+low_res = 1.0 #also the default value
+ml = community.best_partition(G,resolution=low_res) #the resolution seems like it can be anywhere from 1.0 to 0.2n
+import partition_networkx #https://github.com/ftheberge/graph-partition-and-measures  https://pypi.org/project/partition-networkx/
+# ec = community.ecg(G, ens_size=10) 
+# ec = community.ecg(G) 
 
-# print(ml)
-# groups = ec.partition
-groups = ml
+hues=['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080']
+
+groups = ml #this is a dictionary | keys are nodes, vals are partition number
+# groups = ec.partition #this is the ml equivalent dictionary, processed by another alrogithm
 color_map=[]
+labeldict={}
 num_partitions = 0
 for group in groups:
     if groups[group] > num_partitions:
         num_partitions = groups[group]
-    if groups[group] == 0:
-        hue='#00ff00'
-    if groups[group] == 1:
-        hue='#ff0000'
-    if groups[group] == 2:
-        hue='#0000ff'
-    if groups[group] == 3:
-        hue='#ffff00'
-    if groups[group] == 4:
-        hue='#00ffff'
-    if groups[group] == 5:
-        hue='#ff00ff'
-    color_map.append(hue)
+    # print(groups[group])
+    color_map.append(
+        hues[groups[group] % len(hues)])
+    labeldict[group] = groups[group]
 
 print("\t",num_partitions+1," automatically generated partitions")
 # print(groups) #<--- this could use some more investigation...
 
-# print("\tAdjusted Graph-Aware Rand Index for Louvain:",G.gam(G, ml))
-# print("\tAdjusted Graph-Aware Rand Index for ecg:",G.gam(G, ec.partition))
-
-# print("\n\tJaccard Graph-Aware for Louvain:",G.gam(G, ml, method="jaccard",adjusted=False))
-# print("\tJaccard Graph-Aware for ecg:",G.gam(G, ec.partition, method="jaccard",adjusted=False))
-
 #---------------------------------------------
 # Draw the picture of the graph
-nx.draw(G, node_color=color_map, node_size=50)
+nx.draw(G, node_color=color_map, node_size=175, labels=labeldict, with_labels = True)
 plt.savefig("graph.png",dpi=200)
 #---------------------------------------------
 
-
-# Thinking this might work: 
-#   https://pypi.org/project/partition-networkx/
-
-
-# following these instructions: 
-#   https://www.geeksforgeeks.org/python-clustering-connectivity-and-other-graph-properties-using-networkx/
-# #------- only undirected graph -----------------------
-# print(nx.is_connected(G))
-# for n in list(nx.connected_components(G)): #this catches all that are even slightly connected.
-#     count = 0
-#     print(n)
-#     for j in n:
-#         count += 1
-#     print(count, " items in connected 'clique'")
-
-print("\t average short path between two nodes: ",nx.average_shortest_path_length(G))
-
-# try this: https://www.geeksforgeeks.org/operations-on-graph-and-special-graphs-using-networkx-module-python/?ref=lbp
-# should probably make a dataset with two or three obvious cliques for a "barbell" graph
+print("\t average shortest path between two nodes: ",nx.average_shortest_path_length(G))
 
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
 #  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
 #-------------------------------------------------------------------------------------------
-# first attempt at 'communities'  || https://www.youtube.com/watch?v=PIVx1oedv2o&ab_channel=RoelVandePaar
-#
-# spring_pos = nx.spring_layout(G)
-# parts = nx.best_partition(G)
-# values = [parts.get(node) for node in G.nodes()]
-# nx.draw(G, pos=spring_pos, cmap=plt.get_cmap("jet"), node_color=values, node_size=50)
-# plt.savefig("graph.png",dpi=300)
-#-------------------------------------------------------------------------------------------
+# # #test to see how the resolution of the Function impacts things...
+# partition_resolution_pattern=[]
+# from tqdm import tqdm
+# for i in tqdm(range(1,len(G.nodes)*10)):
+#     res = i/20
+#     nodes_dict = community.best_partition(G,resolution=res)
+#     #nodes_dict = community.ecg(G, ens_size=int(res*20)).partition
 
-#-------------------------------------------------------------------------------------------
-# trying to use cliques to find breakdowns || https://networkx.org/documentation/stable/reference/algorithms/clique.html?highlight=cliques
-#
-# for i in nx.find_cliques(G):
-#     clique = []
-#     for j in i:
-#         clique.append(j.fullname)
-#     print(clique)
-#     # print("\n")
-#-------------------------------------------------------------------------------------------
+#     new_parts = 0
+#     for node in nodes_dict:
+#         if nodes_dict[node] > new_parts:
+#             new_parts = nodes_dict[node]
+#     partition_resolution_pattern.append([res,new_parts])
+
+# for i in partition_resolution_pattern:
+#     plt.scatter(i[0],i[1])
+# plt.show()
