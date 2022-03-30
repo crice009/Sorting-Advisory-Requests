@@ -1,20 +1,14 @@
 from objects import *
-from setup import *
+from functions import *
 
-#  /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\
-# /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
-#/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
-#convert the imported files into reasonable data tables
-# buildBaseTables() #vestigial line
-buildClusterTable()
-buildForeignKeys()
+classSize = 24 #the number of students we want in a class
+partitioning_resolution = 1 #number take from testing function output
 
 #\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
 # \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
 #  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
 #this is where the sorting happens
     # Collected Ideas below:
-    #
     # https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68#:~:text=Given%20a%20set%20of%20data,dissimilar%20properties%20and%2For%20features.
     # https://machinelearningmastery.com/clustering-algorithms-with-python/
     # https://homes.cs.washington.edu/~etzioni/papers/www8.pdf
@@ -28,6 +22,19 @@ buildForeignKeys()
     # try this: https://www.geeksforgeeks.org/operations-on-graph-and-special-graphs-using-networkx-module-python/?ref=lbp
     # should probably make a dataset with two or three obvious cliques for a "barbell" graph
 
+
+#  /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\
+# /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
+#/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
+#convert the imported files into reasonable data tables
+# buildBaseTables() #vestigial line
+buildClusterTable() #from more broken-up data (to mock real life)
+buildForeignKeys()  #for (maybe) faster lookups
+
+#  /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\
+# /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
+#/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
+#Build the Graph-Data set from the tables that were just made
 import networkx as nx
 import matplotlib.pyplot as plt
 import math
@@ -42,14 +49,20 @@ for teacher in teachers:
             if x != teacher:
                 G.add_edge(teacher, x)
 
+# summary of the Graph-Data
 print("\t",G)
+# this one is an interesting tidbit of Graph Theory
+print("\t average shortest path between two nodes: ",nx.average_shortest_path_length(G))
 
-#taken from partition-networkx tutorial on pip page
-print("\tFrom the imported partitioning libray:")
+#  /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\
+# /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
+#/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
+#Use the Graph data, and some libraries to sort into communities
+# taken from partition-networkx tutorial on pip page
+print("--------From Networkx & Louvain-Community:")
 import community #https://github.com/taynaud/python-louvain
-max_res = 0.2*len(G.nodes) #about as high as it seems to be stable
-low_res = 1.0 #also the default value
-ml = community.best_partition(G,resolution=low_res) #the resolution seems like it can be anywhere from 1.0 to 0.2n
+print("\tFor community.best_partition resolution max is:",0.2*len(G.nodes), "min is: 1.0")
+ml = community.best_partition(G,resolution=partitioning_resolution) #the resolution seems like it can be anywhere from 1.0 to 0.2n
 import partition_networkx #https://github.com/ftheberge/graph-partition-and-measures  https://pypi.org/project/partition-networkx/
 # ec = community.ecg(G, ens_size=10) 
 # ec = community.ecg(G) 
@@ -76,28 +89,12 @@ print("\t",num_partitions+1," automatically generated partitions")
 # Draw the picture of the graph
 nx.draw(G, node_color=color_map, node_size=175, labels=labeldict, with_labels = True)
 plt.savefig("graph.png",dpi=200)
+plt.figure().clear() #so the saved and displayed graph don't overlap "clear"
 #---------------------------------------------
 
-print("\t average shortest path between two nodes: ",nx.average_shortest_path_length(G))
-
-#\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /
-# \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /
-#  \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/
-#-------------------------------------------------------------------------------------------
-# # #test to see how the resolution of the Function impacts things...
-# partition_resolution_pattern=[]
-# from tqdm import tqdm
-# for i in tqdm(range(1,len(G.nodes)*10)):
-#     res = i/20
-#     nodes_dict = community.best_partition(G,resolution=res)
-#     #nodes_dict = community.ecg(G, ens_size=int(res*20)).partition
-
-#     new_parts = 0
-#     for node in nodes_dict:
-#         if nodes_dict[node] > new_parts:
-#             new_parts = nodes_dict[node]
-#     partition_resolution_pattern.append([res,new_parts])
-
-# for i in partition_resolution_pattern:
-#     plt.scatter(i[0],i[1])
-# plt.show()
+#  /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\    /\
+# /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \  /  \
+#/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \/    \
+#test to find the best resolution to use 
+print("testing for optimal match between resolution (X) and avg class size(Y)")
+graphOptimalResolutions(G)

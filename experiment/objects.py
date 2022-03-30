@@ -22,33 +22,3 @@ class Student(Person):
 class Teacher(Person):
     def intentionallybBlank():
         return
-
-
-class Relationship:
-    id = 0
-
-class Stu_Stu(Relationship):
-    def __init__(self, student_1, student_2):
-        self.student1 = student_1
-        self.student2 = student_2
-
-class Stu_Tea(Relationship):
-    def __init__(self, student, teacher):
-        self.student = student
-        self.teacher = teacher
-
-class Tea_Tea(Relationship):
-    def __init__(self, teacher_1, teacher_2):
-        self.teacher1 = teacher_1
-        self.teacher2 = teacher_2
-
-class Class(Relationship):
-    def __init__(self) -> None:
-        super().__init__()
-        #will add the classroom number later...
-
-class ClassMember(Relationship):
-    def __init__(self, id, section, role):
-        self.person = id 
-        self.section = section
-        self.role = bool(role) #true if teacher / false if student
